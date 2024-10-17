@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20241017" generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson">
+  <channel id="AMC.br">
+    <display-name>AMC</display-name>
+  </channel>
+  <channel id="AnimalPlanet.br">
+    <display-name>Animal Planet</display-name>
+  </channel>
+  <programme start="20241017190000 +0000" stop="20241017210000 +0000" channel="AMC.br">
+    <title lang="pt">As Branquelas</title>
+  </programme>
+  <programme start="20241017210000 +0000" stop="20241017232000 +0000" channel="AMC.br">
+    <title lang="pt">Desterro</title>
+  </programme>
+  <programme start="20241017232000 +0000" stop="20241018010000 +0000" channel="AMC.br">
+    <title lang="pt">Rocky IV</title>
+  </programme>
+  <programme start="20241018010000 +0000" stop="20241018025500 +0000" channel="AMC.br">
+    <title lang="pt">Rocky V</title>
+  </programme>
+  <programme start="20241018025500 +0000" stop="20241018035500 +0000" channel="AMC.br">
+    <title lang="pt">The Walking Dead: Daryl Dixon : T1 EP3 - Paris Sera Toujours Paris</title>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+  </programme>
+  <programme start="20241018035500 +0000" stop="20241018045500 +0000" channel="AMC.br">
+    <title lang="pt">Entrevista com o Vampiro de Anne Rice : T2 EP2 - Você Sabe o que Significa Ser Amado pela Morte</title>
+    <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+    <episode-num system="onscreen">S02E02</episode-num>
+  </programme>
+  <programme start="20241018045500 +0000" stop="20241018065000 +0000" channel="AMC.br">
+    <title lang="pt">Cópias - De Volta à Vida</title>
+  </programme>
+  <programme start="20241018065000 +0000" stop="20241018082500 +0000" channel="AMC.br">
+    <title lang="pt">Lute por Sua Vida</title>
+  </programme>
+  <programme start="20241018082500 +0000" stop="20241018090000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018090000 +0000" stop="20241018093000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018093000 +0000" stop="20241018100000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018100000 +0000" stop="20241018103000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018103000 +0000" stop="20241018110000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018110000 +0000" stop="20241018113000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018113000 +0000" stop="20241018120000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018120000 +0000" stop="20241018123000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018123000 +0000" stop="20241018130000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018130000 +0000" stop="20241018133000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018133000 +0000" stop="20241018140000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018140000 +0000" stop="20241018143000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241018143000 +0000" stop="20241018165000 +0000" channel="AMC.br">
+    <title lang="pt">Aline - A Voz do Amor</title>
+  </programme>
+  <programme start="20241018165000 +0000" stop="20241018185500 +0000" channel="AMC.br">
+    <title lang="pt">Thomas Crown - A Arte do Crime</title>
+  </programme>
+  <programme start="20241018185500 +0000" stop="20241018211000 +0000" channel="AMC.br">
+    <title lang="pt">Rocky</title>
+  </programme>
+  <programme start="20241018211000 +0000" stop="20241018230000 +0000" channel="AMC.br">
+    <title lang="pt">Elektra</title>
+  </programme>
+  <programme start="20241018230000 +0000" stop="20241019010000 +0000" channel="AMC.br">
+    <title lang="pt">Assassin's Creed</title>
+  </programme>
+  <programme start="20241019010000 +0000" stop="20241019030500 +0000" channel="AMC.br">
+    <title lang="pt">Passageiros</title>
+  </programme>
+  <programme start="20241019030500 +0000" stop="20241019040500 +0000" channel="AMC.br">
+    <title lang="pt">The Walking Dead: Daryl Dixon : T1 EP4 - La Dame de Fer</title>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+  </programme>
+  <programme start="20241019040500 +0000" stop="20241019051000 +0000" channel="AMC.br">
+    <title lang="pt">Entrevista com o Vampiro de Anne Rice : T2 EP3 - Sem Dor</title>
+    <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+    <episode-num system="onscreen">S02E03</episode-num>
+  </programme>
+  <programme start="20241019051000 +0000" stop="20241019071000 +0000" channel="AMC.br">
+    <title lang="pt">Passageiros</title>
+  </programme>
+  <programme start="20241019071000 +0000" stop="20241019091000 +0000" channel="AMC.br">
+    <title lang="pt">Amor e Outras Drogas</title>
+  </programme>
+  <programme start="20241019091000 +0000" stop="20241019093500 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241019093500 +0000" stop="20241019100000 +0000" channel="AMC.br">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20241019100000 +0000" stop="20241019103000 +0000" channel="AMC.br">
+    <title lang="pt">Making the Movies</title>
+  </programme>
+  <programme start="20241019103000 +0000" stop="20241019110000 +0000" channel="AMC.br">
+    <title lang="pt">Making the Movies</title>
+  </programme>
+  <programme start="20241019110000 +0000" stop="20241019112500 +0000" channel="AMC.br">
+    <title lang="pt">Making the Movies</title>
+  </programme>
+  <programme start="20241019112500 +0000" stop="20241019115000 +0000" channel="AMC.br">
+    <title lang="pt">Making the Movies</title>
+  </programme>
+  <programme start="20241019115000 +0000" stop="20241019135500 +0000" channel="AMC.br">
+    <title lang="pt">Passageiros</title>
+  </programme>
+  <programme start="20241019135500 +0000" stop="20241019163000 +0000" channel="AMC.br">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20241019163000 +0000" stop="20241019191500 +0000" channel="AMC.br">
+    <title lang="pt">Transformers - A Vingança dos Derrotados</title>
+  </programme>
+  <programme start="20241019191500 +0000" stop="20241019220000 +0000" channel="AMC.br">
+    <title lang="pt">Transformers - O Lado Oculto da Lua</title>
+  </programme>
+  <programme start="20241019220000 +0000" stop="20241020010000 +0000" channel="AMC.br">
+    <title lang="pt">Transformers - A Era da Extinção</title>
+  </programme>
+  <programme start="20241017200100 +0000" stop="20241017210100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP1 - Em Busca do Tigre de Bengala</title>
+    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
+    <episode-num system="onscreen">S03E01</episode-num>
+  </programme>
+  <programme start="20241017210100 +0000" stop="20241017212700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20241017212700 +0000" stop="20241017215300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20241017215300 +0000" stop="20241017224500 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP7 - Caçadores Caçados</title>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
+  </programme>
+  <programme start="20241017224500 +0000" stop="20241017233700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP8 - Aligátor x Cão</title>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
+  </programme>
+  <programme start="20241017233700 +0000" stop="20241018003100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP9 - Em Flagrante</title>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
+  </programme>
+  <programme start="20241018003100 +0000" stop="20241018012600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pit Bulls e Condenados : T15 EP10 - Você Está Livre</title>
+    <episode-num system="xmltv_ns">14.9.0/1</episode-num>
+    <episode-num system="onscreen">S15E10</episode-num>
+  </programme>
+  <programme start="20241018012600 +0000" stop="20241018022100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pit Bulls e Condenados : T16 EP6 - Derrocada</title>
+    <episode-num system="xmltv_ns">15.5.0/1</episode-num>
+    <episode-num system="onscreen">S16E06</episode-num>
+  </programme>
+  <programme start="20241018022100 +0000" stop="20241018031600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pit Bulls e Condenados : T16 EP3 - Resgate da Guerra</title>
+    <episode-num system="xmltv_ns">15.2.0/1</episode-num>
+    <episode-num system="onscreen">S16E03</episode-num>
+  </programme>
+  <programme start="20241018031600 +0000" stop="20241018041100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pit Bulls e Condenados : T15 EP5 - Fugindo da Morte</title>
+    <episode-num system="xmltv_ns">14.4.0/1</episode-num>
+    <episode-num system="onscreen">S15E05</episode-num>
+  </programme>
+  <programme start="20241018041100 +0000" stop="20241018050400 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Casas na Árvore : T11 EP3 - Nunca É Tarde Demais</title>
+    <episode-num system="xmltv_ns">10.2.0/1</episode-num>
+    <episode-num system="onscreen">S11E03</episode-num>
+  </programme>
+  <programme start="20241018050400 +0000" stop="20241018055600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Com Água até o Pescoço : T3 EP5 - O Amor é uma Ilusão</title>
+    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
+    <episode-num system="onscreen">S03E05</episode-num>
+  </programme>
+  <programme start="20241018055600 +0000" stop="20241018064800 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinários do Texas : T6 EP8 - Dia do Papai</title>
+    <episode-num system="xmltv_ns">5.7.0/1</episode-num>
+    <episode-num system="onscreen">S06E08</episode-num>
+  </programme>
+  <programme start="20241018064800 +0000" stop="20241018074000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T2 EP5 - Na Cova dos Leões</title>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <episode-num system="onscreen">S02E05</episode-num>
+  </programme>
+  <programme start="20241018074000 +0000" stop="20241018083200 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Meu Gato Endiabrado : T2 EP5 - Penny e Roxy</title>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <episode-num system="onscreen">S02E05</episode-num>
+  </programme>
+  <programme start="20241018083200 +0000" stop="20241018090000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Mistérios da Natureza : T1 EP9 - Animais Vândalos</title>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
+  </programme>
+  <programme start="20241018090000 +0000" stop="20241018092000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Espetaculares : T3 EP6 - Um Paraíso no Quintal</title>
+    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
+    <episode-num system="onscreen">S03E06</episode-num>
+  </programme>
+  <programme start="20241018092000 +0000" stop="20241018094000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Espetaculares : T3 EP7 - Piscina à Beira do Lago</title>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20241018094000 +0000" stop="20241018103500 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Com Água até o Pescoço : T4 EP2 - Vivendo e Aprendendo</title>
+    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
+    <episode-num system="onscreen">S04E02</episode-num>
+  </programme>
+  <programme start="20241018103500 +0000" stop="20241018112700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Casas na Árvore : T11 EP4 - Steelers na Árvore</title>
+    <episode-num system="xmltv_ns">10.3.0/1</episode-num>
+    <episode-num system="onscreen">S11E04</episode-num>
+  </programme>
+  <programme start="20241018112700 +0000" stop="20241018121900 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Incríveis : T3 EP2 - A Piscina dos Sonhos</title>
+    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <episode-num system="onscreen">S03E02</episode-num>
+  </programme>
+  <programme start="20241018121900 +0000" stop="20241018131300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP2 - Picada de Cobra</title>
+    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <episode-num system="onscreen">S03E02</episode-num>
+  </programme>
+  <programme start="20241018131300 +0000" stop="20241018141300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP3 - O Rei das Cobras</title>
+    <episode-num system="xmltv_ns">2.2.0/1</episode-num>
+    <episode-num system="onscreen">S03E03</episode-num>
+  </programme>
+  <programme start="20241018141300 +0000" stop="20241018151200 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP1 - O Jogo Começou</title>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme start="20241018151200 +0000" stop="20241018161300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP2 - Com a Boca na Botija</title>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme>
+  <programme start="20241018161300 +0000" stop="20241018171000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Tubarões no Paraíso</title>
+  </programme>
+  <programme start="20241018171000 +0000" stop="20241018180700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pesca Mortal : T17 EP4 - Máquina do Tempo</title>
+    <episode-num system="xmltv_ns">16.3.0/1</episode-num>
+    <episode-num system="onscreen">S17E04</episode-num>
+  </programme>
+  <programme start="20241018180700 +0000" stop="20241018190400 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pesca Mortal : T17 EP5 - Força Maior</title>
+    <episode-num system="xmltv_ns">16.4.0/1</episode-num>
+    <episode-num system="onscreen">S17E05</episode-num>
+  </programme>
+  <programme start="20241018190400 +0000" stop="20241018200100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP2 - Picada de Cobra</title>
+    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <episode-num system="onscreen">S03E02</episode-num>
+  </programme>
+  <programme start="20241018200100 +0000" stop="20241018210100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP3 - O Rei das Cobras</title>
+    <episode-num system="xmltv_ns">2.2.0/1</episode-num>
+    <episode-num system="onscreen">S03E03</episode-num>
+  </programme>
+  <programme start="20241018210100 +0000" stop="20241018215300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Histórias Animais : T1 EP2 - Os Segredos das Aves Dançarinas</title>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme>
+  <programme start="20241018215300 +0000" stop="20241018224500 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Dodo Heroes - Resgate sem Fronteiras</title>
+  </programme>
+  <programme start="20241018224500 +0000" stop="20241018233700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Dodo Heroes - Resgate sem Fronteiras : T2 EP2 - Fazenda Twist of Fate - Pôneis e Outros Resgates da Fazenda</title>
+    <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+    <episode-num system="onscreen">S02E02</episode-num>
+  </programme>
+  <programme start="20241018233700 +0000" stop="20241019003100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Dodo Heroes - Resgate sem Fronteiras : T2 EP3 - Elefantes Órfãos</title>
+    <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+    <episode-num system="onscreen">S02E03</episode-num>
+  </programme>
+  <programme start="20241019003100 +0000" stop="20241019012600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T1 EP10 - Milagres das Festas Natalinas</title>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+  </programme>
+  <programme start="20241019012600 +0000" stop="20241019022100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T2 EP1 - Nove Vidas</title>
+    <episode-num system="xmltv_ns">1.0.0/1</episode-num>
+    <episode-num system="onscreen">S02E01</episode-num>
+  </programme>
+  <programme start="20241019022100 +0000" stop="20241019031600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T2 EP4 - Cuidado com o Gato</title>
+    <episode-num system="xmltv_ns">1.3.0/1</episode-num>
+    <episode-num system="onscreen">S02E04</episode-num>
+  </programme>
+  <programme start="20241019031600 +0000" stop="20241019041100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T2 EP2 - Alta Temperatura</title>
+    <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+    <episode-num system="onscreen">S02E02</episode-num>
+  </programme>
+  <programme start="20241019041100 +0000" stop="20241019050400 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Casas na Árvore : T11 EP4 - Steelers na Árvore</title>
+    <episode-num system="xmltv_ns">10.3.0/1</episode-num>
+    <episode-num system="onscreen">S11E04</episode-num>
+  </programme>
+  <programme start="20241019050400 +0000" stop="20241019055600 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Com Água até o Pescoço : T4 EP2 - Vivendo e Aprendendo</title>
+    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
+    <episode-num system="onscreen">S04E02</episode-num>
+  </programme>
+  <programme start="20241019055600 +0000" stop="20241019064800 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinários do Texas : T1 EP1 - Desafios em Houston</title>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme start="20241019064800 +0000" stop="20241019074000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Veterinário das Montanhas : T2 EP6 - Missão no México</title>
+    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+    <episode-num system="onscreen">S02E06</episode-num>
+  </programme>
+  <programme start="20241019074000 +0000" stop="20241019083200 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Meu Gato Endiabrado : T2 EP6 - Cuspindo Raiva</title>
+    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+    <episode-num system="onscreen">S02E06</episode-num>
+  </programme>
+  <programme start="20241019083200 +0000" stop="20241019090000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Mistérios da Natureza : T1 EP16 - Escorpiões Fluorescentes</title>
+    <episode-num system="xmltv_ns">0.15.0/1</episode-num>
+    <episode-num system="onscreen">S01E16</episode-num>
+  </programme>
+  <programme start="20241019090000 +0000" stop="20241019092000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Espetaculares : T3 EP8 - Um Projeto Desafiador</title>
+    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
+    <episode-num system="onscreen">S03E08</episode-num>
+  </programme>
+  <programme start="20241019092000 +0000" stop="20241019094000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Espetaculares : T3 EP9 - Piscina Encravada em Rocha</title>
+    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
+    <episode-num system="onscreen">S03E09</episode-num>
+  </programme>
+  <programme start="20241019094000 +0000" stop="20241019103500 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Com Água até o Pescoço : T3 EP7 - Projeto da Heather</title>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20241019103500 +0000" stop="20241019112700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Casas na Árvore : T11 EP8 - Pequenos Fuzileiros</title>
+    <episode-num system="xmltv_ns">10.7.0/1</episode-num>
+    <episode-num system="onscreen">S11E08</episode-num>
+  </programme>
+  <programme start="20241019112700 +0000" stop="20241019121900 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Piscinas Incríveis : T3 EP7 - Quintal Pequeno, Sonhos Grandes</title>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <episode-num system="onscreen">S03E07</episode-num>
+  </programme>
+  <programme start="20241019121900 +0000" stop="20241019131300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP4 - Cobra Show</title>
+    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
+    <episode-num system="onscreen">S03E04</episode-num>
+  </programme>
+  <programme start="20241019131300 +0000" stop="20241019141300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP5 - A Etapa Final</title>
+    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
+    <episode-num system="onscreen">S03E05</episode-num>
+  </programme>
+  <programme start="20241019141300 +0000" stop="20241019151200 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP4 - Calmaria antes da Tempestade</title>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+  </programme>
+  <programme start="20241019151200 +0000" stop="20241019161300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Patrulheiros da Natureza : T1 EP3 - Assassina de Corujas</title>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+  </programme>
+  <programme start="20241019161300 +0000" stop="20241019171000 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Tubarão-Branco - A Caçada</title>
+  </programme>
+  <programme start="20241019171000 +0000" stop="20241019180700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pesca Mortal : T17 EP6 - Zona Restrita</title>
+    <episode-num system="xmltv_ns">16.5.0/1</episode-num>
+    <episode-num system="onscreen">S17E06</episode-num>
+  </programme>
+  <programme start="20241019180700 +0000" stop="20241019190400 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Pesca Mortal : T17 EP7 - O que Phil Harris Faria?</title>
+    <episode-num system="xmltv_ns">16.6.0/1</episode-num>
+    <episode-num system="onscreen">S17E07</episode-num>
+  </programme>
+  <programme start="20241019190400 +0000" stop="20241019200100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP4 - Cobra Show</title>
+    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
+    <episode-num system="onscreen">S03E04</episode-num>
+  </programme>
+  <programme start="20241019200100 +0000" stop="20241019210100 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Perdido na Ásia : T3 EP5 - A Etapa Final</title>
+    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
+    <episode-num system="onscreen">S03E05</episode-num>
+  </programme>
+  <programme start="20241019210100 +0000" stop="20241019215300 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Puppy Bowl Presents: Puppy Mania</title>
+  </programme>
+  <programme start="20241019215300 +0000" stop="20241019224500 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">América Inexplorada</title>
+  </programme>
+  <programme start="20241019224500 +0000" stop="20241019233700 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">A Grande Limpeza Global com Zac Efron</title>
+  </programme>
+  <programme start="20241019233700 +0000" stop="20241020000400 +0000" channel="AnimalPlanet.br">
+    <title lang="pt">Minha Vida Animal : T1 EP2 - Aries Especial</title>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme>
+</tv>
