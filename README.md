@@ -59,7 +59,7 @@ _**.xml** 📄_
 
 3. [EPG Brasil 3](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml)
 
-
+4. [EPG Brasil 4](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml)
 
 _**.xml.gz** 📦_
 1. [EPG Brasil 1](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR1/guide.xml.gz)
@@ -68,7 +68,7 @@ _**.xml.gz** 📦_
 
 3. [EPG Brasil 3](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml.gz)
 
-
+4. [EPG Brasil 4](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml.gz)
 
 ---
 ## 🔄 **Atualizações**
