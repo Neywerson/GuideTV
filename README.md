@@ -52,23 +52,13 @@ Bem-vindo ao **EPG Brasil**! Aqui você encontrará uma vasta seleção de **Gui
 
 🔗 **Acesse os links EPG aqui**:
 
-_**.xml** 📄_
-1. [EPG Brasil 1](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR1/guide.xml)
+| _**.xml** 📄_ | _**.xml.gz** 📦_ |
+| --- | --- |
+|1. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR1/guide.xml)|1. [EPG Brasil ](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR1/guide.xml.gz)|
+|2. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml)|2. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml.gz)|
+|3. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml)|3. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml.gz)|
+|4. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml)|4. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml.gz)|
 
-2. [EPG Brasil 2](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml)
-
-3. [EPG Brasil 3](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml)
-
-4. [EPG Brasil 4](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml)
-
-_**.xml.gz** 📦_
-1. [EPG Brasil 1](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR1/guide.xml.gz)
-
-2. [EPG Brasil 2](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml.gz)
-
-3. [EPG Brasil 3](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml.gz)
-
-4. [EPG Brasil 4](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml.gz)
 
 
 
