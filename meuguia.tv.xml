@@ -306,12 +306,6 @@
   <channel id="WooHoo.br">
     <display-name>Woohoo</display-name>
   </channel>
-  <programme start="20250103145000 +0000" stop="20250103170000 +0000" channel="AMC.br">
-    <title lang="pt">Rocky</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103191500 +0000" channel="AMC.br">
-    <title lang="pt">Rocky II</title>
-  </programme>
   <programme start="20250103191500 +0000" stop="20250103211500 +0000" channel="AMC.br">
     <title lang="pt">Rocky III - O Desafio Supremo</title>
   </programme>
@@ -431,31 +425,6 @@
   </programme>
   <programme start="20250105224000 +0000" stop="20250106010000 +0000" channel="AMC.br">
     <title lang="pt">A Saga Crepúsculo - Lua Nova</title>
-  </programme>
-  <programme start="20250103144100 +0000" stop="20250103153900 +0000" channel="AnimalPlanet.br">
-    <title lang="pt">Meu Gato Endiabrado : T3 EP10 - Mordida</title>
-    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
-    <episode-num system="onscreen">S03E10</episode-num>
-  </programme>
-  <programme start="20250103153900 +0000" stop="20250103163900 +0000" channel="AnimalPlanet.br">
-    <title lang="pt">Meu Gato Endiabrado : T4 EP1 - Cego, Surdo e Mordedor</title>
-    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
-    <episode-num system="onscreen">S04E01</episode-num>
-  </programme>
-  <programme start="20250103163900 +0000" stop="20250103173400 +0000" channel="AnimalPlanet.br">
-    <title lang="pt">Veterinário das Montanhas : T2 EP10 - Uma Jornada</title>
-    <episode-num system="xmltv_ns">1.9.0/1</episode-num>
-    <episode-num system="onscreen">S02E10</episode-num>
-  </programme>
-  <programme start="20250103173400 +0000" stop="20250103182900 +0000" channel="AnimalPlanet.br">
-    <title lang="pt">Veterinário das Montanhas : T2 EP11 - Ponto de Virada</title>
-    <episode-num system="xmltv_ns">1.10.0/1</episode-num>
-    <episode-num system="onscreen">S02E11</episode-num>
-  </programme>
-  <programme start="20250103182900 +0000" stop="20250103192500 +0000" channel="AnimalPlanet.br">
-    <title lang="pt">Veterinários do Texas : T3 EP8 - Renovação em Las Vegas</title>
-    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
-    <episode-num system="onscreen">S03E08</episode-num>
   </programme>
   <programme start="20250103192500 +0000" stop="20250103202100 +0000" channel="AnimalPlanet.br">
     <title lang="pt">Veterinários do Texas : T3 EP3 - Papais Doutores</title>
@@ -752,22 +721,6 @@
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="Arte1.br">
-    <title lang="pt">Por Acaso : T3 EP1 - Filipe Catto, Cida Moreira e André Abujamra</title>
-    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
-    <episode-num system="onscreen">S03E01</episode-num>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="Arte1.br">
-    <title lang="pt">Tributo a Fela Kuti</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="Arte1.br">
-    <title lang="pt">Recife Frio</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="Arte1.br">
-    <title lang="pt">Insight : T2 EP7 - Yuri Vital</title>
-    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
-    <episode-num system="onscreen">S02E07</episode-num>
-  </programme>
   <programme start="20250103180000 +0000" stop="20250103200000 +0000" channel="Arte1.br">
     <title lang="pt">O Fantasma de Richard Harris</title>
   </programme>
@@ -995,31 +948,6 @@
     <title lang="pt">Especial Arte 1 : T6 EP23 - Máximo Soalheiro</title>
     <episode-num system="xmltv_ns">5.22.0/1</episode-num>
     <episode-num system="onscreen">S06E23</episode-num>
-  </programme>
-  <programme start="20250103145000 +0000" stop="20250103154000 +0000" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : T5 EP24 - Luapo'i</title>
-    <episode-num system="xmltv_ns">4.23.0/1</episode-num>
-    <episode-num system="onscreen">S05E24</episode-num>
-  </programme>
-  <programme start="20250103154000 +0000" stop="20250103163000 +0000" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : T5 EP25 - A Make Kaua</title>
-    <episode-num system="xmltv_ns">4.24.0/1</episode-num>
-    <episode-num system="onscreen">S05E25</episode-num>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103172000 +0000" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : T6 EP1 - Mai ho`oni i ka wai lana mâlie</title>
-    <episode-num system="xmltv_ns">5.0.0/1</episode-num>
-    <episode-num system="onscreen">S06E01</episode-num>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103181000 +0000" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : T6 EP2 - Lehu a Lehu</title>
-    <episode-num system="xmltv_ns">5.1.0/1</episode-num>
-    <episode-num system="onscreen">S06E02</episode-num>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103190000 +0000" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : T6 EP3 - Ua 'o'oloku ke anu i na mauna</title>
-    <episode-num system="xmltv_ns">5.2.0/1</episode-num>
-    <episode-num system="onscreen">S06E03</episode-num>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103195000 +0000" channel="AXN.br">
     <title lang="pt">Hawaii Five-0 : T6 EP4 - Ka Papahana Holo Pono</title>
@@ -1328,27 +1256,6 @@
     <title lang="pt">Hawaii Five-0 : T8 EP13 - O Ka Mea Ua Hala, Ua Hala Ia.</title>
     <episode-num system="xmltv_ns">7.12.0/1</episode-num>
     <episode-num system="onscreen">S08E13</episode-num>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103160000 +0000" channel="BabyTV.uk">
-    <title lang="pt">Arte, Atividades e Música</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="BabyTV.uk">
-    <title lang="pt">O Círculo de Amigos</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="BabyTV.uk">
-    <title lang="pt">O Mundo da Imaginação</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="BabyTV.uk">
-    <title lang="pt">Explorar com Babyhood</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="BabyTV.uk">
-    <title lang="pt">O Livro da Selva</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="BabyTV.uk">
-    <title lang="pt">Tutti Frutti</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="BabyTV.uk">
-    <title lang="pt">Arte, Atividades e Música</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="BabyTV.uk">
     <title lang="pt">O Círculo de Amigos</title>
@@ -1668,18 +1575,6 @@
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="BabyTV.uk">
     <title lang="pt">Música Clássica e Histórias Tranquilas</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103155000 +0000" channel="Band.br">
-    <title lang="pt">Os Donos da Bola</title>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103164000 +0000" channel="Band.br">
-    <title lang="pt">A Voz do Rio</title>
-  </programme>
-  <programme start="20250103164000 +0000" stop="20250103173000 +0000" channel="Band.br">
-    <title lang="pt">Vem com a Gente</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103190000 +0000" channel="Band.br">
-    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103203000 +0000" channel="Band.br">
     <title lang="pt">Brasil Urgente</title>
   </programme>
@@ -1848,12 +1743,6 @@
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="Band.br">
     <title lang="pt">Perrengue na Band</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103170000 +0000" channel="BandNews.br">
-    <title lang="pt">BandNews no Meio do Dia</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103190000 +0000" channel="BandNews.br">
-    <title lang="pt">Tarde BandNews</title>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103200000 +0000" channel="BandNews.br">
     <title lang="pt">Entre Nós</title>
   </programme>
@@ -2007,15 +1896,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="BandNews.br">
     <title lang="pt">Canal Livre</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="BandSports.br">
-    <title lang="pt">G4</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="BandSports.br">
-    <title lang="pt">Primeiro Tempo</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="BandSports.br">
-    <title lang="pt">Acelerados</title>
-  </programme>
   <programme start="20250103173000 +0000" stop="20250103193000 +0000" channel="BandSports.br">
     <title lang="pt">Retrospectiva 2024 : Mundial de Motocross</title>
   </programme>
@@ -2165,27 +2045,6 @@
   </programme>
   <programme start="20250105234500 +0000" stop="20250106004500 +0000" channel="BandSports.br">
     <title lang="pt">Retrospectiva 2024 : Fórmula 2 - Monza</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103160000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">Verified Live</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">Verified Live</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">Verified Live</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">Verified Live</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">Focus on Africa</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="BBCNewsNorthAmerica.uk">
-    <title lang="pt">The World Today with Maryam Moshiri</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="BBCNewsNorthAmerica.uk">
     <title lang="pt">The World Today with Maryam Moshiri</title>
@@ -2487,15 +2346,6 @@
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="BBCNewsNorthAmerica.uk">
     <title lang="pt">100 Women : In Conversation Sharon Stone</title>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103163100 +0000" channel="Bis.br">
-    <title lang="pt">Versões</title>
-  </programme>
-  <programme start="20250103163100 +0000" stop="20250103165700 +0000" channel="Bis.br">
-    <title lang="pt">Melhores Momentos Show Da Virada.</title>
-  </programme>
-  <programme start="20250103165700 +0000" stop="20250103185200 +0000" channel="Bis.br">
-    <title lang="pt">Michael Jackson's This Is It</title>
-  </programme>
   <programme start="20250103185200 +0000" stop="20250103194800 +0000" channel="Bis.br">
     <title lang="pt">Claudia Leitte - Intemporal</title>
   </programme>
@@ -2729,15 +2579,6 @@
   </programme>
   <programme start="20250105232700 +0000" stop="20250106000000 +0000" channel="Bis.br">
     <title lang="pt">Canto Ao Tempo</title>
-  </programme>
-  <programme start="20250103140000 +0000" stop="20250103160000 +0000" channel="BloombergTV.us">
-    <title lang="pt">Bloomberg Open Interest</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="BloombergTV.us">
-    <title lang="pt">Bloomberg Technology</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103180000 +0000" channel="BloombergTV.us">
-    <title lang="pt">Bloomberg Markets</title>
   </programme>
   <programme start="20250103180000 +0000" stop="20250103200000 +0000" channel="BloombergTV.us">
     <title lang="pt">Bloomberg: Balance of Power</title>
@@ -2996,39 +2837,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="BloombergTV.us">
     <title lang="pt">Bloomberg The Asia Trade</title>
-  </programme>
-  <programme start="20250103153500 +0000" stop="20250103155500 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
-  </programme>
-  <programme start="20250103155500 +0000" stop="20250103160000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Mensagem de Paiva Netto</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103161000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-  </programme>
-  <programme start="20250103161000 +0000" stop="20250103170000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Conexão Jesus</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103171000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-  </programme>
-  <programme start="20250103171000 +0000" stop="20250103174000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Soldadinhos de Deus, da LBV</title>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103175500 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">SOS Português</title>
-  </programme>
-  <programme start="20250103175500 +0000" stop="20250103180000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Mensagem de Paiva Netto</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103181000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103190000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Viver é Melhor!</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103191000 +0000" channel="BoaVontadeTV.br">
-    <title lang="pt">Momento Ecumênico de Oração</title>
   </programme>
   <programme start="20250103191000 +0000" stop="20250103193500 +0000" channel="BoaVontadeTV.br">
     <title lang="pt">Boa Vontade Notícias</title>
@@ -3459,9 +3267,6 @@
   <programme start="20250105230900 +0000" stop="20250106000000 +0000" channel="BoaVontadeTV.br">
     <title lang="pt">O Poder da Fé Realizante</title>
   </programme>
-  <programme start="20250103120000 +0000" stop="20250103160000 +0000">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
   <programme start="20250103160000 +0000" stop="20250103200000 +0000">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
   </programme>
@@ -3524,30 +3329,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106060000 +0000">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103162500 +0000" channel="CanalBrasil.br">
-    <title lang="pt">O Contato</title>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103163000 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Arte Na Capa</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103165400 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Cinejornal</title>
-  </programme>
-  <programme start="20250103165400 +0000" stop="20250103170000 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Inéditas, Dispersas E Animadas</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103171700 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Curta Na Tela: As Marias</title>
-  </programme>
-  <programme start="20250103171700 +0000" stop="20250103173000 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Curta Na Tela: Telentrega</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103185000 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Mataram Meu Irmão</title>
-  </programme>
-  <programme start="20250103185000 +0000" stop="20250103185500 +0000" channel="CanalBrasil.br">
-    <title lang="pt">Arte Na Capa</title>
   </programme>
   <programme start="20250103185500 +0000" stop="20250103203000 +0000" channel="CanalBrasil.br">
     <title lang="pt">A Margem</title>
@@ -3726,21 +3507,6 @@
   <programme start="20250105235000 +0000" stop="20250106014000 +0000" channel="CanalBrasil.br">
     <title lang="pt">Macunaíma</title>
   </programme>
-  <programme start="20250103152500 +0000" stop="20250103163000 +0000" channel="CanaldoBoi.br">
-    <title lang="pt">Agricultura BR</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103173000 +0000" channel="CanaldoBoi.br">
-    <title lang="pt">Genética BR</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="CanaldoBoi.br">
-    <title lang="pt">Ruminar</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="CanaldoBoi.br">
-    <title lang="pt">Germipasto</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="CanaldoBoi.br">
-    <title lang="pt">Genética BR</title>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="CanaldoBoi.br">
     <title lang="pt">Agricultura BR</title>
   </programme>
@@ -3836,33 +3602,6 @@
   </programme>
   <programme start="20250105224000 +0000" stop="20250106030000 +0000" channel="CanaldoBoi.br">
     <title lang="pt">Genética BR</title>
-  </programme>
-  <programme start="20250103152000 +0000" stop="20250103154000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Caça Joia</title>
-  </programme>
-  <programme start="20250103154000 +0000" stop="20250103160000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Entrevista</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Turma Da Robótica</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Território 4.0</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Futura Profissão</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Conexão Maker</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Visceral Brasil - As Veias Abertas Da Música</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="CanalFutura.br">
-    <title lang="pt">Mulheres No Mercado De Trabalho</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103191500 +0000" channel="CanalFutura.br">
-    <title lang="pt">Show Da História</title>
   </programme>
   <programme start="20250103191500 +0000" stop="20250103193000 +0000" channel="CanalFutura.br">
     <title lang="pt">Reload</title>
@@ -4278,21 +4017,6 @@
   <programme start="20250105234500 +0000" stop="20250106000000 +0000" channel="CanalFutura.br">
     <title lang="pt">Maratona Futura</title>
   </programme>
-  <programme start="20250103153100 +0000" stop="20250103164800 +0000" channel="CanalOff.br">
-    <title lang="pt">Off Docs: Sou Do Mar - A Hitória De Mais Um Amante Do Surfe</title>
-  </programme>
-  <programme start="20250103164800 +0000" stop="20250103171600 +0000" channel="CanalOff.br">
-    <title lang="pt">Crowd Selvagem</title>
-  </programme>
-  <programme start="20250103171600 +0000" stop="20250103174500 +0000" channel="CanalOff.br">
-    <title lang="pt">Crowd Selvagem</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103184000 +0000" channel="CanalOff.br">
-    <title lang="pt">Corre Atrás: O Desafio De Viver Do Surfe</title>
-  </programme>
-  <programme start="20250103184000 +0000" stop="20250103190800 +0000" channel="CanalOff.br">
-    <title lang="pt">Mares Do Oriente</title>
-  </programme>
   <programme start="20250103190800 +0000" stop="20250103193400 +0000" channel="CanalOff.br">
     <title lang="pt">Enciclopédia Off</title>
   </programme>
@@ -4590,12 +4314,6 @@
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="CanalOff.br">
     <title lang="pt">Br230: Muito Além Da Transamazônica</title>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103163500 +0000" channel="CanalRural.br">
-    <title lang="pt">Mercado &amp; Cia</title>
-  </programme>
-  <programme start="20250103163500 +0000" stop="20250103170400 +0000" channel="CanalRural.br">
-    <title lang="pt">Canal Rural Entrevista</title>
-  </programme>
   <programme start="20250103170400 +0000" stop="20250103193400 +0000" channel="CanalRural.br">
     <title lang="pt">Televendas Marilda</title>
   </programme>
@@ -4706,21 +4424,6 @@
   </programme>
   <programme start="20250105200000 +0000" stop="20250106030000 +0000" channel="CanalRural.br">
     <title lang="pt">Leilão</title>
-  </programme>
-  <programme start="20250103151500 +0000" stop="20250103160000 +0000" channel="CanalViva.br">
-    <title lang="pt">Roque Santeiro</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103165000 +0000" channel="CanalViva.br">
-    <title lang="pt">Cara &amp; Coroa</title>
-  </programme>
-  <programme start="20250103165000 +0000" stop="20250103175000 +0000" channel="CanalViva.br">
-    <title lang="pt">Viver A Vida</title>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103183000 +0000" channel="CanalViva.br">
-    <title lang="pt">Corpo a Corpo</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103191500 +0000" channel="CanalViva.br">
-    <title lang="pt">Cobras &amp; Lagartos</title>
   </programme>
   <programme start="20250103191500 +0000" stop="20250103194500 +0000" channel="CanalViva.br">
     <title lang="pt">Malhação 2013</title>
@@ -4928,77 +4631,6 @@
   </programme>
   <programme start="20250105235600 +0000" stop="20250106003700 +0000" channel="CanalViva.br">
     <title lang="pt">Viver A Vida</title>
-  </programme>
-  <programme start="20250103153300 +0000" stop="20250103154500 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Clarêncio, o Otimista : T2 EP22 - Sala de Aula</title>
-    <episode-num system="xmltv_ns">1.21.0/1</episode-num>
-    <episode-num system="onscreen">S02E22</episode-num>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103155700 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Clarêncio, o Otimista : T1 EP11 - Zoológico</title>
-    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
-    <episode-num system="onscreen">S01E11</episode-num>
-  </programme>
-  <programme start="20250103155700 +0000" stop="20250103160800 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel : T4 - Ladrãozinho de Shopping</title>
-  </programme>
-  <programme start="20250103160800 +0000" stop="20250103162000 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel : T4 - Primo do Jorel</title>
-  </programme>
-  <programme start="20250103162000 +0000" stop="20250103163100 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel : T4 - O Rapto das Cores</title>
-  </programme>
-  <programme start="20250103163100 +0000" stop="20250103164400 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel : T4 - Poneimorfose</title>
-  </programme>
-  <programme start="20250103164400 +0000" stop="20250103165500 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel : T5 EP2 - Minha Melhor Melhor Amiga</title>
-    <episode-num system="xmltv_ns">4.1.0/1</episode-num>
-    <episode-num system="onscreen">S05E02</episode-num>
-  </programme>
-  <programme start="20250103165500 +0000" stop="20250103170600 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20250103170600 +0000" stop="20250103171900 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Ursinhos em Curso : T1 EP18 - A Família do Panda</title>
-    <episode-num system="xmltv_ns">0.17.0/1</episode-num>
-    <episode-num system="onscreen">S01E18</episode-num>
-  </programme>
-  <programme start="20250103171900 +0000" stop="20250103173000 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Ursinhos em Curso : T1 EP13 - Dia de Fiesta</title>
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103174200 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Ursinhos em Curso : T1 EP34 - De Volta ao Nosso Presente Normal</title>
-    <episode-num system="xmltv_ns">0.33.0/1</episode-num>
-    <episode-num system="onscreen">S01E34</episode-num>
-  </programme>
-  <programme start="20250103174200 +0000" stop="20250103180500 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Ursinhos em Curso : T1 EP39 - Estrelinha Cadente</title>
-    <episode-num system="xmltv_ns">0.38.0/1</episode-num>
-    <episode-num system="onscreen">S01E39</episode-num>
-  </programme>
-  <programme start="20250103180500 +0000" stop="20250103181600 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Os Jovens Titãs em Ação : T8 EP2 - A Grande Fuga Natalina</title>
-    <episode-num system="xmltv_ns">7.1.0/1</episode-num>
-    <episode-num system="onscreen">S08E02</episode-num>
-  </programme>
-  <programme start="20250103181600 +0000" stop="20250103182800 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Os Jovens Titãs em Ação : T8 EP28 - Navio</title>
-    <episode-num system="xmltv_ns">7.27.0/1</episode-num>
-    <episode-num system="onscreen">S08E28</episode-num>
-  </programme>
-  <programme start="20250103182800 +0000" stop="20250103183900 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Os Jovens Titãs em Ação : T8 - Azarath, Metrion, Livraria</title>
-  </programme>
-  <programme start="20250103183900 +0000" stop="20250103185000 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Os Jovens Titãs em Ação : T8 - À Solta</title>
-  </programme>
-  <programme start="20250103185000 +0000" stop="20250103190100 +0000" channel="CartoonNetwork.br">
-    <title lang="pt">Os Jovens Titãs em Ação : T7 EP19 - Preparações para o Apocalipse</title>
-    <episode-num system="xmltv_ns">6.18.0/1</episode-num>
-    <episode-num system="onscreen">S07E19</episode-num>
   </programme>
   <programme start="20250103190100 +0000" stop="20250103194400 +0000" channel="CartoonNetwork.br">
     <title lang="pt">Tiny Toons - Looniversidade : T1 EP11 - Férias de Primavera</title>
@@ -5698,12 +5330,6 @@
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="CartoonNetwork.br">
     <title lang="pt">Cine Cartoon</title>
   </programme>
-  <programme start="20250103143900 +0000" stop="20250103162900 +0000" channel="Cinemax.br">
-    <title lang="pt">Te Amarei para Sempre</title>
-  </programme>
-  <programme start="20250103162900 +0000" stop="20250103180900 +0000" channel="Cinemax.br">
-    <title lang="pt">A Casa do Lago</title>
-  </programme>
   <programme start="20250103180900 +0000" stop="20250103203200 +0000" channel="Cinemax.br">
     <title lang="pt">Terceira Pessoa</title>
   </programme>
@@ -5808,21 +5434,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106013000 +0000" channel="Cinemax.br">
     <title lang="pt">O Código Da Vinci</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103170000 +0000" channel="Climatempo.br">
-    <title lang="pt">Tempo e Dinheiro</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="Climatempo.br">
-    <title lang="pt">C3.NEWS</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="Climatempo.br">
-    <title lang="pt">Atitude Sustentável</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103190000 +0000" channel="Climatempo.br">
-    <title lang="pt">O Poder do Sútil</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="Climatempo.br">
-    <title lang="pt">C3.NEWS</title>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103203000 +0000" channel="Climatempo.br">
     <title lang="pt">Viagem ao Cristalino</title>
@@ -6103,27 +5714,6 @@
   <programme start="20250105230000 +0000" stop="20250106003000 +0000" channel="Climatempo.br">
     <title lang="pt">Retomada</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="CNN.us">
-    <title lang="pt">CNN This Morning</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="CNN.us">
-    <title lang="pt">CNN News Central</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="CNN.us">
-    <title lang="pt">World Sport</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103180000 +0000" channel="CNN.us">
-    <title lang="pt">CNN Newsroom</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103184500 +0000" channel="CNN.us">
-    <title lang="pt">Connect the World</title>
-  </programme>
-  <programme start="20250103184500 +0000" stop="20250103190000 +0000" channel="CNN.us">
-    <title lang="pt">World Sport</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="CNN.us">
-    <title lang="pt">Connect the World</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="CNN.us">
     <title lang="pt">Special</title>
   </programme>
@@ -6343,9 +5933,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="CNN.us">
     <title lang="pt">CNN Newsroom Sunday</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103181000 +0000" channel="Combate.br">
-    <title lang="pt">MMA Reprise: PFL 2024</title>
-  </programme>
   <programme start="20250103181000 +0000" stop="20250103211500 +0000" channel="Combate.br">
     <title lang="pt">VT</title>
   </programme>
@@ -6426,61 +6013,6 @@
   </programme>
   <programme start="20250105230500 +0000" stop="20250106014500 +0000" channel="Combate.br">
     <title lang="pt">VT</title>
-  </programme>
-  <programme start="20250103152000 +0000" stop="20250103154500 +0000" channel="ComedyCentral.br">
-    <title lang="pt">Becker : T5 EP14 - Torcicolo</title>
-    <episode-num system="xmltv_ns">4.13.0/1</episode-num>
-    <episode-num system="onscreen">S05E14</episode-num>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103160500 +0000" channel="ComedyCentral.br">
-    <title lang="pt">As Regras do Amor : T5 EP9 - A Imagem Grande</title>
-    <episode-num system="xmltv_ns">4.8.0/1</episode-num>
-    <episode-num system="onscreen">S05E09</episode-num>
-  </programme>
-  <programme start="20250103160500 +0000" stop="20250103163000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">As Regras do Amor : T5 EP10 - Corrida Divertida</title>
-    <episode-num system="xmltv_ns">4.9.0/1</episode-num>
-    <episode-num system="onscreen">S05E10</episode-num>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103165000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">A Boa Vizinhança : T3 EP16 - Bem-Vindos ao Teste</title>
-    <episode-num system="xmltv_ns">2.15.0/1</episode-num>
-    <episode-num system="onscreen">S03E16</episode-num>
-  </programme>
-  <programme start="20250103165000 +0000" stop="20250103171000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">A Boa Vizinhança : T3 EP17 - Bem-Vindos à Invasão</title>
-    <episode-num system="xmltv_ns">2.16.0/1</episode-num>
-    <episode-num system="onscreen">S03E17</episode-num>
-  </programme>
-  <programme start="20250103171000 +0000" stop="20250103173000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">Todo Mundo Odeia o Chris : T1 EP12 - Todo Mundo Odeia Emprego Temporário</title>
-    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
-    <episode-num system="onscreen">S01E12</episode-num>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103175000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">Todo Mundo Odeia o Chris : T1 EP11 - Todo Mundo Odeia o Natal</title>
-    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
-    <episode-num system="onscreen">S01E11</episode-num>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103181500 +0000" channel="ComedyCentral.br">
-    <title lang="pt">The Ren &amp; Stimpy Show : T5 EP1 - Espaço Canino; Feudo à Venda</title>
-    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
-    <episode-num system="onscreen">S05E01</episode-num>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103183500 +0000" channel="ComedyCentral.br">
-    <title lang="pt">South Park : T12 EP14 - O Incastigável</title>
-    <episode-num system="xmltv_ns">11.13.0/1</episode-num>
-    <episode-num system="onscreen">S12E14</episode-num>
-  </programme>
-  <programme start="20250103183500 +0000" stop="20250103190000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">South Park : T20 EP5 - Babaca e um Dinamarquês</title>
-    <episode-num system="xmltv_ns">19.4.0/1</episode-num>
-    <episode-num system="onscreen">S20E05</episode-num>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103192000 +0000" channel="ComedyCentral.br">
-    <title lang="pt">As Regras do Amor : T5 EP19 - O Plano</title>
-    <episode-num system="xmltv_ns">4.18.0/1</episode-num>
-    <episode-num system="onscreen">S05E19</episode-num>
   </programme>
   <programme start="20250103192000 +0000" stop="20250103194500 +0000" channel="ComedyCentral.br">
     <title lang="pt">As Regras do Amor : T5 EP20 - Batendo o Sistema</title>
@@ -7157,24 +6689,6 @@
     <episode-num system="xmltv_ns">0.8.0/1</episode-num>
     <episode-num system="onscreen">S01E09</episode-num>
   </programme>
-  <programme start="20250103152100 +0000" stop="20250103161000 +0000" channel="DiscoveryChannel.br">
-    <title lang="pt">Vida Remota : T6 - Paraíso dos Porcos</title>
-  </programme>
-  <programme start="20250103161000 +0000" stop="20250103165800 +0000" channel="DiscoveryChannel.br">
-    <title lang="pt">Vida Remota : T6 EP7 - Casa na Árvore do Terror</title>
-    <episode-num system="xmltv_ns">5.6.0/1</episode-num>
-    <episode-num system="onscreen">S06E07</episode-num>
-  </programme>
-  <programme start="20250103165800 +0000" stop="20250103183800 +0000" channel="DiscoveryChannel.br">
-    <title lang="pt">Largados e Pelados - A Tribo : T10 EP3 - Carrapatos e Gritos</title>
-    <episode-num system="xmltv_ns">9.2.0/1</episode-num>
-    <episode-num system="onscreen">S10E03</episode-num>
-  </programme>
-  <programme start="20250103183800 +0000" stop="20250103192600 +0000" channel="DiscoveryChannel.br">
-    <title lang="pt">Desafio em Dose Dupla : T7 EP7 - Cânions Infernais</title>
-    <episode-num system="xmltv_ns">6.6.0/1</episode-num>
-    <episode-num system="onscreen">S07E07</episode-num>
-  </programme>
   <programme start="20250103192600 +0000" stop="20250103201400 +0000" channel="DiscoveryChannel.br">
     <title lang="pt">Desafio em Dose Dupla - Brasil : T2 EP5 - Atolados na Lama</title>
     <episode-num system="xmltv_ns">1.4.0/1</episode-num>
@@ -7444,27 +6958,6 @@
     <title lang="pt">Largados e Pelados - A Competição : T2 EP10 - Esquadrão de Fogo</title>
     <episode-num system="xmltv_ns">1.9.0/1</episode-num>
     <episode-num system="onscreen">S02E10</episode-num>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103154800 +0000" channel="DiscoveryScience.br">
-    <title lang="pt">Destiladores : T4 EP2 - Cascata de Whiskey</title>
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <episode-num system="onscreen">S04E02</episode-num>
-  </programme>
-  <programme start="20250103154800 +0000" stop="20250103163600 +0000" channel="DiscoveryScience.br">
-    <title lang="pt">Códigos e Conspirações : T1 EP5 - Bordéis</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103163600 +0000" stop="20250103172400 +0000" channel="DiscoveryScience.br">
-    <title lang="pt">A Fúria dos Elementos : Água</title>
-  </programme>
-  <programme start="20250103172400 +0000" stop="20250103181200 +0000" channel="DiscoveryScience.br">
-    <title lang="pt">Ases da Construção : EP2 - Represa de El Cajón, México</title>
-  </programme>
-  <programme start="20250103181200 +0000" stop="20250103190000 +0000" channel="DiscoveryScience.br">
-    <title lang="pt">Megaconstruções : T4 EP1 - Estádio dos Dallas Cowboys</title>
-    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
-    <episode-num system="onscreen">S04E01</episode-num>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103194800 +0000" channel="DiscoveryScience.br">
     <title lang="pt">Como Funciona o Universo : T4 EP4 - A Fronteira do Sistema Solar</title>
@@ -7816,31 +7309,6 @@
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103154800 +0000" channel="DiscoveryTheater.br">
-    <title lang="pt">Ouro Selvagem : T1 EP2 - Contratempos</title>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme start="20250103154800 +0000" stop="20250103163600 +0000" channel="DiscoveryTheater.br">
-    <title lang="pt">Ouro Selvagem : T1 EP3 - Vizinhos Armados</title>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20250103163600 +0000" stop="20250103172400 +0000" channel="DiscoveryTheater.br">
-    <title lang="pt">Ouro Selvagem : T1 EP4 - Devastado</title>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-  </programme>
-  <programme start="20250103172400 +0000" stop="20250103181200 +0000" channel="DiscoveryTheater.br">
-    <title lang="pt">Ouro Selvagem : T1 EP5 - Medidas Desesperadas</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103181200 +0000" stop="20250103190000 +0000" channel="DiscoveryTheater.br">
-    <title lang="pt">Ouro Selvagem : T1 EP6 - Confusão</title>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103194800 +0000" channel="DiscoveryTheater.br">
     <title lang="pt">Pesca Mortal : T12 EP7 - O Dilema</title>
     <episode-num system="xmltv_ns">11.6.0/1</episode-num>
@@ -8174,31 +7642,6 @@
     <episode-num system="xmltv_ns">1.0.0/1</episode-num>
     <episode-num system="onscreen">S02E01</episode-num>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103155400 +0000" channel="DiscoveryTurbo.br">
-    <title lang="pt">Acumuladores de Carros : T2 EP1 - O Senhor das Amêndoas</title>
-    <episode-num system="xmltv_ns">1.0.0/1</episode-num>
-    <episode-num system="onscreen">S02E01</episode-num>
-  </programme>
-  <programme start="20250103155400 +0000" stop="20250103164700 +0000" channel="DiscoveryTurbo.br">
-    <title lang="pt">Resgate de Carros Clássicos : T1 EP1 - Little Deuce Coupe</title>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20250103164700 +0000" stop="20250103174000 +0000" channel="DiscoveryTurbo.br">
-    <title lang="pt">Resgate de Carros Clássicos : T1 EP3 - Reforma Grande</title>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103183100 +0000" channel="DiscoveryTurbo.br">
-    <title lang="pt">Resgate de Carros Clássicos : T1 EP5 - Falcon Spirit 63</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103183100 +0000" stop="20250103192200 +0000" channel="DiscoveryTurbo.br">
-    <title lang="pt">Resgate de Carros Clássicos : T1 EP4 - Corvette</title>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-  </programme>
   <programme start="20250103192200 +0000" stop="20250103201200 +0000" channel="DiscoveryTurbo.br">
     <title lang="pt">Overhaulin': Os Supercarros : T6 EP1 - Impala 1965</title>
     <episode-num system="xmltv_ns">5.0.0/1</episode-num>
@@ -8493,45 +7936,6 @@
     <title lang="pt">Joias Sobre Rodas : T17 EP11 - Ford Escort XR3i</title>
     <episode-num system="xmltv_ns">16.10.0/1</episode-num>
     <episode-num system="onscreen">S17E11</episode-num>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103154800 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Lugares Secretos para Nadar : T2 EP4 - Omã</title>
-    <episode-num system="xmltv_ns">1.3.0/1</episode-num>
-    <episode-num system="onscreen">S02E04</episode-num>
-  </programme>
-  <programme start="20250103154800 +0000" stop="20250103163600 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer : T1 EP10 - Nepal</title>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20250103163600 +0000" stop="20250103170000 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Sabores da América: Bacon : T1 EP8 - Combinações Incríveis</title>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103172400 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Sabores da América: Bacon : T1 EP9 - Fanático por Bacon</title>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20250103172400 +0000" stop="20250103174800 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">O Poder dos Alimentos : EP13 - Compulsões</title>
-  </programme>
-  <programme start="20250103174800 +0000" stop="20250103181200 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">O Poder dos Alimentos : EP10 - Você É o que Come</title>
-  </programme>
-  <programme start="20250103181200 +0000" stop="20250103183600 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Fast Food Mania : Menu Radical</title>
-  </programme>
-  <programme start="20250103183600 +0000" stop="20250103190000 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Fast Food Mania : T1 EP5 - Lugares Extremos</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103192400 +0000" channel="DiscoveryWorld.br">
-    <title lang="pt">Buying Alaska : T3 EP15 - Apaixonados por Água</title>
-    <episode-num system="xmltv_ns">2.14.0/1</episode-num>
-    <episode-num system="onscreen">S03E15</episode-num>
   </programme>
   <programme start="20250103192400 +0000" stop="20250103194800 +0000" channel="DiscoveryWorld.br">
     <title lang="pt">Buying Alaska : T3 EP16 - Um Lar com Água Corrente</title>
@@ -9006,33 +8410,6 @@
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103154500 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Tromba Trem</title>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103160000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">ZOMBIES: A Série Reanimada</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Hannah Montana</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Austin &amp; Ally</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">A Irmã do Meio</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Zack &amp; Cody: Gêmeos em Ação</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">A Casa da Raven</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="DisneyChannel.br">
-    <title lang="pt">Liv e Maddie</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="DisneyChannel.br">
     <title lang="pt">Molly McGee e o Fantasma</title>
   </programme>
@@ -9356,30 +8733,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106004500 +0000" channel="DisneyChannel.br">
     <title lang="pt">Zack &amp; Cody: O Filme</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103160000 +0000" channel="DWDeutsch.de">
-    <title lang="pt">En forma</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103160300 +0000" channel="DWDeutsch.de">
-    <title lang="pt">DW Noticias</title>
-  </programme>
-  <programme start="20250103160300 +0000" stop="20250103163000 +0000" channel="DWDeutsch.de">
-    <title lang="pt">Enfoque Europa: países, gentes, destinos</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="DWDeutsch.de">
-    <title lang="pt">Enlaces: Ventana abierta al mundo digital</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103170300 +0000" channel="DWDeutsch.de">
-    <title lang="pt">DW Noticias</title>
-  </programme>
-  <programme start="20250103170300 +0000" stop="20250103171500 +0000" channel="DWDeutsch.de">
-    <title lang="pt">Patrimonio mundial : Fontenay - El Monasterio de la Pobreza, Francia</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103180000 +0000" channel="DWDeutsch.de">
-    <title lang="pt">Zona docu</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="DWDeutsch.de">
-    <title lang="pt">DW Noticias</title>
   </programme>
   <programme start="20250103183000 +0000" stop="20250103200000 +0000" channel="DWDeutsch.de">
     <title lang="pt">Zona docu</title>
@@ -9828,26 +9181,6 @@
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="DWDeutsch.de">
     <title lang="pt">Visión futuro</title>
   </programme>
-  <programme start="20250103152500 +0000" stop="20250103161500 +0000" channel="E.br">
-    <title lang="pt">Family Karma : T1 EP3 - Sentimentos em Jogo</title>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103170500 +0000" channel="E.br">
-    <title lang="pt">Vanderpump Rules : T6 EP13 - Vegas, Baby!</title>
-    <episode-num system="xmltv_ns">5.12.0/1</episode-num>
-    <episode-num system="onscreen">S06E13</episode-num>
-  </programme>
-  <programme start="20250103170500 +0000" stop="20250103175500 +0000" channel="E.br">
-    <title lang="pt">Vanderpump Rules : T6 EP14 - Tome Cuidado</title>
-    <episode-num system="xmltv_ns">5.13.0/1</episode-num>
-    <episode-num system="onscreen">S06E14</episode-num>
-  </programme>
-  <programme start="20250103175500 +0000" stop="20250103190500 +0000" channel="E.br">
-    <title lang="pt">Million Dollar Listing - Nova York : T8 EP1 - Sonhando com os Compradores</title>
-    <episode-num system="xmltv_ns">7.0.0/1</episode-num>
-    <episode-num system="onscreen">S08E01</episode-num>
-  </programme>
   <programme start="20250103190500 +0000" stop="20250103195500 +0000" channel="E.br">
     <title lang="pt">Million Dollar Listing - Nova York : T8 EP2 - Estado de Espírito</title>
     <episode-num system="xmltv_ns">7.1.0/1</episode-num>
@@ -10128,18 +9461,6 @@
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="E.br">
     <title lang="pt">E! Live From the Red Carpet : EP1 - Golden Globes 2025</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="ESPN.br">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103180000 +0000" channel="ESPN.br">
-    <title lang="pt">ESPN F90 - Ao Vivo</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103190000 +0000" channel="ESPN.br">
-    <title lang="pt">ESPN FC - Ao Vivo</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="ESPN.br">
-    <title lang="pt">LaLiga World</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103195000 +0000" channel="ESPN.br">
     <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
   </programme>
@@ -10257,15 +9578,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="ESPN.br">
     <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
-  <programme start="20250103143000 +0000" stop="20250103163000 +0000" channel="ESPN.us">
-    <title lang="pt">VT - Rangers x Celtic</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103173000 +0000" channel="ESPN.us">
-    <title lang="pt">Sportscenter</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103183000 +0000" channel="ESPN.us">
-    <title lang="pt">In the Arena: Serena Williams</title>
-  </programme>
   <programme start="20250103183000 +0000" stop="20250103203000 +0000" channel="ESPN.us">
     <title lang="pt">VT - Ipswich x Chelsea</title>
   </programme>
@@ -10377,12 +9689,6 @@
   <programme start="20250105212500 +0000" stop="20250106003000 +0000" channel="ESPN.us">
     <title lang="pt">NFL: Kansas Ciry Chiefs x Denver Broncos - Ao Vivo</title>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103171000 +0000" channel="Eurochannel.uk">
-    <title lang="pt">Fora dos Limites</title>
-  </programme>
-  <programme start="20250103171000 +0000" stop="20250103185000 +0000" channel="Eurochannel.uk">
-    <title lang="pt">A Pele de Onagro</title>
-  </programme>
   <programme start="20250103185000 +0000" stop="20250103203000 +0000" channel="Eurochannel.uk">
     <title lang="pt">Rodada Final</title>
   </programme>
@@ -10481,12 +9787,6 @@
   </programme>
   <programme start="20250105234000 +0000" stop="20250106012500 +0000" channel="Eurochannel.uk">
     <title lang="pt">Tempestade de Gelo</title>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103170000 +0000" channel="FoxSports2.br">
-    <title lang="pt">VT - Juventus x Fiorentina</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103190000 +0000" channel="FoxSports2.br">
-    <title lang="pt">VT - NBB: Minas x Franca</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103210000 +0000" channel="FoxSports2.br">
     <title lang="pt">VT - Rangers x Celtic</title>
@@ -10592,12 +9892,6 @@
   </programme>
   <programme start="20250105223000 +0000" stop="20250106003000 +0000" channel="FoxSports2.br">
     <title lang="pt">VT - Liverpool x Manchester United</title>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="FoxSports.br">
-    <title lang="pt">Especial: Ecos da Liberta</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103175500 +0000" channel="FoxSports.br">
-    <title lang="pt">VT - Milan x Roma</title>
   </programme>
   <programme start="20250103175500 +0000" stop="20250103200000 +0000" channel="FoxSports.br">
     <title lang="pt">CD Nacional x Porto - Ao Vivo</title>
@@ -10719,12 +10013,6 @@
   <programme start="20250105212500 +0000" stop="20250106003000 +0000" channel="FoxSports.br">
     <title lang="pt">NFL: Miami Dolphins x New York Jets - Ao Vivo</title>
   </programme>
-  <programme start="20250103145000 +0000" stop="20250103162300 +0000" channel="FX.br">
-    <title lang="pt">O Guru do Amor</title>
-  </programme>
-  <programme start="20250103162300 +0000" stop="20250103181800 +0000" channel="FX.br">
-    <title lang="pt">Mulheres ao Ataque</title>
-  </programme>
   <programme start="20250103181800 +0000" stop="20250103201400 +0000" channel="FX.br">
     <title lang="pt">O Roubo do Século</title>
   </programme>
@@ -10808,15 +10096,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="FX.br">
     <title lang="pt">Bumblebee</title>
-  </programme>
-  <programme start="20250103144500 +0000" stop="20250103160000 +0000">
-    <title lang="pt">RJ1</title>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103174500 +0000">
-    <title lang="pt">Jornal Hoje</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103183000 +0000">
-    <title lang="pt">Cabocla - Edição Especial</title>
   </programme>
   <programme start="20250103183000 +0000" stop="20250103200500 +0000">
     <title lang="pt">Dolittle</title>
@@ -10943,12 +10222,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106023500 +0000">
     <title lang="pt">Fantástico</title>
-  </programme>
-  <programme start="20250103123000 +0000" stop="20250103160000 +0000" channel="GloboNews.br">
-    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103190000 +0000" channel="GloboNews.br">
-    <title lang="pt">Estúdio i - Ao Vivo</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103210000 +0000" channel="GloboNews.br">
     <title lang="pt">GloboNews Mais - Ao Vivo</title>
@@ -11078,36 +10351,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="GloboNews.br">
     <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-  </programme>
-  <programme start="20250103153900 +0000" stop="20250103160300 +0000" channel="Gloob.br">
-    <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
-  </programme>
-  <programme start="20250103160300 +0000" stop="20250103162600 +0000" channel="Gloob.br">
-    <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
-  </programme>
-  <programme start="20250103162600 +0000" stop="20250103162900 +0000" channel="Gloob.br">
-    <title lang="pt">Bisbilhotices Da Brisa</title>
-  </programme>
-  <programme start="20250103162900 +0000" stop="20250103174500 +0000" channel="Gloob.br">
-    <title lang="pt">Cine Gloob: Encantado</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103180900 +0000" channel="Gloob.br">
-    <title lang="pt">As Aventuras Do Gato De Botas</title>
-  </programme>
-  <programme start="20250103180900 +0000" stop="20250103183300 +0000" channel="Gloob.br">
-    <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20250103183300 +0000" stop="20250103185600 +0000" channel="Gloob.br">
-    <title lang="pt">Dragões: Corrida Até O Limite</title>
-  </programme>
-  <programme start="20250103185600 +0000" stop="20250103190800 +0000" channel="Gloob.br">
-    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
-  </programme>
-  <programme start="20250103190800 +0000" stop="20250103192000 +0000" channel="Gloob.br">
-    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
-  </programme>
-  <programme start="20250103192000 +0000" stop="20250103193200 +0000" channel="Gloob.br">
-    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
   </programme>
   <programme start="20250103193200 +0000" stop="20250103195500 +0000" channel="Gloob.br">
     <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
@@ -11550,21 +10793,6 @@
   <programme start="20250105234300 +0000" stop="20250106000000 +0000" channel="Gloob.br">
     <title lang="pt">O Dia Em Que A Minha Vida Mudou</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103161500 +0000" channel="GNT.br">
-    <title lang="pt">Food Truck - A Batalha</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103171500 +0000" channel="GNT.br">
-    <title lang="pt">Que História É Essa, Porchat?</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103174500 +0000" channel="GNT.br">
-    <title lang="pt">Chegadas E Partidas</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103181500 +0000" channel="GNT.br">
-    <title lang="pt">Angélica 50 &amp; Uns</title>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103191500 +0000" channel="GNT.br">
-    <title lang="pt">Que História É Essa, Porchat?</title>
-  </programme>
   <programme start="20250103191500 +0000" stop="20250103200000 +0000" channel="GNT.br">
     <title lang="pt">Que Marravilha!</title>
   </programme>
@@ -11781,12 +11009,6 @@
   <programme start="20250105231500 +0000" stop="20250106000000 +0000" channel="GNT.br">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
   </programme>
-  <programme start="20250103152000 +0000" stop="20250103172000 +0000" channel="HBO2.br">
-    <title lang="pt">Jurado Nº2</title>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103192500 +0000" channel="HBO2.br">
-    <title lang="pt">Twisters</title>
-  </programme>
   <programme start="20250103192500 +0000" stop="20250103211500 +0000" channel="HBO2.br">
     <title lang="pt">Sobrenatural - A Porta Vermelha</title>
   </programme>
@@ -11878,12 +11100,6 @@
   <programme start="20250105234500 +0000" stop="20250106021500 +0000" channel="HBO2.br">
     <title lang="pt">The Flash</title>
   </programme>
-  <programme start="20250103145500 +0000" stop="20250103170600 +0000" channel="HBO.br">
-    <title lang="pt">Adão Negro</title>
-  </programme>
-  <programme start="20250103170600 +0000" stop="20250103190500 +0000" channel="HBO.br">
-    <title lang="pt">Wonka</title>
-  </programme>
   <programme start="20250103190500 +0000" stop="20250103212000 +0000" channel="HBO.br">
     <title lang="pt">Godzilla II - Rei dos Monstros</title>
   </programme>
@@ -11967,12 +11183,6 @@
   </programme>
   <programme start="20250105230500 +0000" stop="20250106010000 +0000" channel="HBO.br">
     <title lang="pt">O Protetor 3 - Capítulo Final</title>
-  </programme>
-  <programme start="20250103145000 +0000" stop="20250103163700 +0000" channel="HBOFamily.br">
-    <title lang="pt">Os Smurfs 2</title>
-  </programme>
-  <programme start="20250103163700 +0000" stop="20250103182700 +0000" channel="HBOFamily.br">
-    <title lang="pt">Happy Feet - O Pinguim</title>
   </programme>
   <programme start="20250103182700 +0000" stop="20250103195600 +0000" channel="HBOFamily.br">
     <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
@@ -12070,12 +11280,6 @@
   <programme start="20250105232200 +0000" stop="20250106010000 +0000" channel="HBOFamily.br">
     <title lang="pt">Tá Chovendo Hambúrguer 2</title>
   </programme>
-  <programme start="20250103153500 +0000" stop="20250103173500 +0000" channel="HBOPlus.br">
-    <title lang="pt">Exorcista - O Início</title>
-  </programme>
-  <programme start="20250103173500 +0000" stop="20250103192400 +0000" channel="HBOPlus.br">
-    <title lang="pt">Roubando Vidas</title>
-  </programme>
   <programme start="20250103192400 +0000" stop="20250103211900 +0000" channel="HBOPlus.br">
     <title lang="pt">Tempestade - Planeta em Fúria</title>
   </programme>
@@ -12163,17 +11367,6 @@
   </programme>
   <programme start="20250105223000 +0000" stop="20250106010000 +0000" channel="HBOPlus.br">
     <title lang="pt">Aquaman</title>
-  </programme>
-  <programme start="20250103143000 +0000" stop="20250103160100 +0000" channel="HBOSignature.br">
-    <title lang="pt">A Arma Perfeita</title>
-  </programme>
-  <programme start="20250103160100 +0000" stop="20250103180500 +0000" channel="HBOSignature.br">
-    <title lang="pt">A Inventora - À Procura de Sangue no Vale do Silício</title>
-  </programme>
-  <programme start="20250103180500 +0000" stop="20250103190500 +0000" channel="HBOSignature.br">
-    <title lang="pt">A Casa do Dragão : T2 EP1 - Um Filho por um Filho</title>
-    <episode-num system="xmltv_ns">1.0.0/1</episode-num>
-    <episode-num system="onscreen">S02E01</episode-num>
   </programme>
   <programme start="20250103190500 +0000" stop="20250103201500 +0000" channel="HBOSignature.br">
     <title lang="pt">A Casa do Dragão : T2 EP2 - Rhaenyra, a Cruel</title>
@@ -12319,12 +11512,6 @@
   <programme start="20250105234000 +0000" stop="20250106005900 +0000" channel="HBOSignature.br">
     <title lang="pt">True Detective - Terra Noturna</title>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103170700 +0000" channel="Lifetime.br">
-    <title lang="pt">Vizinhos Perturbadores</title>
-  </programme>
-  <programme start="20250103170700 +0000" stop="20250103184500 +0000" channel="Lifetime.br">
-    <title lang="pt">Comprometido com a Morte</title>
-  </programme>
   <programme start="20250103184500 +0000" stop="20250103202000 +0000" channel="Lifetime.br">
     <title lang="pt">Perseguida por Meu Passado</title>
   </programme>
@@ -12430,12 +11617,6 @@
   <programme start="20250105233100 +0000" stop="20250106010800 +0000" channel="Lifetime.br">
     <title lang="pt">Um Pesadelo de Férias</title>
   </programme>
-  <programme start="20250103143000 +0000" stop="20250103161500 +0000" channel="Megapix.br">
-    <title lang="pt">Sempre Ao Seu Lado</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103180000 +0000" channel="Megapix.br">
-    <title lang="pt">Altitude</title>
-  </programme>
   <programme start="20250103180000 +0000" stop="20250103201500 +0000" channel="Megapix.br">
     <title lang="pt">Assalto ao Banco da Espanha</title>
   </programme>
@@ -12519,20 +11700,6 @@
   </programme>
   <programme start="20250105220000 +0000" stop="20250106000000 +0000" channel="Megapix.br">
     <title lang="pt">Especial Famílias Megapix: Extraordinário</title>
-  </programme>
-  <programme start="20250103152500 +0000" stop="20250103162500 +0000" channel="MTV.br">
-    <title lang="pt">De Férias com o Ex: Diretoria</title>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103172000 +0000" channel="MTV.br">
-    <title lang="pt">De Férias com o Ex: Diretoria</title>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103181000 +0000" channel="MTV.br">
-    <title lang="pt">MTV Hits</title>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103185500 +0000" channel="MTV.br">
-    <title lang="pt">Namoro no Sigilo : T1 EP5 - Leah &amp; Di'Andre</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
   </programme>
   <programme start="20250103185500 +0000" stop="20250103194500 +0000" channel="MTV.br">
     <title lang="pt">Catfish : T5 EP7 - Ray &amp; Lexi</title>
@@ -12821,30 +11988,6 @@
   <programme start="20250105231000 +0000" stop="20250106000000 +0000" channel="MTV.br">
     <title lang="pt">De Férias com o Ex: Diretoria</title>
   </programme>
-  <programme start="20250103153400 +0000" stop="20250103160400 +0000" channel="Multishow.br">
-    <title lang="pt">Tô De Graça</title>
-  </programme>
-  <programme start="20250103160400 +0000" stop="20250103163000 +0000" channel="Multishow.br">
-    <title lang="pt">Aquecimento BBB</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103171600 +0000" channel="Multishow.br">
-    <title lang="pt">Vai Que Cola</title>
-  </programme>
-  <programme start="20250103171600 +0000" stop="20250103180300 +0000" channel="Multishow.br">
-    <title lang="pt">A Vila</title>
-  </programme>
-  <programme start="20250103180300 +0000" stop="20250103181300 +0000" channel="Multishow.br">
-    <title lang="pt">Humor Multishow</title>
-  </programme>
-  <programme start="20250103181300 +0000" stop="20250103182400 +0000" channel="Multishow.br">
-    <title lang="pt">Humor Multishow</title>
-  </programme>
-  <programme start="20250103182400 +0000" stop="20250103185500 +0000" channel="Multishow.br">
-    <title lang="pt">Tô De Graça</title>
-  </programme>
-  <programme start="20250103185500 +0000" stop="20250103192600 +0000" channel="Multishow.br">
-    <title lang="pt">Tô De Graça</title>
-  </programme>
   <programme start="20250103192600 +0000" stop="20250103201100 +0000" channel="Multishow.br">
     <title lang="pt">Vai Que Cola</title>
   </programme>
@@ -13129,24 +12272,6 @@
   </programme>
   <programme start="20250105233400 +0000" stop="20250106002400 +0000" channel="Multishow.br">
     <title lang="pt">Vai Que Cola</title>
-  </programme>
-  <programme start="20250103151800 +0000" stop="20250103161000 +0000" channel="NationalGeographic.br">
-    <title lang="pt">Aeroporto - Roma</title>
-  </programme>
-  <programme start="20250103161000 +0000" stop="20250103170100 +0000" channel="NationalGeographic.br">
-    <title lang="pt">Sobrevivendo no Alasca : T3 EP9 - Garantindo o Abastecimento</title>
-    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
-    <episode-num system="onscreen">S03E09</episode-num>
-  </programme>
-  <programme start="20250103170100 +0000" stop="20250103175500 +0000" channel="NationalGeographic.br">
-    <title lang="pt">Celebridades à Prova de Tudo : T5 EP3 - Cara Delevingne e os Maiores Obstáculos da Floresta</title>
-    <episode-num system="xmltv_ns">4.2.0/1</episode-num>
-    <episode-num system="onscreen">S05E03</episode-num>
-  </programme>
-  <programme start="20250103175500 +0000" stop="20250103185000 +0000" channel="NationalGeographic.br">
-    <title lang="pt">Sobrevivente Primitivo com Hazen Audel - Rio Mekong : T1 EP2 - Aldeia Oculta</title>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
   </programme>
   <programme start="20250103185000 +0000" stop="20250103194200 +0000" channel="NationalGeographic.br">
     <title lang="pt">Predadores Africanos : T2 EP2 - As Gangues da África</title>
@@ -13470,12 +12595,6 @@
     <title lang="pt">Aeroporto - Estados Unidos : T5 EP3 - Bananas Ilegais</title>
     <episode-num system="xmltv_ns">4.2.0/1</episode-num>
     <episode-num system="onscreen">S05E03</episode-num>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103183000 +0000" channel="NHKWorldJapan.jp">
-    <title lang="pt">The 78th Rice Bowl American Football Japan Chanmpionship Fujitsu Frontiers vs Panasonic Impulse</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103193000 +0000" channel="NHKWorldJapan.jp">
-    <title lang="pt">NHK Special</title>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103194000 +0000" channel="NHKWorldJapan.jp">
     <title lang="pt">City-Scope</title>
@@ -13803,56 +12922,6 @@
   </programme>
   <programme start="20250105231500 +0000" stop="20250106005400 +0000" channel="NHKWorldJapan.jp">
     <title lang="pt">Asaichi</title>
-  </programme>
-  <programme start="20250103152500 +0000" stop="20250103155000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">The Loud House : T4 EP17 - Solteira e Excluída; Uma Última Dança</title>
-    <episode-num system="xmltv_ns">3.16.0/1</episode-num>
-    <episode-num system="onscreen">S04E17</episode-num>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103161500 +0000" channel="Nickelodeon.br">
-    <title lang="pt">The Loud House : T4 EP19 - Trocando de Lugar; Flip em Casa</title>
-    <episode-num system="xmltv_ns">3.18.0/1</episode-num>
-    <episode-num system="onscreen">S04E19</episode-num>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103164000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">The Loud House : T4 EP20 - Não se Esqueça de Mim; A Missão dos Cookies</title>
-    <episode-num system="xmltv_ns">3.19.0/1</episode-num>
-    <episode-num system="onscreen">S04E20</episode-num>
-  </programme>
-  <programme start="20250103164000 +0000" stop="20250103170000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">O Show do Patrick Estrela : T1 EP22 - O Estoque de Bigodes do Papai; Uma Raiz Infeliz</title>
-    <episode-num system="xmltv_ns">0.21.0/1</episode-num>
-    <episode-num system="onscreen">S01E22</episode-num>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103172500 +0000" channel="Nickelodeon.br">
-    <title lang="pt">Bob Esponja, Calça Quadrada : T9 EP16 - O Jogo do Patrick; O Esgoto da Fenda do Biquíni</title>
-    <episode-num system="xmltv_ns">8.15.0/1</episode-num>
-    <episode-num system="onscreen">S09E16</episode-num>
-  </programme>
-  <programme start="20250103172500 +0000" stop="20250103175000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">Bob Esponja, Calça Quadrada : T9 EP17 - Bob Esponja Calça Comprida; Academia do Larry</title>
-    <episode-num system="xmltv_ns">8.16.0/1</episode-num>
-    <episode-num system="onscreen">S09E17</episode-num>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103181500 +0000" channel="Nickelodeon.br">
-    <title lang="pt">Os Casagrandes : T1 EP18 - Estratégia de Negócios; Festa com os Irritantes</title>
-    <episode-num system="xmltv_ns">0.17.0/1</episode-num>
-    <episode-num system="onscreen">S01E18</episode-num>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103184000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">Os Casagrandes : T1 EP19 - O que Amor Tem a Ver com Gato?; Disque M para Mostarda</title>
-    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
-    <episode-num system="onscreen">S01E19</episode-num>
-  </programme>
-  <programme start="20250103184000 +0000" stop="20250103190000 +0000" channel="Nickelodeon.br">
-    <title lang="pt">The Loud House : T5 EP5 - Banda Unida; Cega pela Ciência</title>
-    <episode-num system="xmltv_ns">4.4.0/1</episode-num>
-    <episode-num system="onscreen">S05E05</episode-num>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103192500 +0000" channel="Nickelodeon.br">
-    <title lang="pt">O Show do Patrick Estrela : T3 EP3 - Estrelaeróbica; Quem É o Fantoche Agora?</title>
-    <episode-num system="xmltv_ns">2.2.0/1</episode-num>
-    <episode-num system="onscreen">S03E03</episode-num>
   </programme>
   <programme start="20250103192500 +0000" stop="20250103195000 +0000" channel="Nickelodeon.br">
     <title lang="pt">Bob Esponja, Calça Quadrada : T13 EP26 - O Circo do Fracasso, Sandy, nos Ajude!</title>
@@ -14561,50 +13630,6 @@
     <episode-num system="xmltv_ns">4.32.0/1</episode-num>
     <episode-num system="onscreen">S05E33</episode-num>
   </programme>
-  <programme start="20250103153500 +0000" stop="20250103155000 +0000" channel="NickJr.br">
-    <title lang="pt">Os Chocolix : T2 EP9 - A Geleia de Arco-Íris</title>
-    <episode-num system="xmltv_ns">1.8.0/1</episode-num>
-    <episode-num system="onscreen">S02E09</episode-num>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103161500 +0000" channel="NickJr.br">
-    <title lang="pt">Rubble e Sua Turma : T1 EP7 - A Turma Constrói uma Casa de Castor!; A Turma Conserta uma Rua!</title>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103164000 +0000" channel="NickJr.br">
-    <title lang="pt">Rubble e Sua Turma : T1 EP8 - A Turma Constrói uma Pipocaria!; A Turma Conserta uma Bagunça Escorregadia!</title>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20250103164000 +0000" stop="20250103170500 +0000" channel="NickJr.br">
-    <title lang="pt">DORA : T2 - O Casamento dos Caranguejos; O Reino das Nuvens</title>
-  </programme>
-  <programme start="20250103170500 +0000" stop="20250103173000 +0000" channel="NickJr.br">
-    <title lang="pt">Baby Shark, o Grande Show! : T1 EP5 - Lendário Tesouro; Dia do Sim</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103175000 +0000" channel="NickJr.br">
-    <title lang="pt">Barbapapa - Uma Grande Família : T2 - Acampamento de Verão 1; Acampamento de Verão 2</title>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103181500 +0000" channel="NickJr.br">
-    <title lang="pt">Patrulha Canina : T11 EP4 - Os Filhotes Salvam a Helga e o Homem das Névoas!; Os Filhotes Salvam o Osso de Esmeralda?Perdido!</title>
-    <episode-num system="xmltv_ns">10.3.0/1</episode-num>
-    <episode-num system="onscreen">S11E04</episode-num>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103184000 +0000" channel="NickJr.br">
-    <title lang="pt">Tiny Chef : T2 EP12 - Torta da Ruby; Smoothies</title>
-    <episode-num system="xmltv_ns">1.11.0/1</episode-num>
-    <episode-num system="onscreen">S02E12</episode-num>
-  </programme>
-  <programme start="20250103184000 +0000" stop="20250103190500 +0000" channel="NickJr.br">
-    <title lang="pt">Rubble e Sua Turma : T1 EP8 - A Turma Constrói uma Pipocaria!; A Turma Conserta uma Bagunça Escorregadia!</title>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20250103190500 +0000" stop="20250103191500 +0000" channel="NickJr.br">
-    <title lang="pt">Rubble e Sua Turma : T2 - A Turma Constrói um Jardim de Borboletas!</title>
-  </programme>
   <programme start="20250103191500 +0000" stop="20250103194000 +0000" channel="NickJr.br">
     <title lang="pt">Os Hamsters de Hamsterdale : T1 EP8 - Greg, o Corajoso; Pique-Esconde</title>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
@@ -15194,15 +14219,6 @@
     <episode-num system="xmltv_ns">3.0.0/1</episode-num>
     <episode-num system="onscreen">S04E01</episode-num>
   </programme>
-  <programme start="20250103142000 +0000" stop="20250103160000 +0000" channel="ParamountNetwork.br">
-    <title lang="pt">Street Fighter - A Lenda de Chun-Li</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103174000 +0000" channel="ParamountNetwork.br">
-    <title lang="pt">Bolas em Pânico</title>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103192000 +0000" channel="ParamountNetwork.br">
-    <title lang="pt">Correndo por um Sonho</title>
-  </programme>
   <programme start="20250103192000 +0000" stop="20250103210000 +0000" channel="ParamountNetwork.br">
     <title lang="pt">O Âncora - A Lenda de Ron Burgundy</title>
   </programme>
@@ -15406,18 +14422,6 @@
   <programme start="20250105232000 +0000" stop="20250106012000 +0000" channel="ParamountNetwork.br">
     <title lang="pt">Sem Dor, sem Ganho</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="PremiereClubes.br">
-    <title lang="pt">VT</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="PremiereClubes.br">
-    <title lang="pt">VT</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103180000 +0000" channel="PremiereClubes.br">
-    <title lang="pt">VT</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103185000 +0000" channel="PremiereClubes.br">
-    <title lang="pt">VT</title>
-  </programme>
   <programme start="20250103185000 +0000" stop="20250103195000 +0000" channel="PremiereClubes.br">
     <title lang="pt">VT</title>
   </programme>
@@ -15561,20 +14565,6 @@
   </programme>
   <programme start="20250105221500 +0000" stop="20250106003000 +0000" channel="PremiereClubes.br">
     <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20250103151500 +0000" stop="20250103160000 +0000" channel="RaiItaliaAmerica.it">
-    <title lang="pt">L'arte della felicità : T1 EP5 - Tristezza</title>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103171500 +0000" channel="RaiItaliaAmerica.it">
-    <title lang="pt">È sempre mezzogiorno</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103190000 +0000" channel="RaiItaliaAmerica.it">
-    <title lang="pt">La vita in diretta</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="RaiItaliaAmerica.it">
-    <title lang="pt">Tg1</title>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103194500 +0000" channel="RaiItaliaAmerica.it">
     <title lang="pt">Tg Sport</title>
@@ -15763,12 +14753,6 @@
   <programme start="20250105223000 +0000" stop="20250106000000 +0000" channel="RaiItaliaAmerica.it">
     <title lang="pt">Raccontami</title>
   </programme>
-  <programme start="20250103145000 +0000" stop="20250103183000 +0000" channel="Record.br">
-    <title lang="pt">Balanço Geral</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103193000 +0000" channel="Record.br">
-    <title lang="pt">O Rico e Lázaro</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103201000 +0000" channel="Record.br">
     <title lang="pt">Cidade Alerta</title>
   </programme>
@@ -15906,33 +14890,6 @@
   </programme>
   <programme start="20250105224500 +0000" stop="20250106020000 +0000" channel="Record.br">
     <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103155800 +0000" channel="RecordNews.br">
-    <title lang="pt">Hora News</title>
-  </programme>
-  <programme start="20250103155800 +0000" stop="20250103160000 +0000" channel="RecordNews.br">
-    <title lang="pt">Jornal da Record - 24h</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="RecordNews.br">
-    <title lang="pt">Hora News</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103165800 +0000" channel="RecordNews.br">
-    <title lang="pt">Conexão Record News</title>
-  </programme>
-  <programme start="20250103165800 +0000" stop="20250103170000 +0000" channel="RecordNews.br">
-    <title lang="pt">Jornal da Record - 24h</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103174300 +0000" channel="RecordNews.br">
-    <title lang="pt">Conexão Record News</title>
-  </programme>
-  <programme start="20250103174300 +0000" stop="20250103174500 +0000" channel="RecordNews.br">
-    <title lang="pt">Jornal da Record - 24h</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103185800 +0000" channel="RecordNews.br">
-    <title lang="pt">Hora News</title>
-  </programme>
-  <programme start="20250103185800 +0000" stop="20250103190000 +0000" channel="RecordNews.br">
-    <title lang="pt">Jornal da Record - 24h</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103195800 +0000" channel="RecordNews.br">
     <title lang="pt">Hora News</title>
@@ -16258,12 +15215,6 @@
   <programme start="20250105233000 +0000" stop="20250106003000 +0000" channel="RecordNews.br">
     <title lang="pt">Record News Repórter</title>
   </programme>
-  <programme start="20250103145000 +0000" stop="20250103160000 +0000" channel="RedeTV.br">
-    <title lang="pt">A Hora do Zap</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103180000 +0000" channel="RedeTV.br">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
   <programme start="20250103180000 +0000" stop="20250103200000 +0000" channel="RedeTV.br">
     <title lang="pt">A Tarde É Sua</title>
   </programme>
@@ -16419,15 +15370,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106010000 +0000" channel="RedeTV.br">
     <title lang="pt">João Kléber Show</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103173000 +0000" channel="RedeVida.br">
-    <title lang="pt">Vida Melhor</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="RedeVida.br">
-    <title lang="pt">Juntos com Nossa Senhora de Fátima</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103191500 +0000" channel="RedeVida.br">
-    <title lang="pt">Bendita Hora</title>
   </programme>
   <programme start="20250103191500 +0000" stop="20250103200000 +0000" channel="RedeVida.br">
     <title lang="pt">Escolhas da Vida</title>
@@ -16690,21 +15632,6 @@
   <programme start="20250105220000 +0000" stop="20250106000000 +0000" channel="RedeVida.br">
     <title lang="pt">Tamo Junto</title>
   </programme>
-  <programme start="20250103141500 +0000" stop="20250103161500 +0000">
-    <title lang="pt">SBT Rio</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103164500 +0000">
-    <title lang="pt">SBT Esporte Rio</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103171500 +0000">
-    <title lang="pt">Carinha de Anjo</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103180000 +0000">
-    <title lang="pt">Quando me Apaixono</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000">
-    <title lang="pt">Meu Caminho É te Amar</title>
-  </programme>
   <programme start="20250103194500 +0000" stop="20250103213000 +0000">
     <title lang="pt">Tá na Hora</title>
   </programme>
@@ -16788,18 +15715,6 @@
   </programme>
   <programme start="20250105220000 +0000" stop="20250106030000 +0000">
     <title lang="pt">Programa Sílvio Santos com Patrícia Abravanel</title>
-  </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="Shoptime.br">
-    <title lang="pt">Especial Shoptime</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="Shoptime.br">
-    <title lang="pt">Especial Shoptime</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103180000 +0000" channel="Shoptime.br">
-    <title lang="pt">Especial Shoptime</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103200000 +0000" channel="Shoptime.br">
-    <title lang="pt">Casa e Conforto</title>
   </programme>
   <programme start="20250103200000 +0000" stop="20250103210000 +0000" channel="Shoptime.br">
     <title lang="pt">Especial Shoptime</title>
@@ -16957,21 +15872,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="Shoptime.br">
     <title lang="pt">Casa e Conforto</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103164500 +0000" channel="SICInternacional.pt">
-    <title lang="pt">Passadeira Vermelha : Especiais</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103181500 +0000" channel="SICInternacional.pt">
-    <title lang="pt">Linha Aberta</title>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103183000 +0000" channel="SICInternacional.pt">
-    <title lang="pt">Boa Cama Boa Mesa</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103184500 +0000" channel="SICInternacional.pt">
-    <title lang="pt">Contas Poupança</title>
-  </programme>
-  <programme start="20250103184500 +0000" stop="20250103193000 +0000" channel="SICInternacional.pt">
-    <title lang="pt">Senhora do Mar</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="SICInternacional.pt">
     <title lang="pt">Golpe de Sorte</title>
   </programme>
@@ -17115,26 +16015,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="SICInternacional.pt">
     <title lang="pt">Comentário Marques Mendes</title>
-  </programme>
-  <programme start="20250103145900 +0000" stop="20250103155400 +0000" channel="SonyChannel.br">
-    <title lang="pt">The Good Doctor : T6 EP13 - 39 Differences</title>
-    <episode-num system="xmltv_ns">5.12.0/1</episode-num>
-    <episode-num system="onscreen">S06E13</episode-num>
-  </programme>
-  <programme start="20250103155400 +0000" stop="20250103164900 +0000" channel="SonyChannel.br">
-    <title lang="pt">The Good Doctor : T6 EP14 - Hard Heart</title>
-    <episode-num system="xmltv_ns">5.13.0/1</episode-num>
-    <episode-num system="onscreen">S06E14</episode-num>
-  </programme>
-  <programme start="20250103164900 +0000" stop="20250103174400 +0000" channel="SonyChannel.br">
-    <title lang="pt">The Good Doctor : T6 EP15 - Old Friends</title>
-    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
-    <episode-num system="onscreen">S06E15</episode-num>
-  </programme>
-  <programme start="20250103174400 +0000" stop="20250103184000 +0000" channel="SonyChannel.br">
-    <title lang="pt">The Good Doctor : T6 EP16 - The Good Lawyer</title>
-    <episode-num system="xmltv_ns">5.15.0/1</episode-num>
-    <episode-num system="onscreen">S06E16</episode-num>
   </programme>
   <programme start="20250103184000 +0000" stop="20250103203000 +0000" channel="SonyChannel.br">
     <title lang="pt">O Mistério do Relógio na Parede</title>
@@ -17350,19 +16230,6 @@
   <programme start="20250105224500 +0000" stop="20250106001500 +0000" channel="SonyChannel.br">
     <title lang="pt">Pânico no Lago</title>
   </programme>
-  <programme start="20250103150700 +0000" stop="20250103155400 +0000" channel="Space.br">
-    <title lang="pt">CSI: Miami : T5 EP8 - Quarto Escuro</title>
-    <episode-num system="xmltv_ns">4.7.0/1</episode-num>
-    <episode-num system="onscreen">S05E08</episode-num>
-  </programme>
-  <programme start="20250103155400 +0000" stop="20250103164000 +0000" channel="Space.br">
-    <title lang="pt">CSI: Miami : T5 EP9 - Dou-lhe Duas, Dou-lhe Três, Vendido!</title>
-    <episode-num system="xmltv_ns">4.8.0/1</episode-num>
-    <episode-num system="onscreen">S05E09</episode-num>
-  </programme>
-  <programme start="20250103164000 +0000" stop="20250103184600 +0000" channel="Space.br">
-    <title lang="pt">Guerra Mundial Z</title>
-  </programme>
   <programme start="20250103184600 +0000" stop="20250103205700 +0000" channel="Space.br">
     <title lang="pt">Terremoto - A Falha de San Andreas</title>
   </programme>
@@ -17524,15 +16391,6 @@
   <programme start="20250105214300 +0000" stop="20250106000000 +0000" channel="Space.br">
     <title lang="pt">O Contador</title>
   </programme>
-  <programme start="20250103151000 +0000" stop="20250103155000 +0000" channel="SporTV2.br">
-    <title lang="pt">Skate Para Sempre - Ep.02 - Street</title>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103164500 +0000" channel="SporTV2.br">
-    <title lang="pt">Faixa Olímpica: Olimpíadas Latinas</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103190000 +0000" channel="SporTV2.br">
-    <title lang="pt">VT - Vôlei Feminino - Brasil x Japão - Macau, China</title>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103205000 +0000" channel="SporTV2.br">
     <title lang="pt">VT - Vôlei Feminino - Brasil x Holanda - Macau, China</title>
   </programme>
@@ -17640,12 +16498,6 @@
   </programme>
   <programme start="20250105230500 +0000" stop="20250106005000 +0000" channel="SporTV2.br">
     <title lang="pt">Liga Das Nações Masculina De Vôlei</title>
-  </programme>
-  <programme start="20250103145000 +0000" stop="20250103173000 +0000" channel="SporTV3.br">
-    <title lang="pt">Faixa Combate: PFL 2024 - Regular Season #2</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103174500 +0000" channel="SporTV3.br">
-    <title lang="pt">Heróis Do Futuro: Hebert Conceição - Boxe</title>
   </programme>
   <programme start="20250103174500 +0000" stop="20250103203000 +0000" channel="SporTV3.br">
     <title lang="pt">VT - Faixa Combate: Boxe - Conceição x Foster</title>
@@ -17782,12 +16634,6 @@
   <programme start="20250105234500 +0000" stop="20250106015500 +0000" channel="SporTV3.br">
     <title lang="pt">VT - Faixa Combate: Boxe - Lomachenko x Kambosos</title>
   </programme>
-  <programme start="20250103153000 +0000" stop="20250103160000 +0000" channel="SporTV.br">
-    <title lang="pt">Tá On - Ao Vivo</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103174500 +0000" channel="SporTV.br">
-    <title lang="pt">Seleção sportv - Ao Vivo</title>
-  </programme>
   <programme start="20250103174500 +0000" stop="20250103200000 +0000" channel="SporTV.br">
     <title lang="pt">Vitória x São José-RS - Ao Vivo</title>
   </programme>
@@ -17914,15 +16760,6 @@
   <programme start="20250105213000 +0000" stop="20250106000000 +0000" channel="SporTV.br">
     <title lang="pt">Fortaleza x Carajás-PA - Ao Vivo</title>
   </programme>
-  <programme start="20250103143000 +0000" stop="20250103160500 +0000" channel="StudioUniversal.br">
-    <title lang="pt">Natal Entre Irmãs: Na Cidade</title>
-  </programme>
-  <programme start="20250103160500 +0000" stop="20250103174000 +0000" channel="StudioUniversal.br">
-    <title lang="pt">Um Natal Inesquecível</title>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103191500 +0000" channel="StudioUniversal.br">
-    <title lang="pt">Um Natal na Suíça</title>
-  </programme>
   <programme start="20250103191500 +0000" stop="20250103204500 +0000" channel="StudioUniversal.br">
     <title lang="pt">Namorados do Natal Passado</title>
   </programme>
@@ -18036,18 +16873,6 @@
   </programme>
   <programme start="20250105222500 +0000" stop="20250106000000 +0000" channel="StudioUniversal.br">
     <title lang="pt">Natal na Montanha Blue Ridge</title>
-  </programme>
-  <programme start="20250103154000 +0000" stop="20250103163000 +0000" channel="Syfy.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103172000 +0000" channel="Syfy.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103181000 +0000" channel="Syfy.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103190000 +0000" channel="Syfy.br">
-    <title lang="pt">Blue Bloods</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103195000 +0000" channel="Syfy.br">
     <title lang="pt">Blue Bloods</title>
@@ -18243,18 +17068,6 @@
   </programme>
   <programme start="20250105231000 +0000" stop="20250106000000 +0000" channel="Syfy.br">
     <title lang="pt">Prodigal Son</title>
-  </programme>
-  <programme start="20250103150900 +0000" stop="20250103160900 +0000" channel="TBS.br">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20250103160900 +0000" stop="20250103171100 +0000" channel="TBS.br">
-    <title lang="pt">A Promessa</title>
-  </programme>
-  <programme start="20250103171100 +0000" stop="20250103181400 +0000" channel="TBS.br">
-    <title lang="pt">A Promessa</title>
-  </programme>
-  <programme start="20250103181400 +0000" stop="20250103190200 +0000" channel="TBS.br">
-    <title lang="pt">Minha Menina</title>
   </programme>
   <programme start="20250103190200 +0000" stop="20250103195200 +0000" channel="TBS.br">
     <title lang="pt">Minha Menina</title>
@@ -18498,12 +17311,6 @@
   <programme start="20250105232800 +0000" stop="20250106003200 +0000" channel="TBS.br">
     <title lang="pt">A Promessa</title>
   </programme>
-  <programme start="20250103150600 +0000" stop="20250103171700 +0000" channel="TCM.br">
-    <title lang="pt">Operação Corvo</title>
-  </programme>
-  <programme start="20250103171700 +0000" stop="20250103193200 +0000" channel="TCM.br">
-    <title lang="pt">Josey Wales, o Fora da Lei</title>
-  </programme>
   <programme start="20250103193200 +0000" stop="20250103225100 +0000" channel="TCM.br">
     <title lang="pt">Assim Caminha a Humanidade</title>
   </programme>
@@ -18603,12 +17410,6 @@
   <programme start="20250105232500 +0000" stop="20250106010000 +0000" channel="TCM.br">
     <title lang="pt">And So It Goes</title>
   </programme>
-  <programme start="20250103152000 +0000" stop="20250103170000 +0000" channel="TelecineAction.br">
-    <title lang="pt">João e Maria - Caçadores de Bruxas</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103190500 +0000" channel="TelecineAction.br">
-    <title lang="pt">Os Especialistas</title>
-  </programme>
   <programme start="20250103190500 +0000" stop="20250103212500 +0000" channel="TelecineAction.br">
     <title lang="pt">John Wick 3 - Parabellum</title>
   </programme>
@@ -18693,12 +17494,6 @@
   <programme start="20250105222000 +0000" stop="20250106010000 +0000" channel="TelecineAction.br">
     <title lang="pt">Transformers - O Lado Oculto da Lua</title>
   </programme>
-  <programme start="20250103151000 +0000" stop="20250103171000 +0000" channel="TelecineCult.br">
-    <title lang="pt">De Volta para o Futuro</title>
-  </programme>
-  <programme start="20250103171000 +0000" stop="20250103190500 +0000" channel="TelecineCult.br">
-    <title lang="pt">Central do Brasil</title>
-  </programme>
   <programme start="20250103190500 +0000" stop="20250103205500 +0000" channel="TelecineCult.br">
     <title lang="pt">O Auto da Compadecida</title>
   </programme>
@@ -18779,12 +17574,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106010000 +0000" channel="TelecineCult.br">
     <title lang="pt">Não Matarás</title>
-  </programme>
-  <programme start="20250103150500 +0000" stop="20250103161500 +0000" channel="TelecineFun.br">
-    <title lang="pt">D.P.A. e a Biblioteca Banida</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103181500 +0000" channel="TelecineFun.br">
-    <title lang="pt">Dois É Demais em Orlando</title>
   </programme>
   <programme start="20250103181500 +0000" stop="20250103200500 +0000" channel="TelecineFun.br">
     <title lang="pt">Uma Turma do Barulho</title>
@@ -18885,12 +17674,6 @@
   <programme start="20250105231000 +0000" stop="20250106010000 +0000" channel="TelecineFun.br">
     <title lang="pt">Os Parças 2</title>
   </programme>
-  <programme start="20250103154000 +0000" stop="20250103173000 +0000" channel="TelecinePipoca.br">
-    <title lang="pt">Blueback - Uma Amizade Profunda</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103192500 +0000" channel="TelecinePipoca.br">
-    <title lang="pt">Roubo nas Alturas</title>
-  </programme>
   <programme start="20250103192500 +0000" stop="20250103211000 +0000" channel="TelecinePipoca.br">
     <title lang="pt">Braddock 2 - O Início da Missão</title>
   </programme>
@@ -18977,12 +17760,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106005500 +0000" channel="TelecinePipoca.br">
     <title lang="pt">O Corvo</title>
-  </programme>
-  <programme start="20250103152500 +0000" stop="20250103170000 +0000" channel="TelecinePremium.br">
-    <title lang="pt">Os Aventureiros - A Origem</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103183500 +0000" channel="TelecinePremium.br">
-    <title lang="pt">Os Peludos</title>
   </programme>
   <programme start="20250103183500 +0000" stop="20250103204500 +0000" channel="TelecinePremium.br">
     <title lang="pt">A História Pessoal de David Copperfield</title>
@@ -19074,12 +17851,6 @@
   <programme start="20250105231500 +0000" stop="20250106010000 +0000" channel="TelecinePremium.br">
     <title lang="pt">Rota de Fuga 3 - O Resgate</title>
   </programme>
-  <programme start="20250103151500 +0000" stop="20250103165500 +0000" channel="TelecineTouch.br">
-    <title lang="pt">De Repente 70</title>
-  </programme>
-  <programme start="20250103165500 +0000" stop="20250103184500 +0000" channel="TelecineTouch.br">
-    <title lang="pt">O Despertar do Tigre</title>
-  </programme>
   <programme start="20250103184500 +0000" stop="20250103211000 +0000" channel="TelecineTouch.br">
     <title lang="pt">Chernobyl: O Filme</title>
   </programme>
@@ -19166,18 +17937,6 @@
   </programme>
   <programme start="20250105232000 +0000" stop="20250106010000 +0000" channel="TelecineTouch.br">
     <title lang="pt">De Repente 70</title>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103161500 +0000" channel="TerraViva.br">
-    <title lang="pt">Tatersal</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103164500 +0000" channel="TerraViva.br">
-    <title lang="pt">Seu Solo Saudável</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103171500 +0000" channel="TerraViva.br">
-    <title lang="pt">Mulheres e Homens da Terra</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103183000 +0000" channel="TerraViva.br">
-    <title lang="pt">Minas Rural</title>
   </programme>
   <programme start="20250103183000 +0000" stop="20250103214500 +0000" channel="TerraViva.br">
     <title lang="pt">Programa Pago</title>
@@ -19331,31 +18090,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106050000 +0000" channel="TerraViva.br">
     <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20250103151900 +0000" stop="20250103160600 +0000" channel="TLC.br">
-    <title lang="pt">Bem-Vindo à Família Plath : T6 EP7 - Surpresa de Aniversário</title>
-    <episode-num system="xmltv_ns">5.6.0/1</episode-num>
-    <episode-num system="onscreen">S06E07</episode-num>
-  </programme>
-  <programme start="20250103160600 +0000" stop="20250103165300 +0000" channel="TLC.br">
-    <title lang="pt">Bem-Vindo à Família Plath : T6 EP8 - Abaixo a Repressão</title>
-    <episode-num system="xmltv_ns">5.7.0/1</episode-num>
-    <episode-num system="onscreen">S06E08</episode-num>
-  </programme>
-  <programme start="20250103165300 +0000" stop="20250103174000 +0000" channel="TLC.br">
-    <title lang="pt">Bem-Vindo à Família Plath : T6 EP9 - É para Isso que Servem as Paredes</title>
-    <episode-num system="xmltv_ns">5.8.0/1</episode-num>
-    <episode-num system="onscreen">S06E09</episode-num>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103182700 +0000" channel="TLC.br">
-    <title lang="pt">Bem-Vindo à Família Plath : T6 EP10 - Eu te Amo</title>
-    <episode-num system="xmltv_ns">5.9.0/1</episode-num>
-    <episode-num system="onscreen">S06E10</episode-num>
-  </programme>
-  <programme start="20250103182700 +0000" stop="20250103191300 +0000" channel="TLC.br">
-    <title lang="pt">Bem-Vindo à Família Plath : T6 EP11 - A Primeira Vez</title>
-    <episode-num system="xmltv_ns">5.10.0/1</episode-num>
-    <episode-num system="onscreen">S06E11</episode-num>
   </programme>
   <programme start="20250103191300 +0000" stop="20250103195900 +0000" channel="TLC.br">
     <title lang="pt">Bem-Vindo à Família Plath : T6 EP12 - Segure Meus Brincos</title>
@@ -19730,34 +18464,6 @@
     <episode-num system="xmltv_ns">5.6.0/1</episode-num>
     <episode-num system="onscreen">S06E07</episode-num>
   </programme>
-  <programme start="20250103143900 +0000" stop="20250103163400 +0000" channel="TNT.br">
-    <title lang="pt">S.W.A.T. - Comando Especial</title>
-  </programme>
-  <programme start="20250103163400 +0000" stop="20250103165800 +0000" channel="TNT.br">
-    <title lang="pt">Um Maluco no Pedaço : T5 EP11 - Will Vai Sair</title>
-    <episode-num system="xmltv_ns">4.10.0/1</episode-num>
-    <episode-num system="onscreen">S05E11</episode-num>
-  </programme>
-  <programme start="20250103165800 +0000" stop="20250103172200 +0000" channel="TNT.br">
-    <title lang="pt">Um Maluco no Pedaço : T5 EP12 - Mesmo Jogo, Próxima Temporada</title>
-    <episode-num system="xmltv_ns">4.11.0/1</episode-num>
-    <episode-num system="onscreen">S05E12</episode-num>
-  </programme>
-  <programme start="20250103172200 +0000" stop="20250103174400 +0000" channel="TNT.br">
-    <title lang="pt">Todo Mundo Odeia o Chris : T2 EP12 - Todo Mundo Odeia Inspetores</title>
-    <episode-num system="xmltv_ns">1.11.0/1</episode-num>
-    <episode-num system="onscreen">S02E12</episode-num>
-  </programme>
-  <programme start="20250103174400 +0000" stop="20250103180600 +0000" channel="TNT.br">
-    <title lang="pt">Todo Mundo Odeia o Chris : T2 EP13 - Todo Mundo Odeia Dia Com Neve</title>
-    <episode-num system="xmltv_ns">1.12.0/1</episode-num>
-    <episode-num system="onscreen">S02E13</episode-num>
-  </programme>
-  <programme start="20250103180600 +0000" stop="20250103182800 +0000" channel="TNT.br">
-    <title lang="pt">Todo Mundo Odeia o Chris : T2 EP16 - Todo Mundo Odeia Roubo De Cordão</title>
-    <episode-num system="xmltv_ns">1.15.0/1</episode-num>
-    <episode-num system="onscreen">S02E16</episode-num>
-  </programme>
   <programme start="20250103182800 +0000" stop="20250103201700 +0000" channel="TNT.br">
     <title lang="pt">Miss Simpatia</title>
   </programme>
@@ -19951,31 +18657,6 @@
   </programme>
   <programme start="20250105225200 +0000" stop="20250106010000 +0000" channel="TNT.br">
     <title lang="pt">Jumanji - Próxima Fase</title>
-  </programme>
-  <programme start="20250103153100 +0000" stop="20250103161600 +0000" channel="TNTSeries.br">
-    <title lang="pt">The Mentalist : T7 EP4 - Black Market</title>
-    <episode-num system="xmltv_ns">6.3.0/1</episode-num>
-    <episode-num system="onscreen">S07E04</episode-num>
-  </programme>
-  <programme start="20250103161600 +0000" stop="20250103170400 +0000" channel="TNTSeries.br">
-    <title lang="pt">Cold Case : T4 EP22 - Cargo</title>
-    <episode-num system="xmltv_ns">3.21.0/1</episode-num>
-    <episode-num system="onscreen">S04E22</episode-num>
-  </programme>
-  <programme start="20250103170400 +0000" stop="20250103175100 +0000" channel="TNTSeries.br">
-    <title lang="pt">Cold Case : T4 EP23 - The Good Death</title>
-    <episode-num system="xmltv_ns">3.22.0/1</episode-num>
-    <episode-num system="onscreen">S04E23</episode-num>
-  </programme>
-  <programme start="20250103175100 +0000" stop="20250103183700 +0000" channel="TNTSeries.br">
-    <title lang="pt">Sob Suspeita : T4 EP21 - Asylum</title>
-    <episode-num system="xmltv_ns">3.20.0/1</episode-num>
-    <episode-num system="onscreen">S04E21</episode-num>
-  </programme>
-  <programme start="20250103183700 +0000" stop="20250103192200 +0000" channel="TNTSeries.br">
-    <title lang="pt">Sob Suspeita : T4 EP22 - YHWH</title>
-    <episode-num system="xmltv_ns">3.21.0/1</episode-num>
-    <episode-num system="onscreen">S04E22</episode-num>
   </programme>
   <programme start="20250103192200 +0000" stop="20250103200500 +0000" channel="TNTSeries.br">
     <title lang="pt">Law &amp; Order: Special Victims Unit : T8 EP14 - Dependent</title>
@@ -20346,67 +19027,6 @@
     <title lang="pt">The Mentalist : T6 EP5 - The Red Tattoo</title>
     <episode-num system="xmltv_ns">5.4.0/1</episode-num>
     <episode-num system="onscreen">S06E05</episode-num>
-  </programme>
-  <programme start="20250103154200 +0000" stop="20250103155300 +0000" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack : T1 - O Homem Planta</title>
-  </programme>
-  <programme start="20250103155300 +0000" stop="20250103160600 +0000" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack : T1 - O Meu Anjo da Guarda Está Me Matando!</title>
-  </programme>
-  <programme start="20250103160600 +0000" stop="20250103161700 +0000" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack : T1 - Vai Desejando...</title>
-  </programme>
-  <programme start="20250103161700 +0000" stop="20250103163000 +0000" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack : T1 - Picadas de Amor</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103164200 +0000" channel="Tooncast.us">
-    <title lang="pt">Chowder : T2 - Trufa com Problemas</title>
-  </programme>
-  <programme start="20250103164200 +0000" stop="20250103165200 +0000" channel="Tooncast.us">
-    <title lang="pt">Chowder : T1 - A Colheita do Mêssego</title>
-  </programme>
-  <programme start="20250103165200 +0000" stop="20250103170500 +0000" channel="Tooncast.us">
-    <title lang="pt">Chowder : T2 - Feira Memorável</title>
-  </programme>
-  <programme start="20250103170500 +0000" stop="20250103171600 +0000" channel="Tooncast.us">
-    <title lang="pt">Chowder : T2 - Os Arborianos</title>
-  </programme>
-  <programme start="20250103171600 +0000" stop="20250103172900 +0000" channel="Tooncast.us">
-    <title lang="pt">Chowder : T1 - Mão de Puff de Creme</title>
-  </programme>
-  <programme start="20250103172900 +0000" stop="20250103173500 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP22 - A Vovó</title>
-  </programme>
-  <programme start="20250103173500 +0000" stop="20250103174200 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : Dia da Árvore</title>
-  </programme>
-  <programme start="20250103174200 +0000" stop="20250103174900 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP24 - Ami e Ami</title>
-  </programme>
-  <programme start="20250103174900 +0000" stop="20250103175500 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP8 - Kaz Contra Gatos</title>
-  </programme>
-  <programme start="20250103175500 +0000" stop="20250103180400 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi</title>
-  </programme>
-  <programme start="20250103180400 +0000" stop="20250103181200 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP2 - Icakuju</title>
-  </programme>
-  <programme start="20250103181200 +0000" stop="20250103181900 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP12 - Vampiros de Talentos</title>
-  </programme>
-  <programme start="20250103181900 +0000" stop="20250103182800 +0000" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy AmiYumi : EP29 - Hora de Visita</title>
-  </programme>
-  <programme start="20250103182800 +0000" stop="20250103185300 +0000" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster para Amigos Imaginários : T4 EP1 - O Desafio dos Super Amigos</title>
-    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
-    <episode-num system="onscreen">S04E01</episode-num>
-  </programme>
-  <programme start="20250103185300 +0000" stop="20250103191700 +0000" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster para Amigos Imaginários : T3 EP12 - Um Quarto Disputado</title>
-    <episode-num system="xmltv_ns">2.11.0/1</episode-num>
-    <episode-num system="onscreen">S03E12</episode-num>
   </programme>
   <programme start="20250103191700 +0000" stop="20250103194200 +0000" channel="Tooncast.us">
     <title lang="pt">A Mansão Foster para Amigos Imaginários : T3 EP1 - Luta de Monstros</title>
@@ -21518,29 +20138,6 @@
   <programme start="20250105235900 +0000" stop="20250106000400 +0000" channel="Tooncast.us">
     <title lang="pt">Sheep na Cidade Grande</title>
   </programme>
-  <programme start="20250103152000 +0000" stop="20250103155000 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Bar Brasil</title>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103162000 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Expedição Cicloturismo - A Vida em Movimento</title>
-  </programme>
-  <programme start="20250103162000 +0000" stop="20250103162500 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Cris pelo Mundo e a Magia da Disneyland Paris</title>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103164000 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Bella Viagem</title>
-  </programme>
-  <programme start="20250103164000 +0000" stop="20250103165500 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Viva Essa Viagem</title>
-  </programme>
-  <programme start="20250103165500 +0000" stop="20250103174500 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Caçadores dos Ventos</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103180000 +0000" channel="TravelBoxBrazil.br">
-    <title lang="pt">Errei : T1 EP1 - Salvador, Bahia</title>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
   <programme start="20250103180000 +0000" stop="20250103220000 +0000" channel="TravelBoxBrazil.br">
     <title lang="pt">Medalhão Persa</title>
   </programme>
@@ -21925,24 +20522,6 @@
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="TravelBoxBrazil.br">
     <title lang="pt">Cris pelo Mundo - Cabo Verde</title>
   </programme>
-  <programme start="20250103153100 +0000" stop="20250103160100 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">Littoral</title>
-  </programme>
-  <programme start="20250103160100 +0000" stop="20250103170000 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">Roller derby, le retour</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">64' le monde en français - 1re partie</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103175000 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">64' le monde en français - 2e partie</title>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103180000 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">L'invité</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103180500 +0000" channel="TV5MondeLatinAmerica.fr">
-    <title lang="pt">64' l'essentiel</title>
-  </programme>
   <programme start="20250103180500 +0000" stop="20250103194600 +0000" channel="TV5MondeLatinAmerica.fr">
     <title lang="pt">Marie-Line et son juge</title>
   </programme>
@@ -22252,18 +20831,6 @@
   <programme start="20250105233000 +0000" stop="20250106004700 +0000" channel="TV5MondeLatinAmerica.fr">
     <title lang="pt">Super-bourrés</title>
   </programme>
-  <programme start="20250103154500 +0000" stop="20250103163000 +0000" channel="TVAparecida.br">
-    <title lang="pt">TJ Aparecida</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103180000 +0000" channel="TVAparecida.br">
-    <title lang="pt">Faça Você Mesmo</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="TVAparecida.br">
-    <title lang="pt">Visita ao Santíssimo e Consagração</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103184000 +0000" channel="TVAparecida.br">
-    <title lang="pt">Aparecida Lojas</title>
-  </programme>
   <programme start="20250103184000 +0000" stop="20250103204000 +0000" channel="TVAparecida.br">
     <title lang="pt">Santa Receita</title>
   </programme>
@@ -22437,21 +21004,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106013000 +0000" channel="TVAparecida.br">
     <title lang="pt">Aparecida Sertaneja</title>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103163000 +0000" channel="TVBrasil.br">
-    <title lang="pt">Repórter Brasil Tarde</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="TVBrasil.br">
-    <title lang="pt">Bem Bahia</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="TVBrasil.br">
-    <title lang="pt">Brasil Visto de Cima</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="TVBrasil.br">
-    <title lang="pt">Parques do Brasil</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103190000 +0000" channel="TVBrasil.br">
-    <title lang="pt">Esquadrão de Tubarões</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103210000 +0000" channel="TVBrasil.br">
     <title lang="pt">Sem Censura</title>
@@ -22714,15 +21266,6 @@
   <programme start="20250105233000 +0000" stop="20250106003000 +0000" channel="TVBrasil.br">
     <title lang="pt">No Mundo da Bola</title>
   </programme>
-  <programme start="20250103150000 +0000" stop="20250103160000 +0000" channel="TVCamara.br">
-    <title lang="pt">Bora Entender?</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="TVCamara.br">
-    <title lang="pt">Elas Pautam</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103173000 +0000" channel="TVCamara.br">
-    <title lang="pt">Participação Popular</title>
-  </programme>
   <programme start="20250103173000 +0000" stop="20250103200000 +0000" channel="TVCamara.br">
     <title lang="pt">Comissão</title>
   </programme>
@@ -22932,18 +21475,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="TVCamara.br">
     <title lang="pt">Qual a Questão?</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103163000 +0000" channel="TVCancaoNova.br">
-    <title lang="pt">O Tempo É Breve</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103180000 +0000" channel="TVCancaoNova.br">
-    <title lang="pt">Acampamento para Famílias : Pregação - Evandro Nunes e Solange</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="TVCancaoNova.br">
-    <title lang="pt">Terço da Misericórdia</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103190000 +0000" channel="TVCancaoNova.br">
-    <title lang="pt">Circulando</title>
   </programme>
   <programme start="20250103190000 +0000" stop="20250103202800 +0000" channel="TVCancaoNova.br">
     <title lang="pt">Acampamento para Famílias : Santa Missa - Padre Chrystian Shankar</title>
@@ -23163,85 +21694,6 @@
   </programme>
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="TVCancaoNova.br">
     <title lang="pt">Repórter Canção Nova</title>
-  </programme>
-  <programme start="20250103154500 +0000" stop="20250103160000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Peppa Pig : T2 - O Escritório do Papai Pig; O Dentista; O Posto do Vovô Cão</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103160500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Kid-E-Cats : T1 EP42 - Uma Grande Diversão</title>
-    <episode-num system="xmltv_ns">0.41.0/1</episode-num>
-    <episode-num system="onscreen">S01E42</episode-num>
-  </programme>
-  <programme start="20250103160500 +0000" stop="20250103161500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Ana Bolinha : Boneca Cinco em Um</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103162000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Oi, Duggee! : T1 EP51 - Duggee e o Distintivo da História</title>
-    <episode-num system="xmltv_ns">0.50.0/1</episode-num>
-    <episode-num system="onscreen">S01E51</episode-num>
-  </programme>
-  <programme start="20250103162000 +0000" stop="20250103163000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Simon, o Supercoelho : Estrelas pra Mamãe; Eu Não Tenho Medo de Tempestade</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103164500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Um Herói do Coração : Os Cinco Sentidos; Mágica Máquina de Cupcakes; Eu Sou uma Serpente; Biscoitos Deliciosos</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103165000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Masha e o Urso : T3 EP8 - A Seu Serviço</title>
-    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
-    <episode-num system="onscreen">S03E08</episode-num>
-  </programme>
-  <programme start="20250103165000 +0000" stop="20250103170000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Masha e o Urso : T3 EP9 - Amigos para Sempre</title>
-    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
-    <episode-num system="onscreen">S03E09</episode-num>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103171500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Viola e Tambor : T1 - O Show de Talentos; A Partida de Futebol</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103173000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Dino Ranch : T1 - O Presente Perfeito para Jane</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103174500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">PJ Masks - Heróis de Pijama : T2 EP19 - Travessuras do Dia Das Bruxas - Parte 1; Travessuras do Dia Das Bruxas - Parte 2</title>
-    <episode-num system="xmltv_ns">1.18.0/1</episode-num>
-    <episode-num system="onscreen">S02E19</episode-num>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103180000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Octonautas : T3 EP2 - Octonautas e os Ursos D'Água</title>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <episode-num system="onscreen">S03E02</episode-num>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103181500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">44 Gatos : T2 EP16 - AIDA, a Gata Robô</title>
-    <episode-num system="xmltv_ns">1.15.0/1</episode-num>
-    <episode-num system="onscreen">S02E16</episode-num>
-  </programme>
-  <programme start="20250103181500 +0000" stop="20250103183000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Bluey : T1 - Crianças; Frango Rato</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103184500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Meu AmigãoZão : Espinafrada</title>
-  </programme>
-  <programme start="20250103184500 +0000" stop="20250103190000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">O Show da Luna! : T2 EP16 - Quantos Anos Você Tem?</title>
-    <episode-num system="xmltv_ns">1.15.0/1</episode-num>
-    <episode-num system="onscreen">S02E16</episode-num>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103191500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Milo : T1 EP23 - Milo, o Juiz</title>
-    <episode-num system="xmltv_ns">0.22.0/1</episode-num>
-    <episode-num system="onscreen">S01E23</episode-num>
-  </programme>
-  <programme start="20250103191500 +0000" stop="20250103192500 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Martin Manhã : T4 EP4 - Leões, Tigres e Pinguins, Minha Nossa!</title>
-    <episode-num system="xmltv_ns">3.3.0/1</episode-num>
-    <episode-num system="onscreen">S04E04</episode-num>
-  </programme>
-  <programme start="20250103192500 +0000" stop="20250103193000 +0000" channel="TVCulturaNacional.br">
-    <title lang="pt">Morgana &amp; Celeste : T1 EP25 - A Construção da Torre Eiffel</title>
-    <episode-num system="xmltv_ns">0.24.0/1</episode-num>
-    <episode-num system="onscreen">S01E25</episode-num>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103194500 +0000" channel="TVCulturaNacional.br">
     <title lang="pt">Quintal da Cultura : T6 EP2 - Contação de Histórias - Cia. Canto Encanto</title>
@@ -23630,27 +22082,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="TVCulturaNacional.br">
     <title lang="pt">Brasil Jazz Sinfônica</title>
   </programme>
-  <programme start="20250103153100 +0000" stop="20250103160000 +0000" channel="TVEscola.br">
-    <title lang="pt">Leituras: Lourenço Cazarré</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103170100 +0000" channel="TVEscola.br">
-    <title lang="pt">Hora Do Enem 2023</title>
-  </programme>
-  <programme start="20250103170100 +0000" stop="20250103172000 +0000" channel="TVEscola.br">
-    <title lang="pt">A Oficina do Vovô</title>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103173200 +0000" channel="TVEscola.br">
-    <title lang="pt">Guerreiros Da Amazônia</title>
-  </programme>
-  <programme start="20250103173200 +0000" stop="20250103174500 +0000" channel="TVEscola.br">
-    <title lang="pt">Zou</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103180000 +0000" channel="TVEscola.br">
-    <title lang="pt">Zou</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103193000 +0000" channel="TVEscola.br">
-    <title lang="pt">Fabulosas Coleções do Seu Gonçalo</title>
-  </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="TVEscola.br">
     <title lang="pt">Mulheres De Macacão</title>
   </programme>
@@ -23798,12 +22229,6 @@
   <programme start="20250105233500 +0000" stop="20250106001100 +0000" channel="TVEscola.br">
     <title lang="pt">Brasil 200</title>
   </programme>
-  <programme start="20250103145000 +0000" stop="20250103182000 +0000">
-    <title lang="pt">Mañaneros</title>
-  </programme>
-  <programme start="20250103182000 +0000" stop="20250103191000 +0000">
-    <title lang="pt">Extra mañaneros</title>
-  </programme>
   <programme start="20250103191000 +0000" stop="20250103200000 +0000">
     <title lang="pt">Saber y ganar</title>
   </programme>
@@ -23938,12 +22363,6 @@
   <programme start="20250105223000 +0000" stop="20250106002000 +0000">
     <title lang="pt">Cine de barrio</title>
   </programme>
-  <programme start="20250103090000 +0000" stop="20250103160000 +0000" channel="TVGazeta.br">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103173000 +0000" channel="TVGazeta.br">
-    <title lang="pt">Você Bonita</title>
-  </programme>
   <programme start="20250103173000 +0000" stop="20250103210000 +0000" channel="TVGazeta.br">
     <title lang="pt">Mulheres</title>
   </programme>
@@ -24024,21 +22443,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="TVGazeta.br">
     <title lang="pt">Programa Seguro</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103155800 +0000" channel="TVJustica.br">
-    <title lang="pt">Documentário</title>
-  </programme>
-  <programme start="20250103155800 +0000" stop="20250103160000 +0000" channel="TVJustica.br">
-    <title lang="pt">Boletim Justiça Agora</title>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103163000 +0000" channel="TVJustica.br">
-    <title lang="pt">Justiça e Trabalho</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103165800 +0000" channel="TVJustica.br">
-    <title lang="pt">Interesse Público</title>
-  </programme>
-  <programme start="20250103165800 +0000" stop="20250103170000 +0000" channel="TVJustica.br">
-    <title lang="pt">Boletim Justiça Agora</title>
   </programme>
   <programme start="20250103170000 +0000" stop="20250103203000 +0000" channel="TVJustica.br">
     <title lang="pt">Sessão</title>
@@ -24306,76 +22710,6 @@
   </programme>
   <programme start="20250105233000 +0000" stop="20250106000000 +0000" channel="TVJustica.br">
     <title lang="pt">Artigo 5º</title>
-  </programme>
-  <programme start="20250103154000 +0000" stop="20250103155000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Viola e Tambor : T1 EP22 - O Aniversário de Viola</title>
-    <episode-num system="xmltv_ns">0.21.0/1</episode-num>
-    <episode-num system="onscreen">S01E22</episode-num>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103160000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">O Diário de Mika : T1 EP39 - Tempo de Brincar</title>
-    <episode-num system="xmltv_ns">0.38.0/1</episode-num>
-    <episode-num system="onscreen">S01E39</episode-num>
-  </programme>
-  <programme start="20250103160000 +0000" stop="20250103161500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Meu AmigãoZão : Sono Pesado</title>
-  </programme>
-  <programme start="20250103161500 +0000" stop="20250103162500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">As Aventuras de Amí : T1 EP6 - Seja Água</title>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103163500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Esquadrão do Mar Azul : O Brilho do Mar!</title>
-  </programme>
-  <programme start="20250103163500 +0000" stop="20250103164500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Quintal no Museu : Museu da Imaginação</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103170000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Rubra em Família : Música</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103173000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Musical Rá Tim Bum - Vai Ter Show do Badulaque : T1 EP2 - Pra Bicharada</title>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103174000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Tchibum TV : Jacarés</title>
-  </programme>
-  <programme start="20250103174000 +0000" stop="20250103174500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Como Cuidar do Seu Melhor Amigo : Loris</title>
-  </programme>
-  <programme start="20250103174500 +0000" stop="20250103180000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Yoga com Histórias : O Zodíaco</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103180500 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Território do Brincar</title>
-  </programme>
-  <programme start="20250103180500 +0000" stop="20250103181000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Morgana &amp; Celeste : T1 EP1 - Cavalo de Troia</title>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103182000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Astro Não Mia : Me Empresta</title>
-  </programme>
-  <programme start="20250103182000 +0000" stop="20250103183000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Eu e o Quarteto Apavorante : T2 EP11 - Toca Raul</title>
-    <episode-num system="xmltv_ns">1.10.0/1</episode-num>
-    <episode-num system="onscreen">S02E11</episode-num>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103184000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Traçando Arte : T3 EP6 - Trácio, Onde Está Você?</title>
-    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
-    <episode-num system="onscreen">S03E06</episode-num>
-  </programme>
-  <programme start="20250103184000 +0000" stop="20250103190000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Pratinho da Iaiá</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="TVRaTimBum.br">
-    <title lang="pt">Cocoricó : T2 EP4 - Animais Melequentos</title>
-    <episode-num system="xmltv_ns">1.3.0/1</episode-num>
-    <episode-num system="onscreen">S02E04</episode-num>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="TVRaTimBum.br">
     <title lang="pt">Qual é, Bicho? : EP8 - Casaco de Pele</title>
@@ -25174,12 +23508,6 @@
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
   </programme>
-  <programme start="20250103140000 +0000" stop="20250103163000 +0000" channel="TVSenado.br">
-    <title lang="pt">Comissão Mista Sobre Mudanças Climáticas</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="TVSenado.br">
-    <title lang="pt">Balanço das Comissões 2024 : Panorama das Comissões - Comissão de Assuntos Sociais - CAS</title>
-  </programme>
   <programme start="20250103170000 +0000" stop="20250103200000 +0000" channel="TVSenado.br">
     <title lang="pt">A Anunciar</title>
   </programme>
@@ -25405,18 +23733,6 @@
   <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="TVSenado.br">
     <title lang="pt">Estúdio A : Juzé</title>
   </programme>
-  <programme start="20250103154000 +0000" stop="20250103163000 +0000" channel="UniversalTV.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103172000 +0000" channel="UniversalTV.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103181000 +0000" channel="UniversalTV.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20250103181000 +0000" stop="20250103190000 +0000" channel="UniversalTV.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
   <programme start="20250103190000 +0000" stop="20250103195000 +0000" channel="UniversalTV.br">
     <title lang="pt">Chicago P.D.</title>
   </programme>
@@ -25608,36 +23924,6 @@
   </programme>
   <programme start="20250105232000 +0000" stop="20250106001000 +0000" channel="UniversalTV.br">
     <title lang="pt">Law &amp; Order: Svu</title>
-  </programme>
-  <programme start="20250103153600 +0000" stop="20250103155900 +0000" channel="WarnerChannel.br">
-    <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103155900 +0000" stop="20250103162200 +0000" channel="WarnerChannel.br">
-    <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103162200 +0000" stop="20250103164500 +0000" channel="WarnerChannel.br">
-    <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103170700 +0000" channel="WarnerChannel.br">
-    <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103170700 +0000" stop="20250103172900 +0000" channel="WarnerChannel.br">
-    <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103172900 +0000" stop="20250103175000 +0000" channel="WarnerChannel.br">
-    <title lang="pt">Two and a Half Men</title>
-  </programme>
-  <programme start="20250103175000 +0000" stop="20250103181400 +0000" channel="WarnerChannel.br">
-    <title lang="pt">Two and a Half Men</title>
-  </programme>
-  <programme start="20250103181400 +0000" stop="20250103183700 +0000" channel="WarnerChannel.br">
-    <title lang="pt">Two and a Half Men</title>
-  </programme>
-  <programme start="20250103183700 +0000" stop="20250103190000 +0000" channel="WarnerChannel.br">
-    <title lang="pt">Two and a Half Men</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103192300 +0000" channel="WarnerChannel.br">
-    <title lang="pt">Two and a Half Men</title>
   </programme>
   <programme start="20250103192300 +0000" stop="20250103194700 +0000" channel="WarnerChannel.br">
     <title lang="pt">Two and a Half Men</title>
@@ -25905,53 +24191,6 @@
   </programme>
   <programme start="20250105235800 +0000" stop="20250106002300 +0000" channel="WarnerChannel.br">
     <title lang="pt">The Big Bang Theory</title>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103163000 +0000" channel="WooHoo.br">
-    <title lang="pt">Kite Girls</title>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103164500 +0000" channel="WooHoo.br">
-    <title lang="pt">Custom : T7 EP3 - Darkfest</title>
-    <episode-num system="xmltv_ns">6.2.0/1</episode-num>
-    <episode-num system="onscreen">S07E03</episode-num>
-  </programme>
-  <programme start="20250103164500 +0000" stop="20250103170000 +0000" channel="WooHoo.br">
-    <title lang="pt">Queue</title>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103171500 +0000" channel="WooHoo.br">
-    <title lang="pt">Top Ranking</title>
-  </programme>
-  <programme start="20250103171500 +0000" stop="20250103173000 +0000" channel="WooHoo.br">
-    <title lang="pt">Queue Games</title>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="WooHoo.br">
-    <title lang="pt">Viajando pelo Brasil</title>
-  </programme>
-  <programme start="20250103180000 +0000" stop="20250103183000 +0000" channel="WooHoo.br">
-    <title lang="pt">Free'das</title>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103184500 +0000" channel="WooHoo.br">
-    <title lang="pt">Woohoo Music</title>
-  </programme>
-  <programme start="20250103184500 +0000" stop="20250103190000 +0000" channel="WooHoo.br">
-    <title lang="pt">Onboarding Tribos</title>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103191500 +0000" channel="WooHoo.br">
-    <title lang="pt">Pipoca no Set</title>
-  </programme>
-  <programme start="20250103191500 +0000" stop="20250103191900 +0000" channel="WooHoo.br">
-    <title lang="pt">Surf Kidz</title>
-  </programme>
-  <programme start="20250103191900 +0000" stop="20250103192300 +0000" channel="WooHoo.br">
-    <title lang="pt">Snap</title>
-  </programme>
-  <programme start="20250103192300 +0000" stop="20250103192500 +0000" channel="WooHoo.br">
-    <title lang="pt">Shorts do Tio Clinas</title>
-  </programme>
-  <programme start="20250103192500 +0000" stop="20250103192700 +0000" channel="WooHoo.br">
-    <title lang="pt">Game de A a Z</title>
-  </programme>
-  <programme start="20250103192700 +0000" stop="20250103193000 +0000" channel="WooHoo.br">
-    <title lang="pt">Gibigice</title>
   </programme>
   <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="WooHoo.br">
     <title lang="pt">Hootalks</title>
