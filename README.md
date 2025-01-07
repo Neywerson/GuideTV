@@ -58,6 +58,7 @@ Bem-vindo ao **EPG Brasil**! Aqui você encontrará uma vasta seleção de **Gui
 |2. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml)|2. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/mi.tv_br.xml.gz)|
 |3. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml)|3. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR2/meuguia.tv.xml.gz)|
 |4. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml)|4. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR3/guide.xml.gz)|
+|5. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR4/GuiaEPG.xml)|5. [EPG Brasil](https://raw.githubusercontent.com/Neywerson/GuideTV/refs/heads/BR4/GuiaEPG.xml.gz)|
 
 
 
