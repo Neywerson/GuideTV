@@ -22,28 +22,28 @@
     <display-name lang="pt">ESPN 5</display-name>
   </channel>
   <channel id="BAND SPORTS HD">
-    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <display-name lang="pt">BandSports HD</display-name>
   </channel>
   <channel id="BAND NEWS">
-    <display-name lang="pt">BAND NEWS</display-name>
+    <display-name lang="pt">BandNews</display-name>
   </channel>
   <channel id="TNT NOVELAS">
-    <display-name lang="pt">TNT NOVELAS</display-name>
+    <display-name lang="pt">TNT Novelas</display-name>
   </channel>
   <channel id="TNT SERIES HD">
-    <display-name lang="pt">TNT SERIES HD</display-name>
+    <display-name lang="pt">TNT Séries HD</display-name>
   </channel>
   <channel id="TNT HD">
     <display-name lang="pt">TNT HD</display-name>
   </channel>
   <channel id="SPACE HD">
-    <display-name lang="pt">SPACE HD</display-name>
+    <display-name lang="pt">Space HD</display-name>
   </channel>
   <channel id="PARAMOUNT NETWORK">
-    <display-name lang="pt">PARAMOUNT NETWORK</display-name>
+    <display-name lang="pt">Paramount Network</display-name>
   </channel>
   <channel id="UNIVERSAL PREMIERE HD">
-    <display-name lang="pt">UNIVERSAL PREMIERE HD</display-name>
+    <display-name lang="pt">Universal Premiere HD</display-name>
   </channel>
   <channel id="Paramount+ 1">
     <display-name lang="pt">Paramount+ 1</display-name>
@@ -58,64 +58,56 @@
     <display-name lang="pt">Paramount+ 4</display-name>
   </channel>
   <channel id="PREMIERE CLUBES HD">
-    <display-name lang="pt">PREMIERE CLUBES HD</display-name>
+    <display-name lang="pt">Premiere Clubes HD</display-name>
   </channel>
   <channel id="PREMIERE2 HD">
-    <display-name lang="pt">PREMIERE2 HD</display-name>
+    <display-name lang="pt">Premiere 2 HD</display-name>
   </channel>
   <channel id="PREMIERE3 HD">
-    <display-name lang="pt">PREMIERE3 HD</display-name>
+    <display-name lang="pt">Premiere 3 HD</display-name>
   </channel>
   <channel id="PREMIERE4 HD">
-    <display-name lang="pt">PREMIERE4 HD</display-name>
+    <display-name lang="pt">Premiere 4 HD</display-name>
   </channel>
   <channel id="PREMIERE5 HD">
-    <display-name lang="pt">PREMIERE5 HD</display-name>
+    <display-name lang="pt">Premiere 5 HD</display-name>
   </channel>
   <channel id="PREMIERE6 HD">
-    <display-name lang="pt">PREMIERE6 HD</display-name>
+    <display-name lang="pt">Premiere 6 HD</display-name>
   </channel>
   <channel id="PREMIERE7 HD">
-    <display-name lang="pt">PREMIERE7 HD</display-name>
+    <display-name lang="pt">Premiere 7 HD</display-name>
   </channel>
   <channel id="PREMIERE8 HD">
-    <display-name lang="pt">PREMIERE8 HD</display-name>
+    <display-name lang="pt">Premiere 8 HD</display-name>
   </channel>
   <channel id="CBI">
     <display-name lang="pt">CBI</display-name>
   </channel>
   <channel id="REDE GOSPEL">
-    <display-name lang="pt">REDE GOSPEL</display-name>
+    <display-name lang="pt">Rede Gospel</display-name>
   </channel>
   <channel id="TV BRASIL">
-    <display-name lang="pt">TV BRASIL</display-name>
+    <display-name lang="pt">TV Brasil</display-name>
   </channel>
   <channel id="CLARO TV HD">
-    <display-name lang="pt">CLARO TV HD</display-name>
+    <display-name lang="pt">Claro TV HD</display-name>
   </channel>
-  <channel id="1682">
-    <display-name lang="pt">1682</display-name>
-  </channel>
-  <channel id="1765">
-    <display-name lang="pt">1765</display-name>
-  </channel>
-  <channel id="1779">
-    <display-name lang="pt">1779</display-name>
-  </channel>
-  <channel id="2302">
-    <display-name lang="pt">2302</display-name>
-  </channel>
+  <channel id="1682"/>
+  <channel id="1765"/>
+  <channel id="1779"/>
+  <channel id="2302"/>
   <channel id="tv-globo">
-    <display-name lang="pt">tv-globo</display-name>
+    <display-name lang="pt">TV Globo</display-name>
   </channel>
   <channel id="sportv">
     <display-name lang="pt">SporTV</display-name>
   </channel>
   <channel id="sportv-2">
-    <display-name lang="pt">sportv-2</display-name>
+    <display-name lang="pt">SporTV 2</display-name>
   </channel>
   <channel id="sportv-3">
-    <display-name lang="pt">sportv-3</display-name>
+    <display-name lang="pt">SporTV 3</display-name>
   </channel>
   <channel id="multishow">
     <display-name lang="pt">Multishow</display-name>
@@ -124,34 +116,34 @@
     <display-name lang="pt">GloboNews</display-name>
   </channel>
   <channel id="gnt">
-    <display-name lang="pt">gnt</display-name>
+    <display-name lang="pt">GNT</display-name>
   </channel>
   <channel id="viva">
     <display-name lang="pt">Viva</display-name>
   </channel>
   <channel id="canal-brasil">
-    <display-name lang="pt">canal-brasil</display-name>
+    <display-name lang="pt">Canal Brasil</display-name>
   </channel>
   <channel id="canal-off">
-    <display-name lang="pt">canal-off</display-name>
+    <display-name lang="pt">Canal Off</display-name>
   </channel>
   <channel id="bis">
-    <display-name lang="pt">BIS</display-name>
+    <display-name lang="pt">Bis</display-name>
   </channel>
   <channel id="modo-viagem">
-    <display-name lang="pt">modo-viagem</display-name>
+    <display-name lang="pt">Modo Viagem</display-name>
   </channel>
   <channel id="viva-fast">
-    <display-name lang="pt">viva-fast</display-name>
+    <display-name lang="pt">Viva Fast</display-name>
   </channel>
   <channel id="premiere">
-    <display-name lang="pt">premiere</display-name>
+    <display-name lang="pt">Premiere</display-name>
   </channel>
   <channel id="premiere-2">
-    <display-name lang="pt">premiere-2</display-name>
+    <display-name lang="pt">Premiere 2</display-name>
   </channel>
   <channel id="combate">
-    <display-name lang="pt">combate</display-name>
+    <display-name lang="pt">Combate</display-name>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
@@ -205,10 +197,10 @@
     <display-name lang="pt">Sportv 4K</display-name>
   </channel>
   <channel id="TV CÂMARA">
-    <display-name lang="pt">TV CÂMARA</display-name>
+    <display-name lang="pt">TV Câmara</display-name>
   </channel>
   <channel id="TV JUSTIÇA">
-    <display-name lang="pt">TV JUSTIÇA</display-name>
+    <display-name lang="pt">TV Justiça</display-name>
   </channel>
   <channel id="TV Novo Tempo">
     <display-name lang="pt">TV Novo Tempo</display-name>
@@ -217,7 +209,7 @@
     <display-name lang="pt">TV Osasco</display-name>
   </channel>
   <channel id="TV SENADO">
-    <display-name lang="pt">TV SENADO</display-name>
+    <display-name lang="pt">TV Senado</display-name>
   </channel>
   <programme start="20250116000000 -0300" stop="20250116020000 -0300" channel="Claro TV+ 4K">
     <title lang="pt">Transmissão sportv 4K</title>
