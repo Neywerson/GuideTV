@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="24-03-2025 14:08:39">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="24-03-2025 14:27:59">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -13817,42 +13817,42 @@
     <desc lang="pt"> - Inicie o dia atualizado com as notícias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e André Loffredo</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324100443 -0300" stop="20250324121543 -0300" channel="sportv">
+  <programme start="20250324100443 -0300" stop="20250324121539 -0300" channel="sportv">
     <title lang="pt">Redação SporTV - ao vivo</title>
     <desc lang="pt"> - Acompanhe as informações diárias de uma maneira descontraída sobre o esporte no Brasil e no mundo, jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais com Marcelo Barreto.
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324121544 -0300" stop="20250324124543 -0300" channel="sportv">
+  <programme start="20250324121544 -0300" stop="20250324125955 -0300" channel="sportv">
     <title lang="pt">Tá On - ao vivo</title>
     <desc lang="pt"> - Confira o que está acontecendo nos esportes de maneira breve e bem-humorada, esteja ligado nos memes, trends, e tudo sobre o esporte com Luiz Teixeira.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324124731 -0300" stop="20250324151745 -0300" channel="sportv">
+  <programme start="20250324125957 -0300" stop="20250324153011 -0300" channel="sportv">
     <title lang="pt">Seleção SporTV - ao vivo</title>
     <desc lang="pt"> - Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol. 
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324151759 -0300" stop="20250324155916 -0300" channel="sportv">
+  <programme start="20250324153013 -0300" stop="20250324161130 -0300" channel="sportv">
     <title lang="pt">Globo Esporte - Inédito</title>
     <desc lang="pt"> - Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo. 
 </desc>
     <category lang="en">sports (general)</category>
     <new/>
   </programme>
-  <programme start="20250324155919 -0300" stop="20250324183503 -0300" channel="sportv">
+  <programme start="20250324161133 -0300" stop="20250324184717 -0300" channel="sportv">
     <title lang="pt">Eliminatórias Européias Da Copa Do Mundo 2026 - ao vivo</title>
     <desc lang="pt"> - As seleções disputam em direção a classificação para a copa do mundo de 2026, Tá no sportv!</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324183513 -0300" stop="20250324204112 -0300" channel="sportv">
+  <programme start="20250324184719 -0300" stop="20250324205318 -0300" channel="sportv">
     <title lang="pt">Campeonato Brasileiro Feminino De Futebol: Real Brasília-DF x Corinthians - ao vivo</title>
     <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui no sportv
 </desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324210000 -0300" stop="20250324232959 -0300" channel="sportv">
+  <programme start="20250324205320 -0300" stop="20250324222040 -0300" channel="sportv">
     <title lang="pt">Campeonato Brasileiro Feminino De Futebol: Flamengo x São Paulo - ao vivo</title>
     <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui no sportv
 </desc>
@@ -13906,7 +13906,7 @@
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324114127 -0300" stop="20250324134500 -0300" channel="sportv-2">
+  <programme start="20250324114127 -0300" stop="20250324134504 -0300" channel="sportv-2">
     <title lang="pt">VT - Superliga Masculina: Suzano x Cruzeiro</title>
     <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv! </desc>
     <category lang="en">team sports</category>
@@ -13927,12 +13927,12 @@
     <desc lang="pt">Só aqui no Sportv você confere todas as emoções da Superliga B de Vôlei Feminino.</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324195532 -0300" stop="20250324201429 -0300" channel="sportv-2">
+  <programme start="20250324195532 -0300" stop="20250324201609 -0300" channel="sportv-2">
     <title lang="pt">Baú do Esporte: Vozes - Luiz Carlos Jr. - Bicampeonato Olímpico Vôlei Feminino 2008/2012</title>
     <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, o narrador Luiz Carlos Jr. relembra a caminhada da seleção feminina de vôlei em três Jogos Olímpicos.  Em Atenas, 2004, a seleção teve uma das derrotas mais sofridas de todos os tempos ao perder para a Rússia na semifinal depois ter tido 7 chances para fechar o jogo. Em Pequim, 2008, a história foi diferente. O time feminino fez uma campanha incrível e conquistou a medalha de ouro. Em Londres, 2012, o reencontro com as russas nas quartas de final para mais um jogo histórico. Dessa vez com final feliz para as brasileiras: vitória do Brasil e depois a segunda medalha ouro na final contra os Estados Unidos.</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324205000 -0300" stop="20250324225959 -0300" channel="sportv-2">
+  <programme start="20250324201610 -0300" stop="20250324204339 -0300" channel="sportv-2">
     <title lang="pt">Superliga B Feminina De Vôlei: Pinhalense x Tijuca - ao vivo</title>
     <desc lang="pt">Só aqui no Sportv você confere todas as emoções da Superliga B de Vôlei Feminino.</desc>
     <category lang="en">live broadcast</category>
@@ -13995,12 +13995,17 @@
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324114504 -0300" stop="20250324124845 -0300" channel="sportv-3">
+  <programme start="20250324114504 -0300" stop="20250324121800 -0300" channel="sportv-3">
     <title lang="pt">1/1 PAPO CRUZADO - MURILO BUSTAMANTE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324124848 -0300" stop="20250324130243 -0300" channel="sportv-3">
+  <programme start="20250324121802 -0300" stop="20250324124846 -0300" channel="sportv-3">
+    <title lang="pt">1/1 PAPO CRUZADO - DEDE PERDERNEIRAS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">sports (general)</category>
+  </programme>
+  <programme start="20250324124848 -0300" stop="20250324130241 -0300" channel="sportv-3">
     <title lang="pt">1/1 GRINALDA E O VÔLEI DE PRAIA, UMA HISTÓRIA DE AMOR AO ESPORTE</title>
     <desc lang="pt"> - </desc>
     <category lang="en">sports (general)</category>
@@ -14031,13 +14036,13 @@
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324201501 -0300" stop="20250324214540 -0300" channel="sportv-3">
+  <programme start="20250324201501 -0300" stop="20250324213959 -0300" channel="sportv-3">
     <title lang="pt">Sail Gp: Dia 2</title>
     <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv! 
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324214541 -0300" stop="20250325003959 -0300" channel="sportv-3">
+  <programme start="20250324214000 -0300" stop="20250325005455 -0300" channel="sportv-3">
     <title lang="pt">Jungle Fight 135</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">sports (general)</category>
@@ -14170,7 +14175,7 @@
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324115551 -0300" stop="20250324122621 -0300" channel="multishow">
+  <programme start="20250324115551 -0300" stop="20250324122618 -0300" channel="multishow">
     <title lang="pt">Central de Bicos</title>
     <desc lang="pt"> - Gogó e Manteiguinha precisam furar um poço artesiano na casa do irmão de Biricutico. Kellen  deixa  sua  máquina  de costura para uma manutenção na Central de Bicos e promete,  em  tom  misterioso, que irá  fazer  o pedido que Manteiguinha tanto esperou.</desc>
   </programme>
@@ -14231,12 +14236,12 @@
 Programa exibido em 24 de março de 2025</desc>
     <previously-shown/>
   </programme>
-  <programme start="20250324190055 -0300" stop="20250324191459 -0300" channel="multishow">
+  <programme start="20250324190055 -0300" stop="20250324191424 -0300" channel="multishow">
     <title lang="pt">Big Brother Brasil 25 - Rede B - ao vivo</title>
     <desc lang="pt"> - Big Brother Brasil 25 – Rede BBB</desc>
     <category lang="en">live broadcast</category>
   </programme>
-  <programme start="20250324191500 -0300" stop="20250324194459 -0300" channel="multishow">
+  <programme start="20250324191425 -0300" stop="20250324194606 -0300" channel="multishow">
     <title lang="pt">O Dono do Bar</title>
     <desc lang="pt"> - Américo quebra as xícaras de Nina e Cris acaba pisando em cima dos cacos, se machucando. Os dois correm para o hospital e Cris leva um ponto. Na volta, Américo tenta colar os cacos, mas não consegue e precisa se virar.</desc>
   </programme>
@@ -14439,11 +14444,11 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Que Marravilha!</title>
     <desc lang="pt"> - Julia é uma chata pra comer de família portuguesa e não come bacalhau. Precisa dizer mais alguma coisa!? Pra ela Claude e Batista fazem pacotinho de bacalhau com abóbora e cenoura.</desc>
   </programme>
-  <programme start="20250324182808 -0300" stop="20250324185559 -0300" channel="gnt">
+  <programme start="20250324182808 -0300" stop="20250324185913 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <desc lang="pt"> - Rita Lobo prepara em tempo real e em uma panela só um arroz de cogumelo servido com couve, banana, frango e molho de amendoim. São sabores tão deliciosos que quem quiser pode até dispensar o frango.</desc>
   </programme>
-  <programme start="20250324185600 -0300" stop="20250324194259 -0300" channel="gnt">
+  <programme start="20250324185916 -0300" stop="20250324194259 -0300" channel="gnt">
     <title lang="pt">Cozinha Prática Com Rita Lobo</title>
     <desc lang="pt"> - Em 2023, Rita Lobo está de volta no melhor estilo Cozinha Prática: muitas receitas e dicas. Tudo para levar cada vez mais gente para a cozinha – e para mostrar como cozinhar pode ser saudável, saboroso e bem prático.</desc>
   </programme>
@@ -14551,7 +14556,7 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Roque Santeiro</title>
     <desc lang="pt"> - Zé das Medalhas e Roque se enfrentam em um jogo de apostas no cassino de Ronaldo. Padre Hipólito e Padre Albano discordam sobre apoiar o cassino. Terêncio tenta matar João Ligeiro.</desc>
   </programme>
-  <programme start="20250324124722 -0300" stop="20250324133829 -0300" channel="viva">
+  <programme start="20250324124722 -0300" stop="20250324133832 -0300" channel="viva">
     <title lang="pt">Cara &amp; Coroa</title>
     <desc lang="pt"> - Nadine incentiva Miguel a ir atrás de Vivi. Cosme aconselha Guiga a esquecer Natália. Ana revela a Fabinho que está grávida. Mobral salva a vida de Nadja.</desc>
   </programme>
@@ -14579,19 +14584,19 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Pé Na Cova</title>
     <desc lang="pt"> - Os Pereira, excêntrica família do subúrbio carioca, ganha seu sustento com a morte dos outros. Donos da Funerária Unidos do Irajá, conhecida como F.U.I, eles lidam com as mazelas da vida com humor.</desc>
   </programme>
-  <programme start="20250324182515 -0300" stop="20250324185259 -0300" channel="viva">
+  <programme start="20250324182515 -0300" stop="20250324185420 -0300" channel="viva">
     <title lang="pt">Dois Em Cena: Encontro De Gera</title>
     <desc lang="pt"> - Elisa e Barbara falam sobre suas trajetórias. As duas discutem a importância da representatividade e contam os desafios enfrentados em suas carreiras.</desc>
   </programme>
-  <programme start="20250324185300 -0300" stop="20250324192259 -0300" channel="viva">
+  <programme start="20250324185422 -0300" stop="20250324191847 -0300" channel="viva">
     <title lang="pt">Escolinha Do Professor Raimund</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
   </programme>
-  <programme start="20250324191700 -0300" stop="20250324194659 -0300" channel="viva">
+  <programme start="20250324191850 -0300" stop="20250324194319 -0300" channel="viva">
     <title lang="pt">Escolinha Do Professor Raimund</title>
     <desc lang="pt"> - Chico Anysio comanda uma turma da pesada que apronta altas confusões na Escolinha do Professor Raimundo. Em matéria de humor, eles são nota dez.</desc>
   </programme>
-  <programme start="20250324194000 -0300" stop="20250324201959 -0300" channel="viva">
+  <programme start="20250324194322 -0300" stop="20250324202959 -0300" channel="viva">
     <title lang="pt">Toma Lá, Dá Cá</title>
     <desc lang="pt"> - Isadora rouba a prótese de dente que Arnaldo fez para o Deputado Marreta. Bozena descobre uma planta no armário de Tatalo. O Deputado surta após tomar o chá que Copélia deu a ele.</desc>
   </programme>
@@ -14672,7 +14677,7 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
     <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
   </programme>
-  <programme start="20250324121013 -0300" stop="20250324132532 -0300" channel="canal-brasil">
+  <programme start="20250324121013 -0300" stop="20250324132533 -0300" channel="canal-brasil">
     <title lang="pt">Sociedade do Medo</title>
     <desc lang="pt"> - O documentário propõe uma reflexão sobre a forma como o medo domina a humanidade e o sistema se aproveita deste sentimento para manipular as massas, explorando as vertentes adequadas para atingir seu objetivo.</desc>
   </programme>
@@ -14684,7 +14689,7 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Cinejornal</title>
     <desc lang="pt"> - O Cinejornal é um programa diário, apresentado por Simone Zuccolotto, onde encontramos o melhor do cinema brasileiro.</desc>
   </programme>
-  <programme start="20250324135243 -0300" stop="20250324135827 -0300" channel="canal-brasil">
+  <programme start="20250324135243 -0300" stop="20250324135828 -0300" channel="canal-brasil">
     <title lang="pt">Guard Dog &amp; Bill Plympton No Brasil</title>
     <desc lang="pt"> - “Guard Dog e Bill Plympton no Brasil” é uma série de animação que nasce da premissa de apresentar o Brasil pelo olhar do lendário animador norte-americano Bill Plympton.</desc>
   </programme>
@@ -14696,7 +14701,7 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Curta Na Tela</title>
     <desc lang="pt"> - O curta acrescenta um pout-pourri de canções d'Os Mutantes e imagens do trio retiradas de seu acervo pessoal. Rita Lee, Arnaldo Baptista e Sérgio Dias revolucionaram o cenário cultural brasileiro.</desc>
   </programme>
-  <programme start="20250324141001 -0300" stop="20250324143239 -0300" channel="canal-brasil">
+  <programme start="20250324141001 -0300" stop="20250324143240 -0300" channel="canal-brasil">
     <title lang="pt">Curta Na Tela</title>
     <desc lang="pt"> - O curta narra as etapas vividas por Santos Dumont para chegar ao invento que mudaria a história da humanidade: o avião. Com fotos e imagens históricas, o filme relata momentos importantes da vida do aviador.</desc>
   </programme>
@@ -14708,11 +14713,11 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">A Gente</title>
     <desc lang="pt"> - O diretor Aly Muritiba retorna ao seu antigo local de trabalho para documentar a rotina dos 28 homens e mulheres que integram a Equipe Alfa, responsável pela custódia de mais de mil criminosos.</desc>
   </programme>
-  <programme start="20250324175013 -0300" stop="20250324193959 -0300" channel="canal-brasil">
+  <programme start="20250324175013 -0300" stop="20250324194007 -0300" channel="canal-brasil">
     <title lang="pt">Terra Em Transe</title>
     <desc lang="pt"> - País fictício da América Latina, Eldorado é palco de uma convulsão interna desencadeada pela luta em busca do poder. No centro dos acontecimentos, está o cínico jornalista Paulo Martins.</desc>
   </programme>
-  <programme start="20250324194000 -0300" stop="20250324211959 -0300" channel="canal-brasil">
+  <programme start="20250324194011 -0300" stop="20250324211959 -0300" channel="canal-brasil">
     <title lang="pt">Vai Trabalhar Vagabundo</title>
     <desc lang="pt"> - Um malandro carioca é colocado em liberdade depois de longo tempo na prisão e dedica seus primeiros momentos a admirar as maravilhas do RJ. Preocupado com seu futuro, ele planeja uma grande virada.</desc>
   </programme>
@@ -14880,19 +14885,19 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Crowd Selvagem</title>
     <desc lang="pt"> - O crowd, como é conhecida a aglomeração de surfistas na água, exige paciência e muita disposição do surfista. Nesse episódio, surfistas e jornalistas especializados fazem uma análise geral sobre o crowd nos principais picos do mundo.</desc>
   </programme>
-  <programme start="20250324184042 -0300" stop="20250324190859 -0300" channel="canal-off">
+  <programme start="20250324184042 -0300" stop="20250324190942 -0300" channel="canal-off">
     <title lang="pt">Crowd Selvagem</title>
     <desc lang="pt"> - Surfar Pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputadas ondas do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
-  <programme start="20250324190900 -0300" stop="20250324193559 -0300" channel="canal-off">
+  <programme start="20250324190944 -0300" stop="20250324193706 -0300" channel="canal-off">
     <title lang="pt">Lendas Em Fiji</title>
     <desc lang="pt"> - As lendas do surfe brasileiro navegam em direção a ilha de Tavarua e lembram de suas primeiras viagens em busca das incríveis ondas do Havaí e do início do profissionalismo no surfe.</desc>
   </programme>
-  <programme start="20250324193600 -0300" stop="20250324200259 -0300" channel="canal-off">
+  <programme start="20250324193709 -0300" stop="20250324200338 -0300" channel="canal-off">
     <title lang="pt">Europa Por Elas</title>
     <desc lang="pt"> - As meninas chegam em San Sebastián, na Espanha. Elas conhecem a cultura e a gastronomia local, Aline e Gabi decidem surfar na foz do rio Urumea Itsasadarra e, no dia sgeuinte, a viagem segue para Saint Jean de Luz, na França.</desc>
   </programme>
-  <programme start="20250324200300 -0300" stop="20250324203159 -0300" channel="canal-off">
+  <programme start="20250324200340 -0300" stop="20250324203159 -0300" channel="canal-off">
     <title lang="pt">Roteiro Das Ondas: Portugal</title>
     <desc lang="pt"> - No último episódio da temporada, Gabriel Pastori faz um balanço dos melhores momentos da viagem, das experiências gastronômicas às melhores ondas.</desc>
   </programme>
@@ -15073,7 +15078,7 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Gabriel Gonti - Menina Salvador</title>
     <desc lang="pt"> - GABRIEL GONTI - MENINA SALVADOR (DECK)</desc>
   </programme>
-  <programme start="20250324143636 -0300" stop="20250324144213 -0300" channel="bis">
+  <programme start="20250324143636 -0300" stop="20250324144143 -0300" channel="bis">
     <title lang="pt">Ana Gabriela - Acho Que Te Amo</title>
     <desc lang="pt"> - ANA GABRIELA - ACHO QUE TE AMO (DECK)</desc>
   </programme>
@@ -15127,15 +15132,15 @@ Programa exibido em 24 de março de 2025</desc>
     <title lang="pt">Gabriel Gonti - Menina Salvador</title>
     <desc lang="pt"> - GABRIEL GONTI - MENINA SALVADOR (DECK)</desc>
   </programme>
-  <programme start="20250324185646 -0300" stop="20250324190003 -0300" channel="bis">
+  <programme start="20250324185646 -0300" stop="20250324190308 -0300" channel="bis">
     <title lang="pt">Ana Gabriela - Acho Que Te Amo</title>
     <desc lang="pt"> - ANA GABRIELA - ACHO QUE TE AMO (DECK)</desc>
   </programme>
-  <programme start="20250324190300 -0300" stop="20250324195959 -0300" channel="bis">
+  <programme start="20250324190309 -0300" stop="20250324200011 -0300" channel="bis">
     <title lang="pt">Versões</title>
     <desc lang="pt"> - Artistas são convidados para realizarem suas versões de clássicos da música. Uma banda/artista é homenageada por episódio.</desc>
   </programme>
-  <programme start="20250324200000 -0300" stop="20250324205959 -0300" channel="bis">
+  <programme start="20250324200013 -0300" stop="20250324205959 -0300" channel="bis">
     <title lang="pt">Experimente: Pablo Dominguez</title>
     <desc lang="pt"> - Série que está em sua 8ª temporada, apresenta bandas que começam a despontar no cenário musical brasileiro. No episódio de hoje, o cantor baiano Pablo Dominguez apresenta seu 1º trabalho ‘O Som do Mar’ e o mais recente ‘O Despertar’.
 </desc>
@@ -15301,7 +15306,7 @@ Yasmine Palace e o charmoso El&amp;n Café.</desc>
     <title lang="pt">Lavando A Alma-T2</title>
     <desc lang="pt"> - Na Chapada dos Veadeiros, Antonia percorre uma rota com várias cachoeiras: Almécegas I e II, São Bento, São Vicente Parafuso e Cristais. Ela conhece a Fazenda São Bento e conversa com Tom das Ervas.</desc>
   </programme>
-  <programme start="20250324124446 -0300" stop="20250324131752 -0300" channel="modo-viagem">
+  <programme start="20250324124446 -0300" stop="20250324131753 -0300" channel="modo-viagem">
     <title lang="pt">Brasil Visto De Cima</title>
     <desc lang="pt"> - No nordeste do Rio Grande do Sul, erguem-se montanhas de até 1,3 mil metros de altura. Parte da região foi ocupada por italianos. A marca deixada pelos imigrantes permanece até hoje.</desc>
   </programme>
@@ -15351,19 +15356,19 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
     <title lang="pt">Afroturismo</title>
     <desc lang="pt"> - Neste episódio, exploramos a vibrante Galeria da Providência e o Museu de Favela, que desde 2008 preserva as memórias das favelas Pavão, Pavãozinho e Cantagalo.</desc>
   </programme>
-  <programme start="20250324181216 -0300" stop="20250324183759 -0300" channel="modo-viagem">
+  <programme start="20250324181216 -0300" stop="20250324183935 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Mundo Afora</title>
     <desc lang="pt"> - No segundo episódio da Tailândia, Rodrigo segue para Chiang Mai. Ele ainda te leva para conhecer a gastronomia local e dá dicas de onde se hospedar na região.</desc>
   </programme>
-  <programme start="20250324183800 -0300" stop="20250324190459 -0300" channel="modo-viagem">
+  <programme start="20250324183938 -0300" stop="20250324190637 -0300" channel="modo-viagem">
     <title lang="pt">Ruas Brasil Afora</title>
     <desc lang="pt"> - Rodrigo te mostra a famosa cidade de Atibaia de um jeito divertido, em um passeio de 4x4, visitará um famoso parque aquático e ainda irá fazer a colheita de morango frescos!</desc>
   </programme>
-  <programme start="20250324190500 -0300" stop="20250324193359 -0300" channel="modo-viagem">
+  <programme start="20250324190639 -0300" stop="20250324193435 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <desc lang="pt"> - Iniciamos esse episódio no maravilhoso Varandas Beach Hotel, em seguida viajamos até o espetacular Fazzenda Park Resort e finalizamos no maravilhoso Villa Pantai Boutique Hotel.</desc>
   </programme>
-  <programme start="20250324193400 -0300" stop="20250324200559 -0300" channel="modo-viagem">
+  <programme start="20250324193439 -0300" stop="20250324200559 -0300" channel="modo-viagem">
     <title lang="pt">Hotéis Incríveis</title>
     <desc lang="pt"> - Nesse episódio vamos conhecer o fabuloso Anavilhanas Jungle Lodge, depois vamos para o encantador Saline Taíba. E finalizamos em Capão Alto no espetacular Cerro Azul Hotel Fazenda.</desc>
   </programme>
@@ -15608,14 +15613,14 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324114842 -0300" stop="20250324124928 -0300" channel="premiere">
+  <programme start="20250324114842 -0300" stop="20250324124926 -0300" channel="premiere">
     <title lang="pt">VT - Campeonato Gaúcho: Internacional x Grêmio</title>
     <desc lang="pt">Assista mais um jogão do Gaúchão aqui no sportv!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324124931 -0300" stop="20250324134922 -0300" channel="premiere">
+  <programme start="20250324124931 -0300" stop="20250324134921 -0300" channel="premiere">
     <title lang="pt">VT - Copa do Nordeste: Csa-AL x Bahia</title>
     <desc lang="pt">Não perca a Copa Do Nordeste aqui no Premiere!</desc>
     <category lang="en">football/soccer</category>
@@ -15651,20 +15656,20 @@ Marrocos, começando em Maknès, onde explora a rica gastronomia no Domaine De L
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324185316 -0300" stop="20250324191545 -0300" channel="premiere">
+  <programme start="20250324185316 -0300" stop="20250324195440 -0300" channel="premiere">
     <title lang="pt">VT - Amistoso: Bragantino x Cruzeiro - Bragança Paulista-SP</title>
     <desc lang="pt">Amistoso De Futebol -  Bragantino X Cruzeiro - Bragança Paulista-Sp</desc>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324200000 -0300" stop="20250324205959 -0300" channel="premiere">
+  <programme start="20250324195443 -0300" stop="20250324205438 -0300" channel="premiere">
     <title lang="pt">VT - Campeonato Carioca: Flamengo x Fluminense</title>
     <desc lang="pt">Assista mais uma partida  emocionante aqui no sportv!
 </desc>
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324210000 -0300" stop="20250324215959 -0300" channel="premiere">
+  <programme start="20250324205440 -0300" stop="20250324212236 -0300" channel="premiere">
     <title lang="pt">VT - Campeonato Mineiro: América-MG x Atlético-MG</title>
     <desc lang="pt">Fique ligado nos jogos do Campeonato Mineiro de Futebol, tá no futebol, tá no sportv!</desc>
     <category lang="en">football/soccer</category>
@@ -15728,14 +15733,14 @@ A top rank conta com a participação de grandes nobres da nobre arte da atualid
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324165316 -0300" stop="20250324185701 -0300" channel="combate">
+  <programme start="20250324165316 -0300" stop="20250324190009 -0300" channel="combate">
     <title lang="pt">Boxe: Oscar Valdez X Lian Wilson</title>
     <desc lang="pt"> - Top Rank, é uma das maiores promotora de lutas de boxe do mundo. Fundada em 1973, e por quase meio século, promove as lutas mais importantes de algumas lendas do boxe, como Muhammad Ali, Sugar Ray Leonard, Oscar de La Hoya, Floyd Mayweather, Tyson Fury e Manny Pacquiao.
 A top rank conta com a participação de grandes nobres da nobre arte da atualidade, entre eles os brasileiros e medalhistas olímpicos Robson Conceição e Esquiva Falcão.
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250324190000 -0300" stop="20250324193459 -0300" channel="combate">
+  <programme start="20250324190012 -0300" stop="20250324193453 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Papo Cruzado - Charles Do Bronx - Inédito</title>
     <desc lang="pt">“Papo Cruzado” é um programa de entrevistas em estúdio, no formato
 talk-show, onde um elenco fixo de 3 entrevistadores recebe, a cada episódio, um
@@ -15759,19 +15764,19 @@ de artes marciais</desc>
     <category lang="en">sports (general)</category>
     <new/>
   </programme>
-  <programme start="20250324193500 -0300" stop="20250324200459 -0300" channel="combate">
+  <programme start="20250324193456 -0300" stop="20250324200753 -0300" channel="combate">
     <title lang="pt">Sessão Combate: Cine Marcial - Inédito</title>
     <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias, revelaram superestrelas e criaram um segmento extremamente lucrativo. Pelas telas do cinema ou da Sessão da Tarde, gerações de brasileiros, muitos dos quais futuros lutadores, tiveram em Hollywood o - seu primeiro contato com as artes marciais. Nossa proposta é destrinchar este fenômeno mergulhando em dez grandes clássicos. Ao revelar bastidores inéditos das gravações, vamos investigando, de forma irreverente, como esses filmes, no passado, influenciaram nossas estrelas do MMA e porque até hoje são parte da memória afetiva de todo brasileiro</desc>
     <category lang="en">sports (general)</category>
     <new/>
   </programme>
-  <programme start="20250324200500 -0300" stop="20250324230459 -0300" channel="combate">
+  <programme start="20250324200755 -0300" stop="20250324232232 -0300" channel="combate">
     <title lang="pt">VT - Jungle Fight 135</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324230500 -0300" stop="20250325010959 -0300" channel="combate">
+  <programme start="20250324232234 -0300" stop="20250325010959 -0300" channel="combate">
     <title lang="pt">VT - Ksw 104</title>
     <desc lang="pt"> - É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
@@ -16095,18 +16100,18 @@ de artes marciais</desc>
     <category lang="en">team sports</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324214541 -0300" stop="20250325010036 -0300" channel="sportv-3">
+  <programme start="20250324214000 -0300" stop="20250325005455 -0300" channel="sportv-3">
     <title lang="pt">Jungle Fight 135</title>
     <desc lang="pt"> - Fique por dentro do melhor do MMA da América Latina no Jungle Fight, aqui no sportv!</desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250325010038 -0300" stop="20250325022959 -0300" channel="sportv-3">
+  <programme start="20250325005458 -0300" stop="20250325022113 -0300" channel="sportv-3">
     <title lang="pt">Sail Gp: Dia 1</title>
     <desc lang="pt">A maior competição de Sail Gp está rolando, acompanheno sportv! 
 </desc>
     <category lang="en">sports (general)</category>
   </programme>
-  <programme start="20250325023000 -0300" stop="20250325035959 -0300" channel="sportv-3">
+  <programme start="20250325022115 -0300" stop="20250325034404 -0300" channel="sportv-3">
     <title lang="pt">VT - Copa Truck: campo Grande-MS</title>
     <desc lang="pt">Foi dada a largada: acompanhe as emoções da Copa Truck aqui no sportv! 
 </desc>
@@ -17735,13 +17740,13 @@ recortados por trilhas, que levam às cachoeiras e rios de água cristalina.</de
     <category lang="en">football/soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20250324232234 -0300" stop="20250325010959 -0300" channel="combate">
+  <programme start="20250324232234 -0300" stop="20250325013135 -0300" channel="combate">
     <title lang="pt">VT - Ksw 104</title>
     <desc lang="pt"> - É a principal organização de artes marciais mistas da Polônia e uma das ligas líderes na Europa.</desc>
     <category lang="en">sports (general)</category>
     <previously-shown/>
   </programme>
-  <programme start="20250325011000 -0300" stop="20250325030959 -0300" channel="combate">
+  <programme start="20250325013138 -0300" stop="20250325030959 -0300" channel="combate">
     <title lang="pt">VT - Grand Slam de Judô</title>
     <desc lang="pt">Veja as grandes estrelas internacionais do Judô aqui no sportv!</desc>
     <previously-shown/>
@@ -24200,12 +24205,7 @@ de artes marciais</desc>
     <desc lang="pt"> - Acompanhe as principais notícias do Brasil e do mundo.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250324131550 -0300" stop="20250324135617 -0300" channel="Novelas">
-    <title lang="pt">Chiquititas 97</title>
-    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
-    <category lang="en">comedy</category>
-  </programme>
-  <programme start="20250324140119 -0300" stop="20250324145656 -0300" channel="Novelas">
+  <programme start="20250324144737 -0300" stop="20250324145656 -0300" channel="Novelas">
     <title lang="pt">A Dona</title>
     <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
     <category lang="en">movie/drama (general)</category>
@@ -24995,47 +24995,87 @@ de artes marciais</desc>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
   </programme>
-  <programme start="20250331002940 -0300" stop="20250331011224 -0300" channel="Novelas">
+  <programme start="20250331003229 -0300" stop="20250331012003 -0300" channel="Novelas">
     <title lang="pt">Vende-se Um Véu de Noiva</title>
     <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250331011249 -0300" stop="20250331020754 -0300" channel="Novelas">
+  <programme start="20250331012318 -0300" stop="20250331022004 -0300" channel="Novelas">
     <title lang="pt">Amor Inesperado</title>
     <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa' Que Te Enamores revela o poder das emoções.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250331021046 -0300" stop="20250331030602 -0300" channel="Novelas">
+  <programme start="20250331022316 -0300" stop="20250331032006 -0300" channel="Novelas">
     <title lang="pt">Amor Inesperado</title>
     <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa' Que Te Enamores revela o poder das emoções.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250331030627 -0300" stop="20250331040540 -0300" channel="Novelas">
+  <programme start="20250331032433 -0300" stop="20250331042812 -0300" channel="Novelas">
     <title lang="pt">Amigas e Rivais</title>
     <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250331040605 -0300" stop="20250331050258 -0300" channel="Novelas">
+  <programme start="20250331043133 -0300" stop="20250331053441 -0300" channel="Novelas">
     <title lang="pt">Camaleões</title>
     <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
     <category lang="en">soap/melodrama/folkloric</category>
   </programme>
-  <programme start="20250331050323 -0300" stop="20250331054124 -0300" channel="Novelas">
+  <programme start="20250331053944 -0300" stop="20250331061835 -0300" channel="Novelas">
     <title lang="pt">Chiquititas 97</title>
     <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
     <category lang="en">comedy</category>
   </programme>
-  <programme start="20250331054149 -0300" stop="20250331062610 -0300" channel="Novelas">
+  <programme start="20250331062254 -0300" stop="20250331071529 -0300" channel="Novelas">
     <title lang="pt">A Dona</title>
     <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250331063256 -0300" stop="20250331072848 -0300" channel="Novelas">
+  <programme start="20250331071805 -0300" stop="20250331081427 -0300" channel="Novelas">
     <title lang="pt">A Desalmada </title>
     <desc lang="pt"> - Em meio a uma trama de amor e desilusão, Fernanda terá que escolher entre a vingança e a redenção.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250324131202 -0300" stop="20250324155718 -0300" channel="Silvio Santos">
+  <programme start="20250331081452 -0300" stop="20250331085926 -0300" channel="Novelas">
+    <title lang="pt">Vende-se Um Véu de Noiva</title>
+    <desc lang="pt"> - Adaptação por Iris Abravanel, este é um romance intenso, com reviravoltas surpreendentes do destino.</desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250331090241 -0300" stop="20250331095927 -0300" channel="Novelas">
+    <title lang="pt">Amor Inesperado</title>
+    <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa' Que Te Enamores revela o poder das emoções.</desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250331100239 -0300" stop="20250331105930 -0300" channel="Novelas">
+    <title lang="pt">Amor Inesperado</title>
+    <desc lang="pt"> - Duas irmãs, duas visões opostas sobre o amor. Voltea Pa' Que Te Enamores revela o poder das emoções.</desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250331110357 -0300" stop="20250331120736 -0300" channel="Novelas">
+    <title lang="pt">Amigas e Rivais</title>
+    <desc lang="pt"> - Quatro jovens com sonhos distintos têm suas vidas entrelaçadas em uma jornada emocionante.</desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250331121056 -0300" stop="20250331131004 -0300" channel="Novelas">
+    <title lang="pt">Camaleões</title>
+    <desc lang="pt"> - Dois jovens roubam joias sob ameaça e, ao se esconderem em um colégio, descobrem segredos.</desc>
+    <category lang="en">soap/melodrama/folkloric</category>
+  </programme>
+  <programme start="20250331131507 -0300" stop="20250331135357 -0300" channel="Novelas">
+    <title lang="pt">Chiquititas 97</title>
+    <desc lang="pt"> - Grupo de crianças que vive no orfanato Raio de Luz e busca amizade, amor e um novo lar.</desc>
+    <category lang="en">comedy</category>
+  </programme>
+  <programme start="20250331135817 -0300" stop="20250331144538 -0300" channel="Novelas">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt"> - Valentina é uma jovem que tem tudo para ser feliz e um noivo a quem ama intensamente. </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250331145605 -0300" stop="20250331150712 -0300" channel="Novelas">
+    <title lang="pt">A Desalmada </title>
+    <desc lang="pt"> - Em meio a uma trama de amor e desilusão, Fernanda terá que escolher entre a vingança e a redenção.</desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324144603 -0300" stop="20250324155718 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
     <category lang="en">variety show</category>
@@ -25720,15 +25760,10 @@ de artes marciais</desc>
     <desc lang="pt">Silvio Santos convida participantes para testarem seus conhecimentos valendo um milhão de reais.</desc>
     <category lang="en">variety show</category>
   </programme>
-  <programme start="20250331122441 -0300" stop="20250331133212 -0300" channel="Silvio Santos">
+  <programme start="20250331122441 -0300" stop="20250331150002 -0300" channel="Silvio Santos">
     <title lang="pt">Programa Silvio Santos</title>
     <desc lang="pt">Um clássico da TV brasileira! Aviõezinhos, calouros, artistas e, claro, o patrão Silvio Santos!</desc>
     <category lang="en">variety show</category>
-  </programme>
-  <programme start="20250324132405 -0300" stop="20250324144745 -0300" channel="Pop">
-    <title lang="pt">Filme</title>
-    <desc lang="pt"> - Após uma tempestade devastar sua comunidade, Lauren batalha pela reconstrução.</desc>
-    <category lang="en">movie/drama (general)</category>
   </programme>
   <programme start="20250324144810 -0300" stop="20250324164842 -0300" channel="Pop">
     <title lang="pt">A Garota dos Meus Sonhos</title>
@@ -26110,25 +26145,10 @@ de artes marciais</desc>
     <desc lang="pt"> - Série antológica que acompanha a vida romântica na cidade de Barcelona.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250328131636 -0300" stop="20250328133555 -0300" channel="Pop">
+  <programme start="20250328131636 -0300" stop="20250328150311 -0300" channel="Pop">
     <title lang="pt">Max Steel</title>
     <desc lang="pt"> - Em meio as descobertas dos 16 anos, Max descobre ter uma força extraterrestre.</desc>
     <category lang="en">detective/thriller</category>
-  </programme>
-  <programme start="20250324131437 -0300" stop="20250324132745 -0300" channel="TV Zyn">
-    <title lang="pt">A Pracinha</title>
-    <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
-    <category lang="en">comedy</category>
-  </programme>
-  <programme start="20250324133041 -0300" stop="20250324142100 -0300" channel="TV Zyn">
-    <title lang="pt">Patrulha Salvadora</title>
-    <desc lang="pt"> - As crianças mais amadas de Carrossel agora são super heróis que lutam contra o crime!</desc>
-    <category lang="en">comedy</category>
-  </programme>
-  <programme start="20250324142348 -0300" stop="20250324145113 -0300" channel="TV Zyn">
-    <title lang="pt">H2O Meninas Sereias</title>
-    <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
-    <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
   <programme start="20250324145343 -0300" stop="20250324151940 -0300" channel="TV Zyn">
     <title lang="pt">O Clube das Coisas Mágicas</title>
@@ -27837,163 +27857,292 @@ de artes marciais</desc>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330000017 -0300" stop="20250330004003 -0300" channel="TV Zyn">
+  <programme start="20250330000017 -0300" stop="20250330004033 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330004003 -0300" stop="20250330011925 -0300" channel="TV Zyn">
+  <programme start="20250330004038 -0300" stop="20250330012045 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330011925 -0300" stop="20250330021014 -0300" channel="TV Zyn">
+  <programme start="20250330012048 -0300" stop="20250330021232 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330021014 -0300" stop="20250330030121 -0300" channel="TV Zyn">
+  <programme start="20250330021237 -0300" stop="20250330030513 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330030121 -0300" stop="20250330035129 -0300" channel="TV Zyn">
+  <programme start="20250330030516 -0300" stop="20250330035705 -0300" channel="TV Zyn">
     <title lang="pt">Carrossel</title>
     <desc lang="pt"> - Uma turminha animada que deixa o mundo mais divertido e musical. Embarca nesse Carrossel com eles.</desc>
     <category lang="en">adventure/western/war</category>
   </programme>
-  <programme start="20250330035129 -0300" stop="20250330041707 -0300" channel="TV Zyn">
+  <programme start="20250330035715 -0300" stop="20250330042326 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
-  <programme start="20250330041707 -0300" stop="20250330044246 -0300" channel="TV Zyn">
+  <programme start="20250330042329 -0300" stop="20250330044934 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
-  <programme start="20250330044246 -0300" stop="20250330050828 -0300" channel="TV Zyn">
+  <programme start="20250330044937 -0300" stop="20250330051548 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
-  <programme start="20250330050828 -0300" stop="20250330053402 -0300" channel="TV Zyn">
+  <programme start="20250330051553 -0300" stop="20250330054142 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
-  <programme start="20250330053402 -0300" stop="20250330060101 -0300" channel="TV Zyn">
+  <programme start="20250330054145 -0300" stop="20250330060910 -0300" channel="TV Zyn">
     <title lang="pt">H2O Meninas Sereias</title>
     <desc lang="pt"> - As adolescentes Cléo, Nanda e Drica protegem um segredo: elas se transformam em sereias!</desc>
     <category lang="en">entertainment programmes for 6 to 14</category>
   </programme>
-  <programme start="20250330060101 -0300" stop="20250330062814 -0300" channel="TV Zyn">
+  <programme start="20250330060917 -0300" stop="20250330061957 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330062134 -0300" stop="20250330063214 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330063328 -0300" stop="20250330064428 -0300" channel="TV Zyn">
+    <title lang="pt">O Livro da Selva</title>
+    <desc lang="pt"> - Mogli foi criado por lobos, mora na selva, tem amigos fiéis mas inimigos ferozes! </desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330064431 -0300" stop="20250330065601 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330065715 -0300" stop="20250330070801 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330070915 -0300" stop="20250330072038 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330072153 -0300" stop="20250330073237 -0300" channel="TV Zyn">
+    <title lang="pt">Dinotrem</title>
+    <desc lang="pt"> - Quer saber tudo sobre os dinossauros? Embarque no Dinotrem e faça uma viajem no tempo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330075537 -0300" stop="20250330080843 -0300" channel="TV Zyn">
+    <title lang="pt">Sandra, a Detetive Encantada</title>
+    <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330080957 -0300" stop="20250330082310 -0300" channel="TV Zyn">
+    <title lang="pt">Sandra, a Detetive Encantada</title>
+    <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330082424 -0300" stop="20250330083759 -0300" channel="TV Zyn">
+    <title lang="pt">Sandra, a Detetive Encantada</title>
+    <desc lang="pt"> - Sandra e seu amigo elfo, F.O, embarcam em viagens para um mundo encantado dos contos de fadas.</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330083804 -0300" stop="20250330084519 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330084633 -0300" stop="20250330085359 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330085513 -0300" stop="20250330090238 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330090352 -0300" stop="20250330091150 -0300" channel="TV Zyn">
+    <title lang="pt">Cat e Keet</title>
+    <desc lang="pt"> - Cat, o gatinho fã de cereal, e Keet, o papagaio travesso, vivem aventuras cheias de risadas!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330091153 -0300" stop="20250330091854 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330092008 -0300" stop="20250330092709 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330092823 -0300" stop="20250330093524 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330093638 -0300" stop="20250330094344 -0300" channel="TV Zyn">
+    <title lang="pt">O Pequeno Furry </title>
+    <desc lang="pt"> - Little Furry é um aventureiro adorável que enfrenta desafios com criatividade e cresce sempre!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330094351 -0300" stop="20250330095018 -0300" channel="TV Zyn">
+    <title lang="pt">30. Louie, desenhe uma lhama</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330095132 -0300" stop="20250330095805 -0300" channel="TV Zyn">
+    <title lang="pt">32. Louie, desenhe uma escavadeira</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330095919 -0300" stop="20250330100552 -0300" channel="TV Zyn">
+    <title lang="pt">33. Louie, desenhe uma árvore de Natal</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330100706 -0300" stop="20250330101401 -0300" channel="TV Zyn">
+    <title lang="pt">34. Louie, desenhe um aerobarco</title>
+    <desc lang="pt"> - Quer aprender a desenhar? Então, pegue lápis e papel e junte ao coelho Louie e a joaninha Yoko!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330101406 -0300" stop="20250330102457 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330102611 -0300" stop="20250330103703 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330103817 -0300" stop="20250330104909 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330105047 -0300" stop="20250330110158 -0300" channel="TV Zyn">
+    <title lang="pt">Rua do Zoo 64</title>
+    <desc lang="pt"> - Faça como a Lucy, se divirta com as histórias de vida dos animais da Rua do Zoo!</desc>
+    <category lang="en">cartoons/puppets</category>
+  </programme>
+  <programme start="20250330110208 -0300" stop="20250330112942 -0300" channel="TV Zyn">
     <title lang="pt">A Pracinha</title>
     <desc lang="pt"> - A Pracinha é um lugar feito para a família se divertir. Vem você também. A Pracinha é Nossa.</desc>
     <category lang="en">comedy</category>
   </programme>
-  <programme start="20250330062814 -0300" stop="20250330071711 -0300" channel="TV Zyn">
+  <programme start="20250330112947 -0300" stop="20250330122032 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330071711 -0300" stop="20250330080456 -0300" channel="TV Zyn">
+  <programme start="20250330122037 -0300" stop="20250330130923 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330080456 -0300" stop="20250330090541 -0300" channel="TV Zyn">
+  <programme start="20250330130926 -0300" stop="20250330141115 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330090748 -0300" stop="20250330094134 -0300" channel="TV Zyn">
+  <programme start="20250330141353 -0300" stop="20250330144854 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330094341 -0300" stop="20250330101731 -0300" channel="TV Zyn">
+  <programme start="20250330145124 -0300" stop="20250330152613 -0300" channel="TV Zyn">
     <title lang="pt">Cúmplices de Um Resgate</title>
     <desc lang="pt"> - Gêmeas que foram separadas ao nascer e se reencontram na adolescência. E se tornam cúmplices na vida.</desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330101731 -0300" stop="20250330104320 -0300" channel="TV Zyn">
+  <programme start="20250330152943 -0300" stop="20250330155607 -0300" channel="TV Zyn">
     <title lang="pt">Minha Amiga Nokotan é um Cervo</title>
     <desc lang="pt"> - Torako Koshi encontra uma garota presa nos postes de energia por causa de seus... Chifres?</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330104320 -0300" stop="20250330110909 -0300" channel="TV Zyn">
+  <programme start="20250330155610 -0300" stop="20250330162234 -0300" channel="TV Zyn">
     <title lang="pt">Minha Amiga Nokotan é um Cervo</title>
     <desc lang="pt"> - Torako Koshi encontra uma garota presa nos postes de energia por causa de seus... Chifres?</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330110909 -0300" stop="20250330113511 -0300" channel="TV Zyn">
+  <programme start="20250330162557 -0300" stop="20250330165244 -0300" channel="TV Zyn">
     <title lang="pt">Beijo Espectral</title>
     <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330113511 -0300" stop="20250330120113 -0300" channel="TV Zyn">
+  <programme start="20250330165458 -0300" stop="20250330172134 -0300" channel="TV Zyn">
     <title lang="pt">Beijo Espectral</title>
     <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330120113 -0300" stop="20250330122716 -0300" channel="TV Zyn">
+  <programme start="20250330172607 -0300" stop="20250330175229 -0300" channel="TV Zyn">
     <title lang="pt">Beijo Espectral</title>
     <desc lang="pt"> - Depois de ser despejada, Nanami acaba virando a nova divindade de um templo abandonado.</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330122716 -0300" stop="20250330125355 -0300" channel="TV Zyn">
+  <programme start="20250330175236 -0300" stop="20250330175858 -0300" channel="TV Zyn">
+    <title lang="pt">Programação TV Zyn</title>
+    <desc lang="pt"> - </desc>
+  </programme>
+  <programme start="20250330175905 -0300" stop="20250330182559 -0300" channel="TV Zyn">
     <title lang="pt">Os Cavaleiros do Zodíaco: A Tela Perdida</title>
     <desc lang="pt"> - Atena e Hades se enfrentam a cada dois séculos em uma batalha chamada Guerra Santa.</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330125355 -0300" stop="20250330132033 -0300" channel="TV Zyn">
+  <programme start="20250330182812 -0300" stop="20250330185525 -0300" channel="TV Zyn">
     <title lang="pt">Os Cavaleiros do Zodíaco: A Tela Perdida</title>
     <desc lang="pt"> - Atena e Hades se enfrentam a cada dois séculos em uma batalha chamada Guerra Santa.</desc>
     <category lang="en">cartoons/puppets</category>
   </programme>
-  <programme start="20250330132033 -0300" stop="20250330140508 -0300" channel="TV Zyn">
+  <programme start="20250330185535 -0300" stop="20250330190048 -0300" channel="TV Zyn">
+    <title lang="pt">Programação TV Zyn</title>
+    <desc lang="pt"> - </desc>
+  </programme>
+  <programme start="20250330190058 -0300" stop="20250330194537 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330140513 -0300" stop="20250330144952 -0300" channel="TV Zyn">
+  <programme start="20250330194802 -0300" stop="20250330203332 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330144955 -0300" stop="20250330153554 -0300" channel="TV Zyn">
+  <programme start="20250330203659 -0300" stop="20250330212242 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330153559 -0300" stop="20250330161739 -0300" channel="TV Zyn">
+  <programme start="20250330212610 -0300" stop="20250330221306 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250330161742 -0300" stop="20250330170218 -0300" channel="TV Zyn">
+  <programme start="20250330221656 -0300" stop="20250330230000 -0300" channel="TV Zyn">
     <title lang="pt">Chiquititas 2013</title>
     <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
     <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250324132127 -0300" stop="20250324142133 -0300" channel="Saudade">
-    <title lang="pt">Hebe</title>
-    <desc lang="pt">A grande dama da TV na sua melhor forma! Hebe no auge da fama e afiada como nunca!</desc>
-    <category lang="en">show/game show (general)</category>
+  <programme start="20250330230223 -0300" stop="20250330234747 -0300" channel="TV Zyn">
+    <title lang="pt">Chiquititas 2013</title>
+    <desc lang="pt"> - Crianças que vivem no orfanato Raio de Luz buscam amor, amizade e um novo lar. </desc>
+    <category lang="en">movie/drama (general)</category>
   </programme>
-  <programme start="20250324142633 -0300" stop="20250324143240 -0300" channel="Saudade">
-    <title lang="pt">Câmeras Escondidas</title>
-    <desc lang="pt">realizado em 17/07/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
-  </programme>
-  <programme start="20250324143243 -0300" stop="20250324144058 -0300" channel="Saudade">
-    <title lang="pt">Ghostbusters: Mais Além Parte 2</title>
-  </programme>
-  <programme start="20250324144101 -0300" stop="20250324144915 -0300" channel="Saudade">
-    <title lang="pt">Câmeras Escondidas</title>
-    <desc lang="pt">realizado em 12/06/2022 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
-    <category lang="en">comedy</category>
+  <programme start="20250330235437 -0300" stop="20250330235957 -0300" channel="TV Zyn">
+    <title lang="pt">Programação TV Zyn</title>
+    <desc lang="pt"> - </desc>
   </programme>
   <programme start="20250324144918 -0300" stop="20250324145608 -0300" channel="Saudade">
     <title lang="pt">Sala Radioativa - Frankenstein</title>
@@ -29409,10 +29558,15 @@ de artes marciais</desc>
     <desc lang="pt">Diante de quatro jurados sincerões, milhares de candidatos tentam se tornar Astros!</desc>
     <category lang="en">show/game show (general)</category>
   </programme>
-  <programme start="20250331125025 -0300" stop="20250331133616 -0300" channel="Saudade">
+  <programme start="20250331125025 -0300" stop="20250331144615 -0300" channel="Saudade">
     <title lang="pt">Hebe</title>
     <desc lang="pt">A grande dama da TV na sua melhor forma! Hebe no auge da fama e afiada como nunca!</desc>
     <category lang="en">show/game show (general)</category>
+  </programme>
+  <programme start="20250331144625 -0300" stop="20250331145235 -0300" channel="Saudade">
+    <title lang="pt">Câmeras Escondidas</title>
+    <desc lang="pt">realizado em 09/08/2020 - Brincadeiras divertidas com pessoas comuns que não sabem que estão sendo gravadas.</desc>
+    <category lang="en">comedy</category>
   </programme>
   <programme start="20250324082000 -0300" stop="20250324083000 -0300" channel="Canal Educação">
     <title lang="pt">MYTIKAH - O Livro dos Heróis</title>
@@ -30321,7 +30475,7 @@ de artes marciais</desc>
     <title lang="pt">Caixa de Música</title>
     <desc lang="pt"> - Um programa interativo e descontraído que mostra o que há de melhor em música gospel e repleto de clipes, além de cantores e músicos.</desc>
   </programme>
-  <programme start="20250324143000 -0300" stop="20250324150000 -0300" channel="TV Novo Tempo">
+  <programme start="20250324143000 -0300" stop="20250324160000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Entre Família</title>
     <desc lang="pt"> - Um balanço de todos os temas que interessam à família brasileira com muita descontração, bom-humor e espiritualidade.</desc>
   </programme>
@@ -30332,10 +30486,6 @@ de artes marciais</desc>
   <programme start="20250324223000 -0300" stop="20250324230000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Fé para Hoje</title>
     <desc lang="pt"> - Veja como as promessas de Deus são reais e podem ser experimentadas por qualquer um.</desc>
-  </programme>
-  <programme start="20250324163000 -0300" stop="20250324173000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Bíblia Fácil</title>
-    <desc lang="pt"> - Os dez mandamentos são a lei sagrada de Deus. Nessa nova temporada, um estudo de cada um deles.</desc>
   </programme>
   <programme start="20250324010000 -0300" stop="20250324013000 -0300" channel="TV Novo Tempo">
     <title lang="pt">A Mensagem por Elas</title>
@@ -30356,10 +30506,6 @@ de artes marciais</desc>
   <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Escola Bíblica</title>
     <desc lang="pt"> - Bíblia não ensina tormento eterno. Estudo explica destino dos que rejeitam salvação divina.</desc>
-  </programme>
-  <programme start="20250324150000 -0300" stop="20250324153000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Bom de Bíblia</title>
-    <desc lang="pt"> - Larissa e Paulo disputam o terceiro lugar na temporada "Segunda Chance" do programa. Ambos retornam para aproveitar nova oportunidade e demonstrar seu conhecimento bíblico. A competição definirá o vencedor.</desc>
   </programme>
   <programme start="20250324013000 -0300" stop="20250324020000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Rotas Bíblicas com Rodrigo Silva</title>
@@ -30405,10 +30551,6 @@ de artes marciais</desc>
     <title lang="pt">Arena do Futuro</title>
     <desc lang="pt"> - Deus sempre teve seu povo ao longo da história humana. Os sobreviventes, ou melhor, o remanescente é a igreja do Senhor. Confira quem faz parte desse povo e qual o seu papel.</desc>
   </programme>
-  <programme start="20250324093000 -0300" stop="20250324100000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Arena do Futuro</title>
-    <desc lang="pt"> - Deus sempre teve seu povo ao longo da história humana. Os sobreviventes, ou melhor, o remanescente é a igreja do Senhor. Confira quem faz parte desse povo e qual o seu papel.</desc>
-  </programme>
   <programme start="20250324110000 -0300" stop="20250324113000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Arena do Futuro</title>
     <desc lang="pt"> - Deus sempre teve seu povo ao longo da história humana. Os sobreviventes, ou melhor, o remanescente é a igreja do Senhor. Confira quem faz parte desse povo e qual o seu papel.</desc>
@@ -30417,7 +30559,7 @@ de artes marciais</desc>
     <title lang="pt">Caixa de Música</title>
     <desc lang="pt"> - Um programa interativo e descontraído que mostra o que há de melhor em música gospel e repleto de clipes, além de cantores e músicos.</desc>
   </programme>
-  <programme start="20250324200000 -0300" stop="20250324203000 -0300" channel="TV Novo Tempo">
+  <programme start="20250324200000 -0300" stop="20250324210000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Na Mira da Verdade</title>
     <desc lang="pt"> - Muitas vezes a Bíblia é interpretada de maneira incorreta. Mas aqui as dúvidas dos telespectadores são respondidas interativamente, por meio de telefone, e-mail, mensagem de texto e até Twitter.</desc>
   </programme>
@@ -30425,15 +30567,7 @@ de artes marciais</desc>
     <title lang="pt">Adoração: Especial</title>
     <desc lang="pt"> - No pior momento, Deus pode estar realizando o Seu maior milagre. As histórias e lições bíblicas que mostram como aquilo que parece derrota pode ser, na verdade, uma grande vitória.</desc>
   </programme>
-  <programme start="20250324090000 -0300" stop="20250324093000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Está Escrito</title>
-    <desc lang="pt"> - Jesus enfrenta julgadores de mulher adúltera, lembrando-os da necessidade de perdão. Programa explora essa história do Evangelho de João, mostrando a sabedoria e compaixão de Cristo diante do erro e condenação.</desc>
-  </programme>
   <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Na Mira da Verdade</title>
-    <desc lang="pt"> - Discussão sobre como Jesus é Deus se ele é o princípio da criação de Deus.</desc>
-  </programme>
-  <programme start="20250324153000 -0300" stop="20250324160000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Na Mira da Verdade</title>
     <desc lang="pt"> - Discussão sobre como Jesus é Deus se ele é o princípio da criação de Deus.</desc>
   </programme>
@@ -30449,15 +30583,11 @@ de artes marciais</desc>
     <title lang="pt">Adoração: Especial</title>
     <desc lang="pt"> - Uma análise da parábola das Dez Virgens, uma lição poderosa sobre preparação e vigilância. Uma discussão sobre a importância de estar sempre preparado para os momentos decisivos da vida e de manter a fé e compromisso com Deus.</desc>
   </programme>
-  <programme start="20250324083000 -0300" stop="20250324090000 -0300" channel="TV Novo Tempo">
+  <programme start="20250324083000 -0300" stop="20250324100000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Vida e Saúde</title>
     <desc lang="pt"> - Carolina Vitorasso explica lipedema, doença vascular pouco conhecida; o médico Cesar Vasconcellos aborda vícios e sintomas; programa inclui receita de legumes com tofu.</desc>
   </programme>
   <programme start="20250324130000 -0300" stop="20250324133000 -0300" channel="TV Novo Tempo">
-    <title lang="pt">Viaje Comigo: Rota dos Diamantes</title>
-    <desc lang="pt"> - O programa segue viagem pela Estrada Real e explorando o Caminho dos Diamantes.</desc>
-  </programme>
-  <programme start="20250324203000 -0300" stop="20250324210000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Viaje Comigo: Rota dos Diamantes</title>
     <desc lang="pt"> - O programa segue viagem pela Estrada Real e explorando o Caminho dos Diamantes.</desc>
   </programme>
@@ -30481,7 +30611,7 @@ de artes marciais</desc>
     <title lang="pt">Super Lupa</title>
     <desc lang="pt"> - Assim como na subtração, onde menos pode resultar em algo melhor, na vida também podemos nos beneficiar ao diminuir o ritmo e focar em uma tarefa de cada vez.</desc>
   </programme>
-  <programme start="20250324160000 -0300" stop="20250324163000 -0300" channel="TV Novo Tempo">
+  <programme start="20250324160000 -0300" stop="20250324173000 -0300" channel="TV Novo Tempo">
     <title lang="pt">Vida e Saúde</title>
     <desc lang="pt"> - O programa traz informações essenciais para um melhor estilo de vida. Acompanhe dicas sobre alimentação saudável, atividade física, receitas, prevenção, mudança de hábitos, nutrição e outras temáticas envolvendo bem-estar físico, mental e espiritual.</desc>
   </programme>
