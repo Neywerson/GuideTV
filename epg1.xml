@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="24-03-2025 14:39:03">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="24-03-2025 14:46:02">
   <channel id="Claro TV+ 4K">
     <display-name lang="pt">Claro TV+ 4K</display-name>
   </channel>
@@ -93,9 +93,15 @@
   <channel id="Like + | Claro tv+">
     <display-name lang="pt">Like + | Claro tv+</display-name>
   </channel>
-  <channel id="1765">TVJustica.br</channel>
-  <channel id="1779">TVSenado.br</channel>
-  <channel id="2302">Canalgov.br</channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+  </channel>
+  <channel id="CanalGov">
+    <display-name lang="pt">CanalGov</display-name>
+  </channel>
   <channel id="tv-globo">
     <display-name lang="pt">TV Globo</display-name>
   </channel>
@@ -13291,374 +13297,1846 @@
     <title lang="pt">Aproveite o melhor da TV e do Streaming na sua Claro tv+</title>
     <desc lang="pt"> - Fique ligado nas melhores dicas de filmes, séries, documentários, shows, esportes e muito mais! Aproveite com toda a família o melhor da TV e do Streaming na sua Claro tv+</desc>
   </programme>
-  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324003000 -0300" stop="20250324010000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324010000 -0300" stop="20250324020000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324020000 -0300" stop="20250324030000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324040000 -0300" stop="20250324080000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324080000 -0300" stop="20250324085800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324085800 -0300" stop="20250324090000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324090000 -0300" stop="20250324093000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324093000 -0300" stop="20250324100000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324100000 -0300" stop="20250324103000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324103000 -0300" stop="20250324110000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324120000 -0300" stop="20250324123000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324123000 -0300" stop="20250324125800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324125800 -0300" stop="20250324130000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324130000 -0300" stop="20250324133000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324133000 -0300" stop="20250324135800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324135800 -0300" stop="20250324140000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324140000 -0300" stop="20250324173000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324173000 -0300" stop="20250324181000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324181000 -0300" stop="20250324190000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324190000 -0300" stop="20250324193000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324193000 -0300" stop="20250324200100 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324200100 -0300" stop="20250324203000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324203000 -0300" stop="20250324205800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324205800 -0300" stop="20250324210000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324210000 -0300" stop="20250324220000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324220000 -0300" stop="20250324230000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324230000 -0300" stop="20250325000000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324003000 -0300" stop="20250324011500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324011500 -0300" stop="20250324013000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324013000 -0300" stop="20250324025000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324025000 -0300" stop="20250324032500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324032500 -0300" stop="20250324041500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324041500 -0300" stop="20250324054000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324054000 -0300" stop="20250324070000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324070000 -0300" stop="20250324073000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324073000 -0300" stop="20250324080000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324080000 -0300" stop="20250324083000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324083000 -0300" stop="20250324090000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324090000 -0300" stop="20250324133000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324133000 -0300" stop="20250324140000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324140000 -0300" stop="20250324193000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324200000 -0300" stop="20250324203000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324203000 -0300" stop="20250324210000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324210000 -0300" stop="20250325000000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325011500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324003000 -0300" stop="20250324010000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324010000 -0300" stop="20250324013000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324013000 -0300" stop="20250324020000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324020000 -0300" stop="20250324023000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324023000 -0300" stop="20250324030000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324040000 -0300" stop="20250324043000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324043000 -0300" stop="20250324050000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324050000 -0300" stop="20250324053000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324053000 -0300" stop="20250324060000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324060000 -0300" stop="20250324080000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324080000 -0300" stop="20250324090000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324090000 -0300" stop="20250324093000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324093000 -0300" stop="20250324103000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324103000 -0300" stop="20250324120000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324120000 -0300" stop="20250324130000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324130000 -0300" stop="20250324133000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324133000 -0300" stop="20250324190000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324190000 -0300" stop="20250324193000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324200000 -0300" stop="20250324210000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324210000 -0300" stop="20250324213000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250324213000 -0300" stop="20250325000000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325003000 -0300" stop="20250325010000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325010000 -0300" stop="20250325020000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325020000 -0300" stop="20250325030000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325030000 -0300" stop="20250325040000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325040000 -0300" stop="20250325080000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325080000 -0300" stop="20250325085800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325085800 -0300" stop="20250325090000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325090000 -0300" stop="20250325113000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325113000 -0300" stop="20250325123000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325123000 -0300" stop="20250325125800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325125800 -0300" stop="20250325130000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325130000 -0300" stop="20250325133000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325133000 -0300" stop="20250325140000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325140000 -0300" stop="20250325180000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325180000 -0300" stop="20250325190000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325190000 -0300" stop="20250325200000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325200000 -0300" stop="20250325203000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325203000 -0300" stop="20250325205800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325205800 -0300" stop="20250325210000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325210000 -0300" stop="20250325220000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325220000 -0300" stop="20250325230000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325230000 -0300" stop="20250326000000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325011500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325011500 -0300" stop="20250325030000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325030000 -0300" stop="20250325033000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325033000 -0300" stop="20250325040000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325040000 -0300" stop="20250325043000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325043000 -0300" stop="20250325050000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325050000 -0300" stop="20250325053000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325053000 -0300" stop="20250325060000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325060000 -0300" stop="20250325070000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325070000 -0300" stop="20250325073000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325073000 -0300" stop="20250325080000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325080000 -0300" stop="20250325083000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325083000 -0300" stop="20250325090000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325090000 -0300" stop="20250325100000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325100000 -0300" stop="20250325133000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325133000 -0300" stop="20250325140000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325140000 -0300" stop="20250325193000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325193000 -0300" stop="20250325200000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325200000 -0300" stop="20250325203000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325203000 -0300" stop="20250325210000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325210000 -0300" stop="20250326000000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325003000 -0300" stop="20250325010000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325010000 -0300" stop="20250325013000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325013000 -0300" stop="20250325020000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325020000 -0300" stop="20250325023000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325023000 -0300" stop="20250325033000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325033000 -0300" stop="20250325040000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325040000 -0300" stop="20250325043000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325043000 -0300" stop="20250325050000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325050000 -0300" stop="20250325053000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325053000 -0300" stop="20250325060000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325060000 -0300" stop="20250325063000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325063000 -0300" stop="20250325080000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325080000 -0300" stop="20250325090000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325090000 -0300" stop="20250325093000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325093000 -0300" stop="20250325103000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325103000 -0300" stop="20250325120000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325120000 -0300" stop="20250325130000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325130000 -0300" stop="20250325133000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325133000 -0300" stop="20250325190000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325190000 -0300" stop="20250325193000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325193000 -0300" stop="20250325200000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325200000 -0300" stop="20250325210000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325210000 -0300" stop="20250325213000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250325213000 -0300" stop="20250326000000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326000000 -0300" stop="20250326010000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326010000 -0300" stop="20250326020000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326020000 -0300" stop="20250326030000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326030000 -0300" stop="20250326040000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326040000 -0300" stop="20250326080000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326080000 -0300" stop="20250326085800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326085800 -0300" stop="20250326090000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326090000 -0300" stop="20250326093000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326093000 -0300" stop="20250326100000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326100000 -0300" stop="20250326103000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326103000 -0300" stop="20250326110000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326110000 -0300" stop="20250326120100 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326120100 -0300" stop="20250326123000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326123000 -0300" stop="20250326125800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326125800 -0300" stop="20250326130000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326130000 -0300" stop="20250326133000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326133000 -0300" stop="20250326135800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326135800 -0300" stop="20250326140000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326140000 -0300" stop="20250326180000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326180000 -0300" stop="20250326190000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326190000 -0300" stop="20250326193000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326200000 -0300" stop="20250326203000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326203000 -0300" stop="20250326205800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326205800 -0300" stop="20250326210000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326210000 -0300" stop="20250326220000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326220000 -0300" stop="20250326230000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326230000 -0300" stop="20250327000000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250326000000 -0300" stop="20250326013000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326013000 -0300" stop="20250326030000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326030000 -0300" stop="20250326033000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326033000 -0300" stop="20250326040000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326040000 -0300" stop="20250326043000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326043000 -0300" stop="20250326050000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326050000 -0300" stop="20250326053000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326053000 -0300" stop="20250326060000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326060000 -0300" stop="20250326070000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326070000 -0300" stop="20250326073000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326073000 -0300" stop="20250326080000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326080000 -0300" stop="20250326083000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326083000 -0300" stop="20250326090000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326090000 -0300" stop="20250326133000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326133000 -0300" stop="20250326140000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326140000 -0300" stop="20250326193000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326200000 -0300" stop="20250326203000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326203000 -0300" stop="20250326210000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326210000 -0300" stop="20250327000000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327001500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250326000000 -0300" stop="20250326003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326003000 -0300" stop="20250326010000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326010000 -0300" stop="20250326013000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326013000 -0300" stop="20250326020000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326020000 -0300" stop="20250326023000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326023000 -0300" stop="20250326033000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326033000 -0300" stop="20250326040000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326040000 -0300" stop="20250326043000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326043000 -0300" stop="20250326050000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326050000 -0300" stop="20250326053000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326053000 -0300" stop="20250326060000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326060000 -0300" stop="20250326063000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326063000 -0300" stop="20250326080000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326080000 -0300" stop="20250326090000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326090000 -0300" stop="20250326093000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326093000 -0300" stop="20250326103000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326103000 -0300" stop="20250326120000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326120000 -0300" stop="20250326130000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326130000 -0300" stop="20250326133000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326133000 -0300" stop="20250326190000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326190000 -0300" stop="20250326193000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326200000 -0300" stop="20250326210000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326210000 -0300" stop="20250326213000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250326213000 -0300" stop="20250327000000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327003000 -0300" stop="20250327010000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327010000 -0300" stop="20250327020000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327020000 -0300" stop="20250327030000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327030000 -0300" stop="20250327033800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327033800 -0300" stop="20250327073000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327073000 -0300" stop="20250327080000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327080000 -0300" stop="20250327085800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327085800 -0300" stop="20250327090000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327090000 -0300" stop="20250327093000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327093000 -0300" stop="20250327100000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327100000 -0300" stop="20250327110000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327110000 -0300" stop="20250327120000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327120000 -0300" stop="20250327123000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327123000 -0300" stop="20250327125800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327125800 -0300" stop="20250327130000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327130000 -0300" stop="20250327133000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327133000 -0300" stop="20250327135800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327135800 -0300" stop="20250327140000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327140000 -0300" stop="20250327173000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327173000 -0300" stop="20250327180000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327180000 -0300" stop="20250327190000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327190000 -0300" stop="20250327193000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327200000 -0300" stop="20250327203000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327203000 -0300" stop="20250327205800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327205800 -0300" stop="20250327210000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327210000 -0300" stop="20250327220000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327220000 -0300" stop="20250327230000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327230000 -0300" stop="20250328000000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327001500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327001500 -0300" stop="20250327013500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327013500 -0300" stop="20250327021000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327021000 -0300" stop="20250327030000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327030000 -0300" stop="20250327033000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327033000 -0300" stop="20250327040000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327040000 -0300" stop="20250327043000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327043000 -0300" stop="20250327050000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327050000 -0300" stop="20250327053000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327053000 -0300" stop="20250327060000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327060000 -0300" stop="20250327070000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327070000 -0300" stop="20250327073000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327073000 -0300" stop="20250327080000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327080000 -0300" stop="20250327083000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327083000 -0300" stop="20250327090000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327090000 -0300" stop="20250327100000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327100000 -0300" stop="20250327133000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327133000 -0300" stop="20250327140000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327140000 -0300" stop="20250327193000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327200000 -0300" stop="20250327203000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327203000 -0300" stop="20250327210000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327210000 -0300" stop="20250328000000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327003000 -0300" stop="20250327010000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327010000 -0300" stop="20250327013000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327013000 -0300" stop="20250327020000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327020000 -0300" stop="20250327023000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327023000 -0300" stop="20250327033000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327033000 -0300" stop="20250327040000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327040000 -0300" stop="20250327043000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327043000 -0300" stop="20250327050000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327050000 -0300" stop="20250327053000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327053000 -0300" stop="20250327060000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327060000 -0300" stop="20250327063000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327063000 -0300" stop="20250327080000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327080000 -0300" stop="20250327090000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327090000 -0300" stop="20250327093000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327093000 -0300" stop="20250327103000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327103000 -0300" stop="20250327120000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327120000 -0300" stop="20250327130000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327130000 -0300" stop="20250327133000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327133000 -0300" stop="20250327190000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327190000 -0300" stop="20250327193000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327200000 -0300" stop="20250327210000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327210000 -0300" stop="20250327213000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250327213000 -0300" stop="20250328000000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328000000 -0300" stop="20250328003000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328003000 -0300" stop="20250328010000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328010000 -0300" stop="20250328020000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328020000 -0300" stop="20250328030000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328030000 -0300" stop="20250328040000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328040000 -0300" stop="20250328080000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328080000 -0300" stop="20250328085800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328085800 -0300" stop="20250328090000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328090000 -0300" stop="20250328125800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328125800 -0300" stop="20250328130000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328130000 -0300" stop="20250328133000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328133000 -0300" stop="20250328135800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328135800 -0300" stop="20250328140000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328140000 -0300" stop="20250328180000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328180000 -0300" stop="20250328190000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328190000 -0300" stop="20250328193000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328200000 -0300" stop="20250328203000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328203000 -0300" stop="20250328205800 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328205800 -0300" stop="20250328210000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328210000 -0300" stop="20250328230000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328230000 -0300" stop="20250329000000 -0300" channel="1765">TVJustica.br</programme>
-  <programme start="20250328000000 -0300" stop="20250328013500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328013500 -0300" stop="20250328020500 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328030000 -0300" stop="20250328033000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328033000 -0300" stop="20250328040000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328040000 -0300" stop="20250328043000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328043000 -0300" stop="20250328050000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328050000 -0300" stop="20250328053000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328053000 -0300" stop="20250328060000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328060000 -0300" stop="20250328070000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328070000 -0300" stop="20250328073000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328073000 -0300" stop="20250328080000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328080000 -0300" stop="20250328083000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328083000 -0300" stop="20250328090000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328090000 -0300" stop="20250328093000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328093000 -0300" stop="20250328133000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328133000 -0300" stop="20250328140000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328140000 -0300" stop="20250328193000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328200000 -0300" stop="20250328203000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328203000 -0300" stop="20250328210000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328210000 -0300" stop="20250328213000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328213000 -0300" stop="20250328232000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328232000 -0300" stop="20250329000000 -0300" channel="1779">TVSenado.br</programme>
-  <programme start="20250328000000 -0300" stop="20250328003000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328003000 -0300" stop="20250328010000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328010000 -0300" stop="20250328013000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328013000 -0300" stop="20250328020000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328020000 -0300" stop="20250328023000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328023000 -0300" stop="20250328033000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328033000 -0300" stop="20250328040000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328040000 -0300" stop="20250328043000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328043000 -0300" stop="20250328050000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328050000 -0300" stop="20250328053000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328053000 -0300" stop="20250328060000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328060000 -0300" stop="20250328063000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328063000 -0300" stop="20250328080000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328080000 -0300" stop="20250328090000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328090000 -0300" stop="20250328093000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328093000 -0300" stop="20250328103000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328103000 -0300" stop="20250328120000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328120000 -0300" stop="20250328130000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328130000 -0300" stop="20250328133000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328133000 -0300" stop="20250328190000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328190000 -0300" stop="20250328193000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328200000 -0300" stop="20250328210000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328210000 -0300" stop="20250328213000 -0300" channel="2302">Canalgov.br</programme>
-  <programme start="20250328213000 -0300" stop="20250329000000 -0300" channel="2302">Canalgov.br</programme>
+  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324003000 -0300" stop="20250324010000 -0300" channel="TV Justiça">
+    <title lang="pt">Iluminuras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324020000 -0300" channel="TV Justiça">
+    <title lang="pt">Arena dos Saberes</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324020000 -0300" stop="20250324030000 -0300" channel="TV Justiça">
+    <title lang="pt">Jazz Sinfônica Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">serious music/classical music</category>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="TV Justiça">
+    <title lang="pt">Noturno</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324040000 -0300" stop="20250324080000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324085800 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324085800 -0300" stop="20250324090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324093000 -0300" channel="TV Justiça">
+    <title lang="pt">Descomplicando</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324093000 -0300" stop="20250324100000 -0300" channel="TV Justiça">
+    <title lang="pt">Como Funciona Aí?</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324100000 -0300" stop="20250324103000 -0300" channel="TV Justiça">
+    <title lang="pt">Trabalho Legal</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324103000 -0300" stop="20250324110000 -0300" channel="TV Justiça">
+    <title lang="pt">Inteiro Teor</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324120000 -0300" stop="20250324123000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Judicialização da Saúde</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324123000 -0300" stop="20250324125800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324125800 -0300" stop="20250324130000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324130000 -0300" stop="20250324133000 -0300" channel="TV Justiça">
+    <title lang="pt">Justiça &amp; Trabalho</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324133000 -0300" stop="20250324135800 -0300" channel="TV Justiça">
+    <title lang="pt">Jornada TST</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324135800 -0300" stop="20250324140000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324140000 -0300" stop="20250324173000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324173000 -0300" stop="20250324181000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: 200 Anos Do Constitucionalismo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324181000 -0300" stop="20250324190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324190000 -0300" stop="20250324193000 -0300" channel="TV Justiça">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324200100 -0300" channel="TV Justiça">
+    <title lang="pt">Link CNJ</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324200100 -0300" stop="20250324203000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324203000 -0300" stop="20250324205800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324205800 -0300" stop="20250324210000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250324220000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324220000 -0300" stop="20250324230000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324230000 -0300" stop="20250325000000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Marco Maciel - Bastidores de Um País Em Transe</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324003000 -0300" stop="20250324011500 -0300" channel="TV Senado">
+    <title lang="pt">Estúdio A</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324011500 -0300" stop="20250324013000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Eunice, Clarice, Thereza</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324013000 -0300" stop="20250324025000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Um Presente à Prova de Futuro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324025000 -0300" stop="20250324032500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324032500 -0300" stop="20250324041500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: 1932, A Guerra Civil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324041500 -0300" stop="20250324054000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Quando Elas Se Movimentam</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324054000 -0300" stop="20250324070000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: A Rainha Nzinga Chegou</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324073000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Guerras do Brasil.doc - A Guerra dos Palmares</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324073000 -0300" stop="20250324080000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324083000 -0300" channel="TV Senado">
+    <title lang="pt">Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324083000 -0300" stop="20250324090000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324133000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Direitos Humanos e Legislação Participativa</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324133000 -0300" stop="20250324140000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324140000 -0300" stop="20250324193000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324203000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324203000 -0300" stop="20250324210000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250325000000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325011500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Quando Elas Se Movimentam</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324000000 -0300" stop="20250324003000 -0300" channel="CanalGov">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324003000 -0300" stop="20250324010000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324013000 -0300" channel="CanalGov">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324013000 -0300" stop="20250324020000 -0300" channel="CanalGov">
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250324020000 -0300" stop="20250324023000 -0300" channel="CanalGov">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250324023000 -0300" stop="20250324030000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324040000 -0300" stop="20250324043000 -0300" channel="CanalGov">
+    <title lang="pt">GOV Destaque</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324050000 -0300" channel="CanalGov">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324050000 -0300" stop="20250324053000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324053000 -0300" stop="20250324060000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324080000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324090000 -0300" channel="CanalGov">
+    <title lang="pt">Bom Dia, Ministro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324093000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324093000 -0300" stop="20250324103000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia – Ao Vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324103000 -0300" stop="20250324120000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324120000 -0300" stop="20250324130000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250324130000 -0300" stop="20250324133000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324133000 -0300" stop="20250324190000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324190000 -0300" stop="20250324193000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324210000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250324213000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250324213000 -0300" stop="20250325000000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325003000 -0300" stop="20250325010000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325010000 -0300" stop="20250325020000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325020000 -0300" stop="20250325030000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325030000 -0300" stop="20250325040000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325080000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325085800 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325085800 -0300" stop="20250325090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325113000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TST</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325113000 -0300" stop="20250325123000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Democrácia Inabalada</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325123000 -0300" stop="20250325125800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325125800 -0300" stop="20250325130000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325130000 -0300" stop="20250325133000 -0300" channel="TV Justiça">
+    <title lang="pt">Bahia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325133000 -0300" stop="20250325140000 -0300" channel="TV Justiça">
+    <title lang="pt">STJ Notícias</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325140000 -0300" stop="20250325180000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325180000 -0300" stop="20250325190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325190000 -0300" stop="20250325200000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TSE</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325200000 -0300" stop="20250325203000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325203000 -0300" stop="20250325205800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325205800 -0300" stop="20250325210000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325210000 -0300" stop="20250325220000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325220000 -0300" stop="20250325230000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325230000 -0300" stop="20250326000000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325011500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Quando Elas Se Movimentam</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325011500 -0300" stop="20250325030000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: A Rainha Nzinga Chegou</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325030000 -0300" stop="20250325033000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325033000 -0300" stop="20250325040000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325043000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325043000 -0300" stop="20250325050000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325050000 -0300" stop="20250325053000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325053000 -0300" stop="20250325060000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325070000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc Acervo: Arte Brasileira Quadro a Quadro - A Mulher na Sociedade</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325070000 -0300" stop="20250325073000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Marco Maciel - Bastidores de Um País Em Transe</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325073000 -0300" stop="20250325080000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325083000 -0300" channel="TV Senado">
+    <title lang="pt">Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325083000 -0300" stop="20250325090000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325100000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Serviços de Infraestrutura</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325100000 -0300" stop="20250325133000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Assuntos Econômicos</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325133000 -0300" stop="20250325140000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325140000 -0300" stop="20250325193000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325193000 -0300" stop="20250325200000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325200000 -0300" stop="20250325203000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325203000 -0300" stop="20250325210000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325210000 -0300" stop="20250326000000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325003000 -0300" stop="20250325010000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325010000 -0300" stop="20250325013000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325013000 -0300" stop="20250325020000 -0300" channel="CanalGov">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250325020000 -0300" stop="20250325023000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325023000 -0300" stop="20250325033000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325033000 -0300" stop="20250325040000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325043000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325043000 -0300" stop="20250325050000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325050000 -0300" stop="20250325053000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325053000 -0300" stop="20250325060000 -0300" channel="CanalGov">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325063000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325063000 -0300" stop="20250325080000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325090000 -0300" channel="CanalGov">
+    <title lang="pt">Bom Dia, Ministro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325093000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325093000 -0300" stop="20250325103000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia – Ao Vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325103000 -0300" stop="20250325120000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325120000 -0300" stop="20250325130000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250325130000 -0300" stop="20250325133000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325133000 -0300" stop="20250325190000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325190000 -0300" stop="20250325193000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325193000 -0300" stop="20250325200000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325200000 -0300" stop="20250325210000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325210000 -0300" stop="20250325213000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250325213000 -0300" stop="20250326000000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326000000 -0300" stop="20250326010000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TSE</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326010000 -0300" stop="20250326020000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326020000 -0300" stop="20250326030000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326030000 -0300" stop="20250326040000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326040000 -0300" stop="20250326080000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326080000 -0300" stop="20250326085800 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326085800 -0300" stop="20250326090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326090000 -0300" stop="20250326093000 -0300" channel="TV Justiça">
+    <title lang="pt">Descomplicando</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326093000 -0300" stop="20250326100000 -0300" channel="TV Justiça">
+    <title lang="pt">Como Funciona Aí?</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326100000 -0300" stop="20250326103000 -0300" channel="TV Justiça">
+    <title lang="pt">Pensamento Jurídico</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326103000 -0300" stop="20250326110000 -0300" channel="TV Justiça">
+    <title lang="pt">Sergipe Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326110000 -0300" stop="20250326120100 -0300" channel="TV Justiça">
+    <title lang="pt">Entender Direito</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326120100 -0300" stop="20250326123000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Juiz de Paz - 200 anos</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326123000 -0300" stop="20250326125800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326125800 -0300" stop="20250326130000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326130000 -0300" stop="20250326133000 -0300" channel="TV Justiça">
+    <title lang="pt">Hora Extra</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326133000 -0300" stop="20250326135800 -0300" channel="TV Justiça">
+    <title lang="pt">OAB Nacional</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326135800 -0300" stop="20250326140000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326140000 -0300" stop="20250326180000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326180000 -0300" stop="20250326190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326190000 -0300" stop="20250326193000 -0300" channel="TV Justiça">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="TV Justiça">
+    <title lang="pt">Revista TST</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326200000 -0300" stop="20250326203000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326203000 -0300" stop="20250326205800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326205800 -0300" stop="20250326210000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326210000 -0300" stop="20250326220000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326220000 -0300" stop="20250326230000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326230000 -0300" stop="20250327000000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326000000 -0300" stop="20250326013000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Quando Elas Se Movimentam</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326013000 -0300" stop="20250326030000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Maria Luiza</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326030000 -0300" stop="20250326033000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326033000 -0300" stop="20250326040000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326040000 -0300" stop="20250326043000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326043000 -0300" stop="20250326050000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326050000 -0300" stop="20250326053000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326053000 -0300" stop="20250326060000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326060000 -0300" stop="20250326070000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc Acervo: Arte Brasileira Quadro a Quadro - Arte e História</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326070000 -0300" stop="20250326073000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Transamazônica - Caminhos Cruzados</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326073000 -0300" stop="20250326080000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326080000 -0300" stop="20250326083000 -0300" channel="TV Senado">
+    <title lang="pt">Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326083000 -0300" stop="20250326090000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326090000 -0300" stop="20250326133000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Constituição, Justiça e Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326133000 -0300" stop="20250326140000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326140000 -0300" stop="20250326193000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326200000 -0300" stop="20250326203000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326203000 -0300" stop="20250326210000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326210000 -0300" stop="20250327000000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327001500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Eunice, Clarice, Thereza</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326000000 -0300" stop="20250326003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326003000 -0300" stop="20250326010000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326010000 -0300" stop="20250326013000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326013000 -0300" stop="20250326020000 -0300" channel="CanalGov">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250326020000 -0300" stop="20250326023000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326023000 -0300" stop="20250326033000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326033000 -0300" stop="20250326040000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326040000 -0300" stop="20250326043000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326043000 -0300" stop="20250326050000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326050000 -0300" stop="20250326053000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326053000 -0300" stop="20250326060000 -0300" channel="CanalGov">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250326060000 -0300" stop="20250326063000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326063000 -0300" stop="20250326080000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326080000 -0300" stop="20250326090000 -0300" channel="CanalGov">
+    <title lang="pt">Bom Dia, Ministro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326090000 -0300" stop="20250326093000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326093000 -0300" stop="20250326103000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia – Ao Vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326103000 -0300" stop="20250326120000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326120000 -0300" stop="20250326130000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250326130000 -0300" stop="20250326133000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326133000 -0300" stop="20250326190000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326190000 -0300" stop="20250326193000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326193000 -0300" stop="20250326200000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326200000 -0300" stop="20250326210000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326210000 -0300" stop="20250326213000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250326213000 -0300" stop="20250327000000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327003000 -0300" stop="20250327010000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327010000 -0300" stop="20250327020000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327020000 -0300" stop="20250327030000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327030000 -0300" stop="20250327033800 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327033800 -0300" stop="20250327073000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327073000 -0300" stop="20250327080000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: 200 Anos Do Constitucionalismo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327080000 -0300" stop="20250327085800 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327085800 -0300" stop="20250327090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327090000 -0300" stop="20250327093000 -0300" channel="TV Justiça">
+    <title lang="pt">Descomplicando</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327093000 -0300" stop="20250327100000 -0300" channel="TV Justiça">
+    <title lang="pt">Como Funciona Aí?</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327100000 -0300" stop="20250327110000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TSE</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327110000 -0300" stop="20250327120000 -0300" channel="TV Justiça">
+    <title lang="pt">Último Recurso</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327120000 -0300" stop="20250327123000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Reforma do Judiciário</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327123000 -0300" stop="20250327125800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327125800 -0300" stop="20250327130000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327130000 -0300" stop="20250327133000 -0300" channel="TV Justiça">
+    <title lang="pt">Interlocução</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327133000 -0300" stop="20250327135800 -0300" channel="TV Justiça">
+    <title lang="pt">AGU - FAROL</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327135800 -0300" stop="20250327140000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327140000 -0300" stop="20250327173000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327173000 -0300" stop="20250327180000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Vestimentas Do Judiciário</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327180000 -0300" stop="20250327190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327190000 -0300" stop="20250327193000 -0300" channel="TV Justiça">
+    <title lang="pt">Direito sem Fronteiras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="TV Justiça">
+    <title lang="pt">STJ Notícias</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327200000 -0300" stop="20250327203000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327203000 -0300" stop="20250327205800 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327205800 -0300" stop="20250327210000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327210000 -0300" stop="20250327220000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327220000 -0300" stop="20250327230000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327230000 -0300" stop="20250328000000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327001500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Eunice, Clarice, Thereza</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327001500 -0300" stop="20250327013500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Um Presente à Prova de Futuro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327013500 -0300" stop="20250327021000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327021000 -0300" stop="20250327030000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: 1932, A Guerra Civil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327030000 -0300" stop="20250327033000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327033000 -0300" stop="20250327040000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327040000 -0300" stop="20250327043000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327043000 -0300" stop="20250327050000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327050000 -0300" stop="20250327053000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327053000 -0300" stop="20250327060000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327060000 -0300" stop="20250327070000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc Acervo: Arte Brasileira Quadro a Quadro - A Paisagem Brasileira</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327070000 -0300" stop="20250327073000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Transamazônica - Vidas</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327073000 -0300" stop="20250327080000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327080000 -0300" stop="20250327083000 -0300" channel="TV Senado">
+    <title lang="pt">Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327083000 -0300" stop="20250327090000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327090000 -0300" stop="20250327100000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Agricultura e Reforma Agrária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327100000 -0300" stop="20250327133000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão: Comissão de Relações Exteriores e Defesa Nacional</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327133000 -0300" stop="20250327140000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327140000 -0300" stop="20250327193000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias: Boletim</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327200000 -0300" stop="20250327203000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327203000 -0300" stop="20250327210000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327210000 -0300" stop="20250328000000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327000000 -0300" stop="20250327003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327003000 -0300" stop="20250327010000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327010000 -0300" stop="20250327013000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327013000 -0300" stop="20250327020000 -0300" channel="CanalGov">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250327020000 -0300" stop="20250327023000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327023000 -0300" stop="20250327033000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327033000 -0300" stop="20250327040000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327040000 -0300" stop="20250327043000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327043000 -0300" stop="20250327050000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327050000 -0300" stop="20250327053000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327053000 -0300" stop="20250327060000 -0300" channel="CanalGov">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250327060000 -0300" stop="20250327063000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327063000 -0300" stop="20250327080000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327080000 -0300" stop="20250327090000 -0300" channel="CanalGov">
+    <title lang="pt">Bom Dia, Ministro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327090000 -0300" stop="20250327093000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327093000 -0300" stop="20250327103000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia – Ao Vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327103000 -0300" stop="20250327120000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327120000 -0300" stop="20250327130000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250327130000 -0300" stop="20250327133000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327133000 -0300" stop="20250327190000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327190000 -0300" stop="20250327193000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327193000 -0300" stop="20250327200000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327200000 -0300" stop="20250327210000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327210000 -0300" stop="20250327213000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250327213000 -0300" stop="20250328000000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328000000 -0300" stop="20250328003000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328003000 -0300" stop="20250328010000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328010000 -0300" stop="20250328020000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328020000 -0300" stop="20250328030000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328030000 -0300" stop="20250328040000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328040000 -0300" stop="20250328080000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do STF</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328080000 -0300" stop="20250328085800 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328085800 -0300" stop="20250328090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328090000 -0300" stop="20250328125800 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TST</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328125800 -0300" stop="20250328130000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328130000 -0300" stop="20250328133000 -0300" channel="TV Justiça">
+    <title lang="pt">Justiça em Questão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328133000 -0300" stop="20250328135800 -0300" channel="TV Justiça">
+    <title lang="pt">Interesse Público</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328135800 -0300" stop="20250328140000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328140000 -0300" stop="20250328180000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão do TSE</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328180000 -0300" stop="20250328190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328190000 -0300" stop="20250328193000 -0300" channel="TV Justiça">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="TV Justiça">
+    <title lang="pt">Interesse Público</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328200000 -0300" stop="20250328203000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328203000 -0300" stop="20250328205800 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário Variado: Anticapacitismo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328205800 -0300" stop="20250328210000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328210000 -0300" stop="20250328230000 -0300" channel="TV Justiça">
+    <title lang="pt">Vozes da CLT</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328230000 -0300" stop="20250329000000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328000000 -0300" stop="20250328013500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Juízo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328013500 -0300" stop="20250328020500 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Guerras do Brasil.doc - Universidade do Crime</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328030000 -0300" stop="20250328033000 -0300" channel="TV Senado">
+    <title lang="pt">Em Discussão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328033000 -0300" stop="20250328040000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328040000 -0300" stop="20250328043000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328043000 -0300" stop="20250328050000 -0300" channel="TV Senado">
+    <title lang="pt">Assunto de Estado</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328050000 -0300" stop="20250328053000 -0300" channel="TV Senado">
+    <title lang="pt">Agenda Econômica</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328053000 -0300" stop="20250328060000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328060000 -0300" stop="20250328070000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc Acervo: Arte Brasileira Quadro a Quadro - A Gente Brasileira</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328070000 -0300" stop="20250328073000 -0300" channel="TV Senado">
+    <title lang="pt">Tela Brasil: Transamazônica - Terra Prometida</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328073000 -0300" stop="20250328080000 -0300" channel="TV Senado">
+    <title lang="pt">Salão Nobre</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328080000 -0300" stop="20250328083000 -0300" channel="TV Senado">
+    <title lang="pt">Cidadania</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328083000 -0300" stop="20250328090000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328090000 -0300" stop="20250328093000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328093000 -0300" stop="20250328133000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328133000 -0300" stop="20250328140000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias Revista</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328140000 -0300" stop="20250328193000 -0300" channel="TV Senado">
+    <title lang="pt">Comissão</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="TV Senado">
+    <title lang="pt">Senado Notícias Revista</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328200000 -0300" stop="20250328203000 -0300" channel="TV Senado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328203000 -0300" stop="20250328210000 -0300" channel="TV Senado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328210000 -0300" stop="20250328213000 -0300" channel="TV Senado">
+    <title lang="pt">Que Brasil é Este?</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328213000 -0300" stop="20250328232000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: O Velho - A História de Luiz Carlos Prestes</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328232000 -0300" stop="20250329000000 -0300" channel="TV Senado">
+    <title lang="pt">Senadoc: Filhos da Democracia - Os 35 Anos da Constituição</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328000000 -0300" stop="20250328003000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328003000 -0300" stop="20250328010000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328010000 -0300" stop="20250328013000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328013000 -0300" stop="20250328020000 -0300" channel="CanalGov">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">movie/drama (general)</category>
+  </programme>
+  <programme start="20250328020000 -0300" stop="20250328023000 -0300" channel="CanalGov">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328023000 -0300" stop="20250328033000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328033000 -0300" stop="20250328040000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328040000 -0300" stop="20250328043000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328043000 -0300" stop="20250328050000 -0300" channel="CanalGov">
+    <title lang="pt">Mulheres pela Independência</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328050000 -0300" stop="20250328053000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328053000 -0300" stop="20250328060000 -0300" channel="CanalGov">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">documentary</category>
+  </programme>
+  <programme start="20250328060000 -0300" stop="20250328063000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328063000 -0300" stop="20250328080000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328080000 -0300" stop="20250328090000 -0300" channel="CanalGov">
+    <title lang="pt">Bom Dia, Ministro</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328090000 -0300" stop="20250328093000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328093000 -0300" stop="20250328103000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia – Ao Vivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328103000 -0300" stop="20250328120000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328120000 -0300" stop="20250328130000 -0300" channel="CanalGov">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">news/current affairs (general)</category>
+  </programme>
+  <programme start="20250328130000 -0300" stop="20250328133000 -0300" channel="CanalGov">
+    <title lang="pt">Me conta Brasil</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328133000 -0300" stop="20250328190000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328190000 -0300" stop="20250328193000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328193000 -0300" stop="20250328200000 -0300" channel="CanalGov">
+    <title lang="pt">Fala MDS</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328200000 -0300" stop="20250328210000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328210000 -0300" stop="20250328213000 -0300" channel="CanalGov">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
+  <programme start="20250328213000 -0300" stop="20250329000000 -0300" channel="CanalGov">
+    <title lang="pt">Atos do Executivo</title>
+    <desc lang="pt"> - </desc>
+    <category lang="en">variety show</category>
+  </programme>
   <programme start="20250323231000 -0300" stop="20250324002959 -0300" channel="tv-globo">
     <title lang="pt">Big Brother Brasil 25 - ao vivo</title>
     <desc lang="pt"> - Tadeu Schmidt comanda os participantes da 25ª edição do reality show da Globo.</desc>
