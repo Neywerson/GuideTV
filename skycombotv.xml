@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="29-06-2025 22:25:05">
+<channel id="A&amp;E"><display-name>A&amp;E</display-name></channel>
+<channel id="A&amp;E HD"><display-name>A&amp;E HD</display-name></channel>
+<channel id="AGRO+ HD"><display-name>AGRO+ HD</display-name></channel>
+<channel id="AMC"><display-name>AMC</display-name></channel>
+<channel id="AMC HD"><display-name>AMC HD</display-name></channel>
+<channel id="ANIMAL PLANET"><display-name>ANIMAL PLANET</display-name></channel>
+<channel id="ANIMAL PLANET HD"><display-name>ANIMAL PLANET HD</display-name></channel>
+<channel id="ARTE 1"><display-name>ARTE 1</display-name></channel>
+<channel id="AXN"><display-name>AXN</display-name></channel>
+<channel id="AXN HD"><display-name>AXN HD</display-name></channel>
+<channel id="BAND"><display-name>BAND</display-name></channel>
+<channel id="BAND HD"><display-name>BAND HD</display-name></channel>
+<channel id="BANDNEWS"><display-name>BANDNEWS</display-name></channel>
+<channel id="BANDNEWS HD"><display-name>BANDNEWS HD</display-name></channel>
+<channel id="BANDSPORTS"><display-name>BANDSPORTS</display-name></channel>
+<channel id="BANDSPORTS HD"><display-name>BANDSPORTS HD</display-name></channel>
+<channel id="BBC WORLD NEWS HD"><display-name>BBC WORLD NEWS HD</display-name></channel>
+<channel id="BIS"><display-name>BIS</display-name></channel>
+<channel id="BIS HD"><display-name>BIS HD</display-name></channel>
+<channel id="BLOOMBERG HD"><display-name>BLOOMBERG HD</display-name></channel>
+<channel id="CANAL BRASIL"><display-name>CANAL BRASIL</display-name></channel>
+<channel id="CANAL BRASIL HD"><display-name>CANAL BRASIL HD</display-name></channel>
+<channel id="CANAL DO CRIADOR"><display-name>CANAL DO CRIADOR</display-name></channel>
+<channel id="CANAL EDUCAÇÃO"><display-name>CANAL EDUCAÇÃO</display-name></channel>
+<channel id="CANAL RURAL"><display-name>CANAL RURAL</display-name></channel>
+<channel id="CANÇÃO NOVA"><display-name>CANÇÃO NOVA</display-name></channel>
+<channel id="CARTOON NETWORK"><display-name>CARTOON NETWORK</display-name></channel>
+<channel id="CARTOON NETWORK HD"><display-name>CARTOON NETWORK HD</display-name></channel>
+<channel id="CARTOONITO HD"><display-name>CARTOONITO HD</display-name></channel>
+<channel id="CGTN"><display-name>CGTN</display-name></channel>
+<channel id="Cine Canal"><display-name>Cine Canal</display-name></channel>
+<channel id="Cine Canal HD"><display-name>Cine Canal HD</display-name></channel>
+<channel id="CINEMAX"><display-name>CINEMAX</display-name></channel>
+<channel id="CINEMAX HD"><display-name>CINEMAX HD</display-name></channel>
+<channel id="CNN BRASIL"><display-name>CNN BRASIL</display-name></channel>
+<channel id="CNN BRASIL HD"><display-name>CNN BRASIL HD</display-name></channel>
+<channel id="CNN INTERNATIONAL"><display-name>CNN INTERNATIONAL</display-name></channel>
+<channel id="CNT"><display-name>CNT</display-name></channel>
+<channel id="COMEDY CENTRAL"><display-name>COMEDY CENTRAL</display-name></channel>
+<channel id="COMEDY CENTRAL HD"><display-name>COMEDY CENTRAL HD</display-name></channel>
+<channel id="CONMEBOL TV 1"><display-name>CONMEBOL TV 1</display-name></channel>
+<channel id="CONMEBOL TV 2"><display-name>CONMEBOL TV 2</display-name></channel>
+<channel id="CONMEBOL TV 3"><display-name>CONMEBOL TV 3</display-name></channel>
+<channel id="CONMEBOL TV 4"><display-name>CONMEBOL TV 4</display-name></channel>
+<channel id="D. THEATER HD"><display-name>D. THEATER HD</display-name></channel>
+<channel id="DISCOVERY CHANNEL"><display-name>DISCOVERY CHANNEL</display-name></channel>
+<channel id="DISCOVERY CHANNEL HD"><display-name>DISCOVERY CHANNEL HD</display-name></channel>
+<channel id="Discovery Home and Health"><display-name>Discovery Home and Health</display-name></channel>
+<channel id="Discovery Home and Health HD"><display-name>Discovery Home and Health HD</display-name></channel>
+<channel id="DISCOVERY KIDS"><display-name>DISCOVERY KIDS</display-name></channel>
+<channel id="DISCOVERY KIDS HD"><display-name>DISCOVERY KIDS HD</display-name></channel>
+<channel id="DISCOVERY SCIENCE HD"><display-name>DISCOVERY SCIENCE HD</display-name></channel>
+<channel id="DISCOVERY TURBO HD"><display-name>DISCOVERY TURBO HD</display-name></channel>
+<channel id="DISCOVERY WORLD HD"><display-name>DISCOVERY WORLD HD</display-name></channel>
+<channel id="DISNEY CHANNEL"><display-name>DISNEY CHANNEL</display-name></channel>
+<channel id="DISNEY CHANNEL HD"><display-name>DISNEY CHANNEL HD</display-name></channel>
+<channel id="E!"><display-name>E!</display-name></channel>
+<channel id="E! HD"><display-name>E! HD</display-name></channel>
+<channel id="EMPREENDER HD"><display-name>EMPREENDER HD</display-name></channel>
+<channel id="ESPN"><display-name>ESPN</display-name></channel>
+<channel id="ESPN 2"><display-name>ESPN 2</display-name></channel>
+<channel id="ESPN 2 HD"><display-name>ESPN 2 HD</display-name></channel>
+<channel id="ESPN 3"><display-name>ESPN 3</display-name></channel>
+<channel id="ESPN 3 HD"><display-name>ESPN 3 HD</display-name></channel>
+<channel id="ESPN 4"><display-name>ESPN 4</display-name></channel>
+<channel id="ESPN 4 HD"><display-name>ESPN 4 HD</display-name></channel>
+<channel id="ESPN EXTRA"><display-name>ESPN EXTRA</display-name></channel>
+<channel id="ESPN EXTRA HD"><display-name>ESPN EXTRA HD</display-name></channel>
+<channel id="ESPN HD"><display-name>ESPN HD</display-name></channel>
+<channel id="FASHION TV"><display-name>FASHION TV</display-name></channel>
+<channel id="FILM&amp;ARTS"><display-name>FILM&amp;ARTS</display-name></channel>
+<channel id="FILM&amp;ARTS HD"><display-name>FILM&amp;ARTS HD</display-name></channel>
+<channel id="FISH TV"><display-name>FISH TV</display-name></channel>
+<channel id="FOOD NETWORK HD"><display-name>FOOD NETWORK HD</display-name></channel>
+<channel id="FOX SPORTS 2 HD"><display-name>FOX SPORTS 2 HD</display-name></channel>
+<channel id="FUTURA"><display-name>FUTURA</display-name></channel>
+<channel id="FUTURA HD"><display-name>FUTURA HD</display-name></channel>
+<channel id="FX"><display-name>FX</display-name></channel>
+<channel id="FX HD"><display-name>FX HD</display-name></channel>
+<channel id="GLOBO"><display-name>GLOBO</display-name></channel>
+<channel id="GLOBO HD"><display-name>GLOBO HD</display-name></channel>
+<channel id="GLOBONEWS"><display-name>GLOBONEWS</display-name></channel>
+<channel id="GLOBONEWS HD"><display-name>GLOBONEWS HD</display-name></channel>
+<channel id="GLOOB"><display-name>GLOOB</display-name></channel>
+<channel id="GLOOB HD"><display-name>GLOOB HD</display-name></channel>
+<channel id="GLOOBINHO"><display-name>GLOOBINHO</display-name></channel>
+<channel id="GLOOBINHO HD"><display-name>GLOOBINHO HD</display-name></channel>
+<channel id="GNT"><display-name>GNT</display-name></channel>
+<channel id="GNT HD"><display-name>GNT HD</display-name></channel>
+<channel id="GOLF CHANNEL HD"><display-name>GOLF CHANNEL HD</display-name></channel>
+<channel id="HBO"><display-name>HBO</display-name></channel>
+<channel id="HBO2"><display-name>HBO2</display-name></channel>
+<channel id="HBO2 HD"><display-name>HBO2 HD</display-name></channel>
+<channel id="HBO FAMILY"><display-name>HBO FAMILY</display-name></channel>
+<channel id="HBO FAMILY HD"><display-name>HBO FAMILY HD</display-name></channel>
+<channel id="HBO HD"><display-name>HBO HD</display-name></channel>
+<channel id="HBO Mundi"><display-name>HBO Mundi</display-name></channel>
+<channel id="HBO Mundi HD"><display-name>HBO Mundi HD</display-name></channel>
+<channel id="HBO PLUS"><display-name>HBO PLUS</display-name></channel>
+<channel id="HBO PLUS HD"><display-name>HBO PLUS HD</display-name></channel>
+<channel id="HBO POP"><display-name>HBO POP</display-name></channel>
+<channel id="HBO POP HD"><display-name>HBO POP HD</display-name></channel>
+<channel id="HBO Signature"><display-name>HBO Signature</display-name></channel>
+<channel id="HBO Signature HD"><display-name>HBO Signature HD</display-name></channel>
+<channel id="HBO Xtreme"><display-name>HBO Xtreme</display-name></channel>
+<channel id="HBO Xtreme HD"><display-name>HBO Xtreme HD</display-name></channel>
+<channel id="HISTORY 2 HD"><display-name>HISTORY 2 HD</display-name></channel>
+<channel id="HISTORY CHANNEL"><display-name>HISTORY CHANNEL</display-name></channel>
+<channel id="HISTORY CHANNEL HD"><display-name>HISTORY CHANNEL HD</display-name></channel>
+<channel id="HOME &amp; GARDEN TV HD"><display-name>HOME &amp; GARDEN TV HD</display-name></channel>
+<channel id="ID"><display-name>ID</display-name></channel>
+<channel id="ID HD"><display-name>ID HD</display-name></channel>
+<channel id="IDEAL TV"><display-name>IDEAL TV</display-name></channel>
+<channel id="Jovem Pan News"><display-name>Jovem Pan News</display-name></channel>
+<channel id="JOVEM PAN NEWS HD"><display-name>JOVEM PAN NEWS HD</display-name></channel>
+<channel id="LIFETIME"><display-name>LIFETIME</display-name></channel>
+<channel id="LIFETIME HD"><display-name>LIFETIME HD</display-name></channel>
+<channel id="Markket HD"><display-name>Markket HD</display-name></channel>
+<channel id="MEGAPIX"><display-name>MEGAPIX</display-name></channel>
+<channel id="MEGAPIX HD"><display-name>MEGAPIX HD</display-name></channel>
+<channel id="MODO VIAGEM"><display-name>MODO VIAGEM</display-name></channel>
+<channel id="MODO VIAGEM HD"><display-name>MODO VIAGEM HD</display-name></channel>
+<channel id="MTV"><display-name>MTV</display-name></channel>
+<channel id="MTV 2000 HD"><display-name>MTV 2000 HD</display-name></channel>
+<channel id="MTV HD"><display-name>MTV HD</display-name></channel>
+<channel id="MTV LIVE HD"><display-name>MTV LIVE HD</display-name></channel>
+<channel id="MULTISHOW"><display-name>MULTISHOW</display-name></channel>
+<channel id="MULTISHOW HD"><display-name>MULTISHOW HD</display-name></channel>
+<channel id="NATIONAL GEOGRAPHIC"><display-name>NATIONAL GEOGRAPHIC</display-name></channel>
+<channel id="NATIONAL GEOGRAPHIC HD"><display-name>NATIONAL GEOGRAPHIC HD</display-name></channel>
+<channel id="NICK JR"><display-name>NICK JR</display-name></channel>
+<channel id="NICK JR HD"><display-name>NICK JR HD</display-name></channel>
+<channel id="NICKELODEON"><display-name>NICKELODEON</display-name></channel>
+<channel id="NICKELODEON HD"><display-name>NICKELODEON HD</display-name></channel>
+<channel id="OFF"><display-name>OFF</display-name></channel>
+<channel id="OFF HD"><display-name>OFF HD</display-name></channel>
+<channel id="PARAMOUNT NETWORK"><display-name>PARAMOUNT NETWORK</display-name></channel>
+<channel id="PARAMOUNT NETWORK HD"><display-name>PARAMOUNT NETWORK HD</display-name></channel>
+<channel id="POLISHOP"><display-name>POLISHOP</display-name></channel>
+<channel id="Premiere"><display-name>Premiere</display-name></channel>
+<channel id="Premiere HD"><display-name>Premiere HD</display-name></channel>
+<channel id="PRIME BOX BRAZIL"><display-name>PRIME BOX BRAZIL</display-name></channel>
+<channel id="RBI"><display-name>RBI</display-name></channel>
+<channel id="RECORD"><display-name>RECORD</display-name></channel>
+<channel id="RECORD HD"><display-name>RECORD HD</display-name></channel>
+<channel id="RECORD NEWS"><display-name>RECORD NEWS</display-name></channel>
+<channel id="REDE BRASIL"><display-name>REDE BRASIL</display-name></channel>
+<channel id="REDE GOSPEL"><display-name>REDE GOSPEL</display-name></channel>
+<channel id="REDE TV"><display-name>REDE TV</display-name></channel>
+<channel id="REDE TV HD"><display-name>REDE TV HD</display-name></channel>
+<channel id="REDE VIDA"><display-name>REDE VIDA</display-name></channel>
+<channel id="RIT"><display-name>RIT</display-name></channel>
+<channel id="SABOR &amp; ARTE HD"><display-name>SABOR &amp; ARTE HD</display-name></channel>
+<channel id="SBT"><display-name>SBT</display-name></channel>
+<channel id="SBT HD"><display-name>SBT HD</display-name></channel>
+<channel id="SHOPTIME"><display-name>SHOPTIME</display-name></channel>
+<channel id="SONY CHANNEL"><display-name>SONY CHANNEL</display-name></channel>
+<channel id="SONY CHANNEL HD"><display-name>SONY CHANNEL HD</display-name></channel>
+<channel id="SONY MOVIES"><display-name>SONY MOVIES</display-name></channel>
+<channel id="SONY MOVIES HD"><display-name>SONY MOVIES HD</display-name></channel>
+<channel id="SPACE"><display-name>SPACE</display-name></channel>
+<channel id="SPACE HD"><display-name>SPACE HD</display-name></channel>
+<channel id="SPORTV"><display-name>SPORTV</display-name></channel>
+<channel id="SPORTV 2"><display-name>SPORTV 2</display-name></channel>
+<channel id="SPORTV 2 HD"><display-name>SPORTV 2 HD</display-name></channel>
+<channel id="SPORTV 3"><display-name>SPORTV 3</display-name></channel>
+<channel id="SPORTV 3 HD"><display-name>SPORTV 3 HD</display-name></channel>
+<channel id="SPORTV HD"><display-name>SPORTV HD</display-name></channel>
+<channel id="STAR CHANNEL"><display-name>STAR CHANNEL</display-name></channel>
+<channel id="STAR CHANNEL HD"><display-name>STAR CHANNEL HD</display-name></channel>
+<channel id="STUDIO UNIVERSAL"><display-name>STUDIO UNIVERSAL</display-name></channel>
+<channel id="STUDIO UNIVERSAL HD"><display-name>STUDIO UNIVERSAL HD</display-name></channel>
+<channel id="SYFY"><display-name>SYFY</display-name></channel>
+<channel id="SYFY HD"><display-name>SYFY HD</display-name></channel>
+<channel id="TBS"><display-name>TBS</display-name></channel>
+<channel id="TCM"><display-name>TCM</display-name></channel>
+<channel id="Telecine Action"><display-name>Telecine Action</display-name></channel>
+<channel id="Telecine Action HD"><display-name>Telecine Action HD</display-name></channel>
+<channel id="Telecine Cult"><display-name>Telecine Cult</display-name></channel>
+<channel id="Telecine Cult HD"><display-name>Telecine Cult HD</display-name></channel>
+<channel id="Telecine Fun"><display-name>Telecine Fun</display-name></channel>
+<channel id="Telecine Fun HD"><display-name>Telecine Fun HD</display-name></channel>
+<channel id="Telecine Pipoca"><display-name>Telecine Pipoca</display-name></channel>
+<channel id="Telecine Pipoca HD"><display-name>Telecine Pipoca HD</display-name></channel>
+<channel id="Telecine Premium"><display-name>Telecine Premium</display-name></channel>
+<channel id="Telecine Premium HD"><display-name>Telecine Premium HD</display-name></channel>
+<channel id="Telecine Touch"><display-name>Telecine Touch</display-name></channel>
+<channel id="Telecine Touch HD"><display-name>Telecine Touch HD</display-name></channel>
+<channel id="TERRA VIVA"><display-name>TERRA VIVA</display-name></channel>
+<channel id="TLC"><display-name>TLC</display-name></channel>
+<channel id="TLC HD"><display-name>TLC HD</display-name></channel>
+<channel id="TNT"><display-name>TNT</display-name></channel>
+<channel id="TNT HD"><display-name>TNT HD</display-name></channel>
+<channel id="TNT SERIES"><display-name>TNT SERIES</display-name></channel>
+<channel id="TNT SERIES HD"><display-name>TNT SERIES HD</display-name></channel>
+<channel id="TOONCAST"><display-name>TOONCAST</display-name></channel>
+<channel id="TRAVEL BOX BRAZIL"><display-name>TRAVEL BOX BRAZIL</display-name></channel>
+<channel id="TRAVEL BOX BRAZIL HD"><display-name>TRAVEL BOX BRAZIL HD</display-name></channel>
+<channel id="TRUTV HD"><display-name>TRUTV HD</display-name></channel>
+<channel id="TV APARECIDA"><display-name>TV APARECIDA</display-name></channel>
+<channel id="TV BRASIL"><display-name>TV BRASIL</display-name></channel>
+<channel id="TV BRASIL 2"><display-name>TV BRASIL 2</display-name></channel>
+<channel id="TV CÂMARA"><display-name>TV CÂMARA</display-name></channel>
+<channel id="TV CLIMATEMPO"><display-name>TV CLIMATEMPO</display-name></channel>
+<channel id="TV COMUNITARIA"><display-name>TV COMUNITARIA</display-name></channel>
+<channel id="TV CULTURA"><display-name>TV CULTURA</display-name></channel>
+<channel id="TV EDUCAÇÃO"><display-name>TV EDUCAÇÃO</display-name></channel>
+<channel id="TV ESCOLA"><display-name>TV ESCOLA</display-name></channel>
+<channel id="TV JUSTIÇA"><display-name>TV JUSTIÇA</display-name></channel>
+<channel id="TV NOVO TEMPO"><display-name>TV NOVO TEMPO</display-name></channel>
+<channel id="TV PAI ETERNO"><display-name>TV PAI ETERNO</display-name></channel>
+<channel id="TV SENADO"><display-name>TV SENADO</display-name></channel>
+<channel id="TV WA"><display-name>TV WA</display-name></channel>
+<channel id="UNIVERSAL CHANNEL"><display-name>UNIVERSAL CHANNEL</display-name></channel>
+<channel id="UNIVERSAL CHANNEL HD"><display-name>UNIVERSAL CHANNEL HD</display-name></channel>
+<channel id="VIVA"><display-name>VIVA</display-name></channel>
+<channel id="VIVA HD"><display-name>VIVA HD</display-name></channel>
+<channel id="WARNER CHANNEL"><display-name>WARNER CHANNEL</display-name></channel>
+<channel id="WARNER CHANNEL HD"><display-name>WARNER CHANNEL HD</display-name></channel>
+<channel id="WOOHOO"><display-name>WOOHOO</display-name></channel>
+<channel id="ZOOMOO"><display-name>ZOOMOO</display-name></channel>
+<programme start="20250630225400 +0000" stop="20250630235959 +0000" channel="A&amp;E"><title>Bosch</title><category>Séries</category></programme>
+<programme start="20250630225400 +0000" stop="20250630235959 +0000" channel="A&amp;E HD"><title>Bosch</title><category>Séries</category></programme>
+<programme start="20250630232000 +0000" stop="20250630235959 +0000" channel="AGRO+ HD"><title>Destinos</title><category>Esporte</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="AMC"><title>Professora Sem Classe</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="AMC HD"><title>Professora Sem Classe</title><category>Filme</category></programme>
+<programme start="20250630231400 +0000" stop="20250630235959 +0000" channel="ANIMAL PLANET"><title>S.O.S. Animal</title><category>Séries</category></programme>
+<programme start="20250630231400 +0000" stop="20250630235959 +0000" channel="ANIMAL PLANET HD"><title>S.O.S. Animal</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ARTE 1"><title>Arte 1 em Série: Kafka</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="BAND"><title>Programa do João</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="BAND HD"><title>Programa do João</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="BANDNEWS"><title>Restaurantes Sabor &amp; Arte</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="BANDNEWS"><title>BandNews DOCs</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="BANDNEWS HD"><title>Restaurantes Sabor &amp; Arte</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="BANDNEWS HD"><title>BandNews DOCs</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="BANDSPORTS"><title>Fórmula 3: GP da Áustria: Sprint - VT</title><category>Esporte</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="BANDSPORTS HD"><title>Fórmula 3: GP da Áustria: Sprint - VT</title><category>Esporte</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="BBC WORLD NEWS HD"><title>Newsday</title><category>Jornalismo</category></programme>
+<programme start="20250630233000 +0000" stop="20250630234500 +0000" channel="BBC WORLD NEWS HD"><title>Business Today</title><category>Variedades</category></programme>
+<programme start="20250630234500 +0000" stop="20250630235959 +0000" channel="BBC WORLD NEWS HD"><title>Sportsday</title><category>Variedades</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="BLOOMBERG HD"><title>Bloomberg: The China Show</title><category>Documentário</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="CANAL DO CRIADOR"><title>Lance Cast</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="CANAL EDUCAÇÃO"><title>Na Raiz dos Festejos</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="CANAL EDUCAÇÃO"><title>Faróis do Brasil</title><category>Séries</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="CANAL RURAL"><title>Leilão</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="CANÇÃO NOVA"><title>Celebrando Pentecostes</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="CANÇÃO NOVA"><title>Direção Espiritual</title><category>Variedades</category></programme>
+<programme start="20250630232200 +0000" stop="20250630233500 +0000" channel="CARTOON NETWORK"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630233500 +0000" stop="20250630234700 +0000" channel="CARTOON NETWORK"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630234700 +0000" stop="20250630235700 +0000" channel="CARTOON NETWORK"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630235700 +0000" stop="20250630235959 +0000" channel="CARTOON NETWORK"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630232200 +0000" stop="20250630233500 +0000" channel="CARTOON NETWORK HD"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630233500 +0000" stop="20250630234700 +0000" channel="CARTOON NETWORK HD"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630234700 +0000" stop="20250630235700 +0000" channel="CARTOON NETWORK HD"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630235700 +0000" stop="20250630235959 +0000" channel="CARTOON NETWORK HD"><title>Ursinhos Em Curso</title><category>Infantil</category></programme>
+<programme start="20250630232400 +0000" stop="20250630233100 +0000" channel="CARTOONITO HD"><title>Grizzy e os Lemmings</title><category>Infantil</category></programme>
+<programme start="20250630233100 +0000" stop="20250630233800 +0000" channel="CARTOONITO HD"><title>Grizzy e os Lemmings</title><category>Infantil</category></programme>
+<programme start="20250630233800 +0000" stop="20250630234500 +0000" channel="CARTOONITO HD"><title>Grizzy e os Lemmings</title><category>Infantil</category></programme>
+<programme start="20250630234500 +0000" stop="20250630235200 +0000" channel="CARTOONITO HD"><title>Grizzy e os Lemmings</title><category>Infantil</category></programme>
+<programme start="20250630235200 +0000" stop="20250630235959 +0000" channel="CARTOONITO HD"><title>Grizzy e os Lemmings</title><category>Infantil</category></programme>
+<programme start="20250630231500 +0000" stop="20250630233000 +0000" channel="CGTN"><title>Tech It Out</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="CGTN"><title>Travelogue</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="Cine Canal"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="Cine Canal HD"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630235959 +0000" channel="CINEMAX"><title>O Código</title><category>Filme</category></programme>
+<programme start="20250630223000 +0000" stop="20250630235959 +0000" channel="CINEMAX HD"><title>O Código</title><category>Filme</category></programme>
+<programme start="20250630224500 +0000" stop="20250630235959 +0000" channel="CNN BRASIL"><title>CNN Viagem &amp; Gastronomia: Belize</title><category>Documentário</category></programme>
+<programme start="20250630224500 +0000" stop="20250630235959 +0000" channel="CNN BRASIL HD"><title>CNN Viagem &amp; Gastronomia: Belize</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="CNN INTERNATIONAL"><title>African Voices Changemakers</title><category>Documentário</category></programme>
+<programme start="20250630233000 +0000" stop="20250630234500 +0000" channel="CNN INTERNATIONAL"><title>Marketplace Europe</title><category>Documentário</category></programme>
+<programme start="20250630234500 +0000" stop="20250630235959 +0000" channel="CNN INTERNATIONAL"><title>Marketplace Asia</title><category>Documentário</category></programme>
+<programme start="20250630224500 +0000" stop="20250630232500 +0000" channel="CNT"><title>Cnt Esporte Debate</title><category>Jornalismo</category></programme>
+<programme start="20250630232500 +0000" stop="20250630235959 +0000" channel="CNT"><title>Tempo Extra</title><category>Jornalismo</category></programme>
+<programme start="20250630230500 +0000" stop="20250630233000 +0000" channel="COMEDY CENTRAL"><title>South Park</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="COMEDY CENTRAL"><title>South Park</title><category>Séries</category></programme>
+<programme start="20250630230500 +0000" stop="20250630233000 +0000" channel="COMEDY CENTRAL HD"><title>South Park</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="COMEDY CENTRAL HD"><title>South Park</title><category>Séries</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="CONMEBOL TV 1"><title>Dia 15/07 - Independiente Del Valle (EQU) x Vasco</title><category>Esporte</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="CONMEBOL TV 2"><title>Dia 16/07 - San Antonio (BOL) x Once Caldas (COL)</title><category>Esporte</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="CONMEBOL TV 3"><title>CONMEBOL Libertadores e Sudamericana</title><category>Esporte</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="CONMEBOL TV 4"><title>CONMEBOL Libertadores e Sudamericana</title><category>Esporte</category></programme>
+<programme start="20250630231200 +0000" stop="20250630235959 +0000" channel="D. THEATER HD"><title>Mistérios No Museu</title><category>Séries</category></programme>
+<programme start="20250630225900 +0000" stop="20250630235959 +0000" channel="DISCOVERY CHANNEL"><title>Largados e Pelados</title><category>Séries</category></programme>
+<programme start="20250630225900 +0000" stop="20250630235959 +0000" channel="DISCOVERY CHANNEL HD"><title>Largados e Pelados</title><category>Séries</category></programme>
+<programme start="20250630231900 +0000" stop="20250630233400 +0000" channel="DISCOVERY KIDS"><title>44 Gatos</title><category>Infantil</category></programme>
+<programme start="20250630233400 +0000" stop="20250630234600 +0000" channel="DISCOVERY KIDS"><title>44 Gatos</title><category>Infantil</category></programme>
+<programme start="20250630234600 +0000" stop="20250630235959 +0000" channel="DISCOVERY KIDS"><title>Agente Binky Ao Resgate!</title><category>Infantil</category></programme>
+<programme start="20250630231900 +0000" stop="20250630233400 +0000" channel="DISCOVERY KIDS HD"><title>44 Gatos</title><category>Infantil</category></programme>
+<programme start="20250630233400 +0000" stop="20250630234600 +0000" channel="DISCOVERY KIDS HD"><title>44 Gatos</title><category>Infantil</category></programme>
+<programme start="20250630234600 +0000" stop="20250630235959 +0000" channel="DISCOVERY KIDS HD"><title>Agente Binky Ao Resgate!</title><category>Infantil</category></programme>
+<programme start="20250630231200 +0000" stop="20250630235959 +0000" channel="DISCOVERY SCIENCE HD"><title>Smash Lab - Ciência da Destruição</title><category>Séries</category></programme>
+<programme start="20250630231200 +0000" stop="20250630233600 +0000" channel="DISCOVERY WORLD HD"><title>Minha Casa nas Montanhas</title><category>Séries</category></programme>
+<programme start="20250630233600 +0000" stop="20250630235959 +0000" channel="DISCOVERY WORLD HD"><title>Minha Casa nas Montanhas</title><category>Séries</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="DISNEY CHANNEL"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="DISNEY CHANNEL HD"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="E!"><title>Vanderpump Rules</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="E! HD"><title>Vanderpump Rules</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="EMPREENDER HD"><title>Nave Money com Fefa Moreira</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="EMPREENDER HD"><title>Tech &amp; Startups</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN"><title>Sportscenter - Ao Vivo</title><category>Jornalismo</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN 2"><title>Especial: Ecos da NBA</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN 2 HD"><title>Especial: Ecos da NBA</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN 3"><title>História Confidencial: Ronaldo</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN 3 HD"><title>História Confidencial: Ronaldo</title><category>Documentário</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="ESPN 4"><title>MotoGP: GP de Assen</title><category>Esporte</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="ESPN 4 HD"><title>MotoGP: GP de Assen</title><category>Esporte</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN EXTRA"><title>História Confidencial: Tevez</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN EXTRA HD"><title>História Confidencial: Tevez</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ESPN HD"><title>Sportscenter - Ao Vivo</title><category>Jornalismo</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="FASHION TV"><title>Teu Armário é Show</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="FASHION TV"><title>Fashion Week</title><category>Jornalismo</category></programme>
+<programme start="20250630223000 +0000" stop="20250630233000 +0000" channel="FISH TV"><title>Na Pegada do Fly</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="FISH TV"><title>Slow Fishing</title><category>Esporte</category></programme>
+<programme start="20250630231800 +0000" stop="20250630235959 +0000" channel="FOOD NETWORK HD"><title>Giada Faz a Festa</title><category>Séries</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="FOX SPORTS 2 HD"><title>ESPN Filmes: 30 For 30: Breakaway</title><category>Documentário</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="FUTURA"><title>Um Herói</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="FUTURA HD"><title>Um Herói</title><category>Filme</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="FX"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="FX HD"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="GLOBO"><title>Fantástico</title><category>Jornalismo</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="GLOBO HD"><title>Fantástico</title><category>Jornalismo</category></programme>
+<programme start="20250630230500 +0000" stop="20250630235959 +0000" channel="GLOBONEWS"><title>Liderança S/A GloboNews</title><category>Jornalismo</category></programme>
+<programme start="20250630230500 +0000" stop="20250630235959 +0000" channel="GLOBONEWS HD"><title>Liderança S/A GloboNews</title><category>Jornalismo</category></programme>
+<programme start="20250630232000 +0000" stop="20250630233000 +0000" channel="GLOOBINHO"><title>Supercaribu</title><category>Infantil</category></programme>
+<programme start="20250630233000 +0000" stop="20250630233500 +0000" channel="GLOOBINHO"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630233500 +0000" stop="20250630234000 +0000" channel="GLOOBINHO"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630234000 +0000" stop="20250630234500 +0000" channel="GLOOBINHO"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630234500 +0000" stop="20250630235000 +0000" channel="GLOOBINHO"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630235000 +0000" stop="20250630235959 +0000" channel="GLOOBINHO"><title>O Pequeno Príncipe E Seus Amigos</title><category>Infantil</category></programme>
+<programme start="20250630232000 +0000" stop="20250630233000 +0000" channel="GLOOBINHO HD"><title>Supercaribu</title><category>Infantil</category></programme>
+<programme start="20250630233000 +0000" stop="20250630233500 +0000" channel="GLOOBINHO HD"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630233500 +0000" stop="20250630234000 +0000" channel="GLOOBINHO HD"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630234000 +0000" stop="20250630234500 +0000" channel="GLOOBINHO HD"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630234500 +0000" stop="20250630235000 +0000" channel="GLOOBINHO HD"><title>Clube Da Anittinha</title><category>Infantil</category></programme>
+<programme start="20250630235000 +0000" stop="20250630235959 +0000" channel="GLOOBINHO HD"><title>O Pequeno Príncipe E Seus Amigos</title><category>Infantil</category></programme>
+<programme start="20250630214500 +0000" stop="20250630235959 +0000" channel="GOLF CHANNEL HD"><title>Korn Ferry Tour 2023</title><category>Esporte</category></programme>
+<programme start="20250630215500 +0000" stop="20250630235959 +0000" channel="HBO2"><title>Assassino Sem Rastro</title><category>Filme</category></programme>
+<programme start="20250630215500 +0000" stop="20250630235959 +0000" channel="HBO2 HD"><title>Assassino Sem Rastro</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO Mundi"><title>Eu Vi o Brilho da TV</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO Mundi HD"><title>Eu Vi o Brilho da TV</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO PLUS"><title>A Hora Do Vampiro</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO PLUS HD"><title>A Hora Do Vampiro</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO POP"><title>Quero Matar Meu Chefe 2</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO POP HD"><title>Quero Matar Meu Chefe 2</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO Xtreme"><title>Criaturas do Farol</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="HBO Xtreme HD"><title>Criaturas do Farol</title><category>Filme</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="HISTORY 2 HD"><title>Vozes Da Libertação</title><category>Documentário</category></programme>
+<programme start="20250630225300 +0000" stop="20250630235959 +0000" channel="HISTORY CHANNEL"><title>Trato Feito</title><category>Séries</category></programme>
+<programme start="20250630225300 +0000" stop="20250630235959 +0000" channel="HISTORY CHANNEL HD"><title>Trato Feito</title><category>Séries</category></programme>
+<programme start="20250630230500 +0000" stop="20250630235959 +0000" channel="HOME &amp; GARDEN TV HD"><title>Liderança S/A GloboNews</title><category>Jornalismo</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ID"><title>Caso Madeleine Mccann: O Principal Suspeito</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="ID HD"><title>Caso Madeleine Mccann: O Principal Suspeito</title><category>Séries</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="IDEAL TV"><title>Igreja Mundial</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="Jovem Pan News"><title>JP Internacional</title><category>Jornalismo</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="JOVEM PAN NEWS HD"><title>JP Internacional</title><category>Jornalismo</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="LIFETIME"><title>A Vizinha Suspeita</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="LIFETIME HD"><title>A Vizinha Suspeita</title><category>Filme</category></programme>
+<programme start="20250630231500 +0000" stop="20250630235959 +0000" channel="Markket HD"><title>Café On</title><category>Jornalismo</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="MEGAPIX"><title>Especial Milagres Megapix: Noé</title><category>Filme</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="MEGAPIX HD"><title>Especial Milagres Megapix: Noé</title><category>Filme</category></programme>
+<programme start="20250630231900 +0000" stop="20250630235959 +0000" channel="MODO VIAGEM"><title>A Vida É Uma Passagem</title><category>Séries</category></programme>
+<programme start="20250630231900 +0000" stop="20250630235959 +0000" channel="MODO VIAGEM HD"><title>A Vida É Uma Passagem</title><category>Séries</category></programme>
+<programme start="20250630231000 +0000" stop="20250630233000 +0000" channel="MTV"><title>Ridículos</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="MTV"><title>Ridículos</title><category>Séries</category></programme>
+<programme start="20250630231000 +0000" stop="20250630235959 +0000" channel="MTV 2000 HD"><title>00s Rock Anthems With Jack Saunders!</title><category>Variedades</category></programme>
+<programme start="20250630231000 +0000" stop="20250630233000 +0000" channel="MTV HD"><title>Ridículos</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="MTV HD"><title>Ridículos</title><category>Séries</category></programme>
+<programme start="20250630224500 +0000" stop="20250630235959 +0000" channel="MTV LIVE HD"><title>Acústico MTV: Neil Young</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="MULTISHOW"><title>Vai Que Cola</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="MULTISHOW HD"><title>Vai Que Cola</title><category>Séries</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="NATIONAL GEOGRAPHIC"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="NATIONAL GEOGRAPHIC HD"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630230500 +0000" stop="20250630232500 +0000" channel="NICK JR"><title>Baby Shark, O Grande Show</title><category>Infantil</category></programme>
+<programme start="20250630232500 +0000" stop="20250630235959 +0000" channel="NICK JR"><title>Baby Shark, O Grande Show</title><category>Infantil</category></programme>
+<programme start="20250630230500 +0000" stop="20250630232500 +0000" channel="NICK JR HD"><title>Baby Shark, O Grande Show</title><category>Infantil</category></programme>
+<programme start="20250630232500 +0000" stop="20250630235959 +0000" channel="NICK JR HD"><title>Baby Shark, O Grande Show</title><category>Infantil</category></programme>
+<programme start="20250630231500 +0000" stop="20250630234000 +0000" channel="NICKELODEON"><title>Bob Esponja, Calça Quadrada</title><category>Infantil</category></programme>
+<programme start="20250630234000 +0000" stop="20250630235959 +0000" channel="NICKELODEON"><title>Bob Esponja, Calça Quadrada</title><category>Infantil</category></programme>
+<programme start="20250630231500 +0000" stop="20250630234000 +0000" channel="NICKELODEON HD"><title>Bob Esponja, Calça Quadrada</title><category>Infantil</category></programme>
+<programme start="20250630234000 +0000" stop="20250630235959 +0000" channel="NICKELODEON HD"><title>Bob Esponja, Calça Quadrada</title><category>Infantil</category></programme>
+<programme start="20250630231100 +0000" stop="20250630235959 +0000" channel="OFF"><title>Sem Fricção</title><category>Séries</category></programme>
+<programme start="20250630231100 +0000" stop="20250630235959 +0000" channel="OFF HD"><title>Sem Fricção</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="PARAMOUNT NETWORK"><title>The Handmaid&apos;s Tale - O Conto da Aia</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="PARAMOUNT NETWORK HD"><title>The Handmaid&apos;s Tale - O Conto da Aia</title><category>Séries</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="POLISHOP"><title>Programação Polishop TV</title><category>Variedades</category></programme>
+<programme start="20250630231500 +0000" stop="20250630233700 +0000" channel="PRIME BOX BRAZIL"><title>Curta In Box: Nanquim</title><category>Filme</category></programme>
+<programme start="20250630233700 +0000" stop="20250630235959 +0000" channel="PRIME BOX BRAZIL"><title>Curta In Box: Laços Do Ofício</title><category>Filme</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="RBI"><title>Agro Nacional</title><category>Variedades</category></programme>
+<programme start="20250630213600 +0000" stop="20250630235959 +0000" channel="REDE BRASIL"><title>Sucessos do Cinema</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="REDE GOSPEL"><title>Programação Polishop TV</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630235959 +0000" channel="REDE TV"><title>Podk Liberados</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630235959 +0000" channel="REDE TV HD"><title>Podk Liberados</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630233000 +0000" channel="REDE VIDA"><title>Acima de Tudo o Amor</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235500 +0000" channel="REDE VIDA"><title>A Serviço da Vida</title><category>Variedades</category></programme>
+<programme start="20250630235500 +0000" stop="20250630235959 +0000" channel="REDE VIDA"><title>Terço Bizantino</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630235959 +0000" channel="RIT"><title>Noite com os Adoradores de Deus</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235500 +0000" channel="SABOR &amp; ARTE HD"><title>Food Connection</title><category>Variedades</category></programme>
+<programme start="20250630235500 +0000" stop="20250630235959 +0000" channel="SABOR &amp; ARTE HD"><title>Drops</title><category>Jornalismo</category></programme>
+<programme start="20250630190000 +0000" stop="20250630235959 +0000" channel="SBT"><title>Programa Silvio Santos com Patrícia Abravanel</title><category>Variedades</category></programme>
+<programme start="20250630190000 +0000" stop="20250630235959 +0000" channel="SBT HD"><title>Programa Silvio Santos com Patrícia Abravanel</title><category>Variedades</category></programme>
+<programme start="20250630215000 +0000" stop="20250630235959 +0000" channel="SONY CHANNEL"><title>O Justiceiro</title><category>Filme</category></programme>
+<programme start="20250630215000 +0000" stop="20250630235959 +0000" channel="SONY CHANNEL HD"><title>O Justiceiro</title><category>Filme</category></programme>
+<programme start="20250630215000 +0000" stop="20250630235959 +0000" channel="SONY MOVIES"><title>O Justiceiro</title><category>Filme</category></programme>
+<programme start="20250630215000 +0000" stop="20250630235959 +0000" channel="SONY MOVIES HD"><title>O Justiceiro</title><category>Filme</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="STAR CHANNEL"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630200000 +0000" stop="20250630235959 +0000" channel="STAR CHANNEL HD"><title>COMUNICADO IMPORTANTE</title><category>Variedades</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="STUDIO UNIVERSAL"><title>Jurassic World: Domínio</title><category>Filme</category></programme>
+<programme start="20250630210000 +0000" stop="20250630235959 +0000" channel="STUDIO UNIVERSAL HD"><title>Jurassic World: Domínio</title><category>Filme</category></programme>
+<programme start="20250630223500 +0000" stop="20250630233000 +0000" channel="SYFY"><title>Dr. Death</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="SYFY"><title>Unidade Básica</title><category>Séries</category></programme>
+<programme start="20250630223500 +0000" stop="20250630233000 +0000" channel="SYFY HD"><title>Dr. Death</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="SYFY HD"><title>Unidade Básica</title><category>Séries</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="TCM"><title>Caminhos Mal Traçados</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Action"><title>Rota De Fuga 3 - O Resgate</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Action HD"><title>Rota De Fuga 3 - O Resgate</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Fun"><title>Jogo De Amor Em Las Vegas</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Fun HD"><title>Jogo De Amor Em Las Vegas</title><category>Filme</category></programme>
+<programme start="20250630214500 +0000" stop="20250630235959 +0000" channel="Telecine Pipoca"><title>Combo Casamento Pelo Mundo: Mamma Mia!</title><category>Filme</category></programme>
+<programme start="20250630214500 +0000" stop="20250630235959 +0000" channel="Telecine Pipoca HD"><title>Combo Casamento Pelo Mundo: Mamma Mia!</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Premium"><title>Vitória</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Premium HD"><title>Vitória</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Touch"><title>Especial Amigas E Rivais: Apimentadas: Tudo Ou Nada</title><category>Filme</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="Telecine Touch HD"><title>Especial Amigas E Rivais: Apimentadas: Tudo Ou Nada</title><category>Filme</category></programme>
+<programme start="20250630232400 +0000" stop="20250630235959 +0000" channel="TLC"><title>Passeio Completo</title><category>Séries</category></programme>
+<programme start="20250630232400 +0000" stop="20250630235959 +0000" channel="TLC HD"><title>Passeio Completo</title><category>Séries</category></programme>
+<programme start="20250630232100 +0000" stop="20250630233000 +0000" channel="TOONCAST"><title>Tom e Jerry</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630233700 +0000" channel="TOONCAST"><title>Os Filhos de Tom e Jerry</title><category>Séries</category></programme>
+<programme start="20250630233700 +0000" stop="20250630234400 +0000" channel="TOONCAST"><title>Os Filhos de Tom e Jerry</title><category>Séries</category></programme>
+<programme start="20250630234400 +0000" stop="20250630235300 +0000" channel="TOONCAST"><title>Os Filhos de Tom e Jerry</title><category>Séries</category></programme>
+<programme start="20250630235300 +0000" stop="20250630235959 +0000" channel="TOONCAST"><title>Os Filhos de Tom e Jerry</title><category>Séries</category></programme>
+<programme start="20250630231000 +0000" stop="20250630233500 +0000" channel="TRUTV HD"><title>Guia De Sobrevivência Nas Férias &amp; Surpresa</title><category>Variedades</category></programme>
+<programme start="20250630233500 +0000" stop="20250630235959 +0000" channel="TRUTV HD"><title>Guia De Sobrevivência Nas Férias &amp; Surpresa</title><category>Variedades</category></programme>
+<programme start="20250630211500 +0000" stop="20250630235959 +0000" channel="TV APARECIDA"><title>Aparecida Sertaneja</title><category>Variedades</category></programme>
+<programme start="20250630231500 +0000" stop="20250630233000 +0000" channel="TV BRASIL 2"><title>Atos do Executivo</title><category>Variedades</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="TV BRASIL 2"><title>Educação Antirracista em Diálogo</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="TV CÂMARA"><title>Participação Popular</title><category>Variedades</category></programme>
+<programme start="20250630223000 +0000" stop="20250630233000 +0000" channel="TV CLIMATEMPO"><title>Ensinando Como Apreciar Vinhos</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="TV CLIMATEMPO"><title>Vinhos.BR</title><category>Variedades</category></programme>
+<programme start="20250630220000 +0000" stop="20250630235959 +0000" channel="TV COMUNITARIA"><title>Programação TV Comunitária</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="TV EDUCAÇÃO"><title>Programação TV Educativa</title><category>Variedades</category></programme>
+<programme start="20250630221200 +0000" stop="20250630235959 +0000" channel="TV ESCOLA"><title>Sessão Cinemateca: Sai da Frente</title><category>Filme</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="TV JUSTIÇA"><title>Noturno</title><category>Variedades</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="TV NOVO TEMPO"><title>Origens</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="TV NOVO TEMPO"><title>Reavivados Por Sua Palavra</title><category>Variedades</category></programme>
+<programme start="20250630223500 +0000" stop="20250630235959 +0000" channel="TV SENADO"><title>Senadoc: O Dia Que Durou 21 Anos</title><category>Documentário</category></programme>
+<programme start="20250630230000 +0000" stop="20250630235959 +0000" channel="TV WA"><title>Jóias VIP</title><category>Variedades</category></programme>
+<programme start="20250630223800 +0000" stop="20250630235959 +0000" channel="VIVA"><title>Guerreiros Do Sol</title><category>Séries</category></programme>
+<programme start="20250630223800 +0000" stop="20250630235959 +0000" channel="VIVA HD"><title>Guerreiros Do Sol</title><category>Séries</category></programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="WOOHOO"><title>Juju Na Trip</title><category>Séries</category></programme>
+<programme start="20250630233000 +0000" stop="20250630235959 +0000" channel="WOOHOO"><title>Viajando Pelo Brasil</title><category>Variedades</category></programme>
+<programme start="20250630232300 +0000" stop="20250630232600 +0000" channel="ZOOMOO"><title>Tina Curiosa</title><category>Séries</category></programme>
+<programme start="20250630232600 +0000" stop="20250630232900 +0000" channel="ZOOMOO"><title>Tina Curiosa</title><category>Séries</category></programme>
+<programme start="20250630232900 +0000" stop="20250630233100 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630233100 +0000" stop="20250630233400 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630233400 +0000" stop="20250630233600 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630233600 +0000" stop="20250630234000 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630234000 +0000" stop="20250630234400 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630234400 +0000" stop="20250630234500 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630234500 +0000" stop="20250630234800 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630234800 +0000" stop="20250630235200 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630235200 +0000" stop="20250630235400 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+<programme start="20250630235400 +0000" stop="20250630235959 +0000" channel="ZOOMOO"><title>Patati Patatá</title><category>Séries</category></programme>
+</tv>
