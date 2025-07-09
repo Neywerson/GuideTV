@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="09-07-2025 15:42:21">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="09-07-2025 16:24:31">
 <channel id="AE.br"><display-name>A&amp;E</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/mdo.png"/></channel>
 <channel id="AMC.br"><display-name>AMC</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/mgm.png"/></channel>
 <channel id="AnimalPlanet.br"><display-name>Animal Planet</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/apl.png"/></channel>
@@ -97,7 +97,6 @@
 <channel id="Viva.br"><display-name>Viva</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/viv.png"/></channel>
 <channel id="WarnerChannel.br"><display-name>Warner Channel</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/wbt.png"/></channel>
 <channel id="WooHoo.br"><display-name>Woohoo</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/meuguia/woo.png"/></channel>
-<programme start="20250709192600 +0000" stop="20250709201900 +0000" channel="AE.br"><title>Why Women Kill</title></programme>
 <programme start="20250709201900 +0000" stop="20250709210700 +0000" channel="AE.br"><title>Why Women Kill</title></programme>
 <programme start="20250709210700 +0000" stop="20250709215800 +0000" channel="AE.br"><title>Operação Policial</title></programme>
 <programme start="20250709215800 +0000" stop="20250709222200 +0000" channel="AE.br"><title>Quem dá Mais?</title></programme>
@@ -395,7 +394,6 @@
 <programme start="20250715184000 +0000" stop="20250715210000 +0000" channel="AMC.br"><title>Creed II</title></programme>
 <programme start="20250715210000 +0000" stop="20250715230000 +0000" channel="AMC.br"><title>Achados Não Procurados</title></programme>
 <programme start="20250715230000 +0000" stop="20250716010000 +0000" channel="AMC.br"><title>Max</title></programme>
-<programme start="20250709191800 +0000" stop="20250709201300 +0000" channel="AnimalPlanet.br"><title>Veterinários do Texas</title></programme>
 <programme start="20250709201300 +0000" stop="20250709210600 +0000" channel="AnimalPlanet.br"><title>Pesca Mortal</title></programme>
 <programme start="20250709210600 +0000" stop="20250709215900 +0000" channel="AnimalPlanet.br"><title>Pesca Mortal</title></programme>
 <programme start="20250709215900 +0000" stop="20250709225600 +0000" channel="AnimalPlanet.br"><title>Tubarões na Praia</title></programme>
@@ -572,7 +570,6 @@
 <programme start="20250715215900 +0000" stop="20250715225600 +0000" channel="AnimalPlanet.br"><title>Meu Amigo Cão, Meu Amigo Gato</title></programme>
 <programme start="20250715225600 +0000" stop="20250715235300 +0000" channel="AnimalPlanet.br"><title>Pequenos e Terríveis</title></programme>
 <programme start="20250715235300 +0000" stop="20250716005000 +0000" channel="AnimalPlanet.br"><title>Veterinário das Montanhas</title></programme>
-<programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="Arte1.br"><title>Arte 1 Documenta</title></programme>
 <programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="Arte1.br"><title>Arte 1 em Série: 10 Anos com Hayao Miyazaki</title></programme>
 <programme start="20250709210000 +0000" stop="20250710003000 +0000" channel="Arte1.br"><title>Arte 1 Nacional</title></programme>
 <programme start="20250710003000 +0000" stop="20250710020000 +0000" channel="Arte1.br"><title>Arte 1 na Dança: Eskapist</title></programme>
@@ -663,7 +660,6 @@
 <programme start="20250715200000 +0000" stop="20250715210000 +0000" channel="Arte1.br"><title>Arte 1 em Série</title></programme>
 <programme start="20250715210000 +0000" stop="20250715213000 +0000" channel="Arte1.br"><title>Arte 1 Apresenta</title></programme>
 <programme start="20250715213000 +0000" stop="20250716020000 +0000" channel="Arte1.br"><title>Arte 1 Apresenta</title></programme>
-<programme start="20250709192000 +0000" stop="20250709201000 +0000" channel="AXN.br"><title>C.S.I. Miami</title></programme>
 <programme start="20250709201000 +0000" stop="20250709210000 +0000" channel="AXN.br"><title>C.S.I. Miami</title></programme>
 <programme start="20250709210000 +0000" stop="20250709215000 +0000" channel="AXN.br"><title>C.S.I. Miami</title></programme>
 <programme start="20250709215000 +0000" stop="20250709224000 +0000" channel="AXN.br"><title>C.S.I. Miami</title></programme>
@@ -1026,7 +1022,6 @@
 <programme start="20250715214000 +0000" stop="20250715222000 +0000" channel="Band.br"><title>Jornal do Rio</title></programme>
 <programme start="20250715222000 +0000" stop="20250715233000 +0000" channel="Band.br"><title>Jornal da Band</title></programme>
 <programme start="20250715233000 +0000" stop="20250716002500 +0000" channel="Band.br"><title>Café com Aroma de Mulher</title></programme>
-<programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="BandNews.br"><title>Jornal Entre Nós</title></programme>
 <programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="BandNews.br"><title>Especial BandNews</title></programme>
 <programme start="20250709210000 +0000" stop="20250709223000 +0000" channel="BandNews.br"><title>O É da Coisa</title></programme>
 <programme start="20250709223000 +0000" stop="20250709233000 +0000" channel="BandNews.br"><title>Jornal BandNews: 2ª Edição</title></programme>
@@ -1903,7 +1898,6 @@
 <programme start="20250715220000 +0000" stop="20250715223000 +0000" channel="BloombergTV.us"><title>Bullish: Meet the Women of Wall Street</title></programme>
 <programme start="20250715223000 +0000" stop="20250715230000 +0000" channel="BloombergTV.us"><title>Bullish: The New Rules of Investing</title></programme>
 <programme start="20250715230000 +0000" stop="20250716010000 +0000" channel="BloombergTV.us"><title>Bloomberg The Asia Trade</title></programme>
-<programme start="20250709180000 +0000" stop="20250709200000 +0000" channel="Canal21.br"><title>Igreja Universal do Reino de Deus</title></programme>
 <programme start="20250709200000 +0000" stop="20250709220000 +0000" channel="Canal21.br"><title>Igreja Universal do Reino de Deus</title></programme>
 <programme start="20250709220000 +0000" stop="20250710000000 +0000" channel="Canal21.br"><title>Igreja Universal do Reino de Deus</title></programme>
 <programme start="20250710000000 +0000" stop="20250710020000 +0000" channel="Canal21.br"><title>Igreja Universal do Reino de Deus</title></programme>
@@ -2136,8 +2130,6 @@
 <programme start="20250715205500 +0000" stop="20250715224500 +0000" channel="CanalBrasil.br"><title>O Mensageiro</title></programme>
 <programme start="20250715224500 +0000" stop="20250715230000 +0000" channel="CanalBrasil.br"><title>Choque De Cultura</title></programme>
 <programme start="20250715230000 +0000" stop="20250716003500 +0000" channel="CanalBrasil.br"><title>Maratona Luiz Carlos Lacerda - 80 Anos: For All - O Trampolim Da Vitória</title></programme>
-<programme start="20250709193000 +0000" stop="20250709194500 +0000" channel="CanaldoBoi.br"><title>Fala Carlão</title></programme>
-<programme start="20250709194500 +0000" stop="20250709195000 +0000" channel="CanaldoBoi.br"><title>Agroclima</title></programme>
 <programme start="20250709195000 +0000" stop="20250709210000 +0000" channel="CanaldoBoi.br"><title>Mais Pecuária</title></programme>
 <programme start="20250709210000 +0000" stop="20250709221000 +0000" channel="CanaldoBoi.br"><title>De Olho Na Fazenda - Nelore Camargo</title></programme>
 <programme start="20250709221000 +0000" stop="20250709221500 +0000" channel="CanaldoBoi.br"><title>ABCZ TV</title></programme>
@@ -2548,7 +2540,6 @@
 <programme start="20250715223400 +0000" stop="20250715230200 +0000" channel="CanalOff.br"><title>Domke&apos;s Show</title></programme>
 <programme start="20250715230200 +0000" stop="20250715233000 +0000" channel="CanalOff.br"><title>Trilhas E Travessias</title></programme>
 <programme start="20250715233000 +0000" stop="20250716000000 +0000" channel="CanalOff.br"><title>Trilhas E Travessias</title></programme>
-<programme start="20250709193400 +0000" stop="20250709200000 +0000" channel="CanalRural.br"><title>Canal Máquinas - MF Rural</title></programme>
 <programme start="20250709200000 +0000" stop="20250709203000 +0000" channel="CanalRural.br"><title>Ganhando O Futuro</title></programme>
 <programme start="20250709203000 +0000" stop="20250709204500 +0000" channel="CanalRural.br"><title>Série Planeta Campo</title></programme>
 <programme start="20250709204500 +0000" stop="20250709210000 +0000" channel="CanalRural.br"><title>Videocast A Protagonista</title></programme>
@@ -2687,10 +2678,6 @@
 <programme start="20250715224500 +0000" stop="20250715230200 +0000" channel="CanalRural.br"><title>Lance na TV</title></programme>
 <programme start="20250715230200 +0000" stop="20250715230400 +0000" channel="CanalRural.br"><title>ABCZ Notícias</title></programme>
 <programme start="20250715230400 +0000" stop="20250716030000 +0000" channel="CanalRural.br"><title>Leilão</title></programme>
-<programme start="20250709192400 +0000" stop="20250709194500 +0000" channel="CartoonNetwork.br"><title>Tiny Toons Looniversidade</title></programme>
-<programme start="20250709194500 +0000" stop="20250709195700 +0000" channel="CartoonNetwork.br"><title>Pinha e Pony</title></programme>
-<programme start="20250709195700 +0000" stop="20250709200000 +0000" channel="CartoonNetwork.br"><title>Pinha e Pony</title></programme>
-<programme start="20250709200000 +0000" stop="20250709201100 +0000" channel="CartoonNetwork.br"><title>Clarêncio, o Otimista</title></programme>
 <programme start="20250709201100 +0000" stop="20250709202400 +0000" channel="CartoonNetwork.br"><title>Clarêncio, o Otimista</title></programme>
 <programme start="20250709202400 +0000" stop="20250709203600 +0000" channel="CartoonNetwork.br"><title>Clarêncio, o Otimista</title></programme>
 <programme start="20250709203600 +0000" stop="20250709204500 +0000" channel="CartoonNetwork.br"><title>Clarêncio, o Otimista</title></programme>
@@ -3506,7 +3493,6 @@
 <programme start="20250715202000 +0000" stop="20250715214400 +0000" channel="Cinemax.br"><title>Ela Disse, Ele Disse</title></programme>
 <programme start="20250715214400 +0000" stop="20250715233600 +0000" channel="Cinemax.br"><title>Simonal</title></programme>
 <programme start="20250715233600 +0000" stop="20250716013000 +0000" channel="Cinemax.br"><title>A 5ª Onda</title></programme>
-<programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="CNN.us"><title>CNN Newsroom</title></programme>
 <programme start="20250709200000 +0000" stop="20250709204500 +0000" channel="CNN.us"><title>Quest Means Business</title></programme>
 <programme start="20250709204500 +0000" stop="20250709210000 +0000" channel="CNN.us"><title>Marketplace Asia</title></programme>
 <programme start="20250709210000 +0000" stop="20250709213000 +0000" channel="CNN.us"><title>The Lead With Jake Tapper</title></programme>
@@ -3769,8 +3755,6 @@
 <programme start="20250715150500 +0000" stop="20250715190500 +0000" channel="Combate.br"><title>Programação Combate</title></programme>
 <programme start="20250715190500 +0000" stop="20250715230500 +0000" channel="Combate.br"><title>Programação Combate</title></programme>
 <programme start="20250715230500 +0000" stop="20250716030500 +0000" channel="Combate.br"><title>Programação Combate</title></programme>
-<programme start="20250709192000 +0000" stop="20250709194500 +0000" channel="ComedyCentral.br"><title>Regras do Amor</title></programme>
-<programme start="20250709194500 +0000" stop="20250709200500 +0000" channel="ComedyCentral.br"><title>A Boa Vizinhança</title></programme>
 <programme start="20250709200500 +0000" stop="20250709202500 +0000" channel="ComedyCentral.br"><title>A Boa Vizinhança</title></programme>
 <programme start="20250709202500 +0000" stop="20250709204500 +0000" channel="ComedyCentral.br"><title>Becker</title></programme>
 <programme start="20250709204500 +0000" stop="20250709211000 +0000" channel="ComedyCentral.br"><title>Becker</title></programme>
@@ -4167,7 +4151,6 @@
 <programme start="20250715225000 +0000" stop="20250715231500 +0000" channel="ComedyCentral.br"><title>Awkward</title></programme>
 <programme start="20250715231500 +0000" stop="20250715233500 +0000" channel="ComedyCentral.br"><title>Todo Mundo Odeia O Chris</title></programme>
 <programme start="20250715233500 +0000" stop="20250716000500 +0000" channel="ComedyCentral.br"><title>Todo Mundo Odeia O Chris</title></programme>
-<programme start="20250709192100 +0000" stop="20250709201100 +0000" channel="DiscoveryChannel.br"><title>Desafio em Dose Dupla: Brasil</title></programme>
 <programme start="20250709201100 +0000" stop="20250709210100 +0000" channel="DiscoveryChannel.br"><title>Ed Stafford: Desafio Mortal</title></programme>
 <programme start="20250709210100 +0000" stop="20250709215000 +0000" channel="DiscoveryChannel.br"><title>Ed Stafford: Desafio Mortal</title></programme>
 <programme start="20250709215000 +0000" stop="20250709232900 +0000" channel="DiscoveryChannel.br"><title>Largados e Pelados</title></programme>
@@ -4529,9 +4512,6 @@
 <programme start="20250715192600 +0000" stop="20250715210700 +0000" channel="DiscoveryHomeHealth.br"><title>Quilos Mortais</title></programme>
 <programme start="20250715210700 +0000" stop="20250715224700 +0000" channel="DiscoveryHomeHealth.br"><title>Quilos Mortais</title></programme>
 <programme start="20250715224700 +0000" stop="20250716002600 +0000" channel="DiscoveryHomeHealth.br"><title>Quilos Mortais</title></programme>
-<programme start="20250709193200 +0000" stop="20250709194300 +0000" channel="DiscoveryKids.br"><title>Lupi e Baduki</title></programme>
-<programme start="20250709194300 +0000" stop="20250709195400 +0000" channel="DiscoveryKids.br"><title>Lupi e Baduki</title></programme>
-<programme start="20250709195400 +0000" stop="20250709200500 +0000" channel="DiscoveryKids.br"><title>Zouk a Bruxinha</title></programme>
 <programme start="20250709200500 +0000" stop="20250709203000 +0000" channel="DiscoveryKids.br"><title>Peppa Pig</title></programme>
 <programme start="20250709203000 +0000" stop="20250709203500 +0000" channel="DiscoveryKids.br"><title>Peppa Pig</title></programme>
 <programme start="20250709203500 +0000" stop="20250709204000 +0000" channel="DiscoveryKids.br"><title>Peppa Pig</title></programme>
@@ -5283,7 +5263,6 @@
 <programme start="20250715234500 +0000" stop="20250715235000 +0000" channel="DiscoveryKids.br"><title>Mini Beat Power Rockers</title></programme>
 <programme start="20250715235000 +0000" stop="20250715235500 +0000" channel="DiscoveryKids.br"><title>Mini Beat Power Rockers</title></programme>
 <programme start="20250715235500 +0000" stop="20250716000000 +0000" channel="DiscoveryKids.br"><title>Mini Beat Power Rockers</title></programme>
-<programme start="20250709190000 +0000" stop="20250709194800 +0000" channel="DiscoveryScience.br"><title>Desvendando o Passado</title></programme>
 <programme start="20250709194800 +0000" stop="20250709203600 +0000" channel="DiscoveryScience.br"><title>Febre do Ouro</title></programme>
 <programme start="20250709203600 +0000" stop="20250709212400 +0000" channel="DiscoveryScience.br"><title>Mistérios No Museu</title></programme>
 <programme start="20250709212400 +0000" stop="20250709221200 +0000" channel="DiscoveryScience.br"><title>Investigadores Psíquicos</title></programme>
@@ -5651,7 +5630,6 @@
 <programme start="20250715221200 +0000" stop="20250715230000 +0000" channel="DiscoveryTheater.br"><title>Hora Josh Gates</title></programme>
 <programme start="20250715230000 +0000" stop="20250715234800 +0000" channel="DiscoveryTheater.br"><title>Clube Da Aventura</title></programme>
 <programme start="20250715234800 +0000" stop="20250716003600 +0000" channel="DiscoveryTheater.br"><title>Ouro Selvagem</title></programme>
-<programme start="20250709191800 +0000" stop="20250709201000 +0000" channel="DiscoveryTurbo.br"><title>Corridas de Arrancada: Alabama</title></programme>
 <programme start="20250709201000 +0000" stop="20250709203600 +0000" channel="DiscoveryTurbo.br"><title>4x4 Sob Medida</title></programme>
 <programme start="20250709203600 +0000" stop="20250709210200 +0000" channel="DiscoveryTurbo.br"><title>4x4 Sob Medida</title></programme>
 <programme start="20250709210200 +0000" stop="20250709212800 +0000" channel="DiscoveryTurbo.br"><title>Vida Automotiva</title></programme>
@@ -5838,8 +5816,6 @@
 <programme start="20250715224600 +0000" stop="20250715231200 +0000" channel="DiscoveryTurbo.br"><title>Invasão de Garagens</title></programme>
 <programme start="20250715231200 +0000" stop="20250715233800 +0000" channel="DiscoveryTurbo.br"><title>Invasão de Garagens</title></programme>
 <programme start="20250715233800 +0000" stop="20250716003000 +0000" channel="DiscoveryTurbo.br"><title>Carro Ostentação Com Will Castro</title></programme>
-<programme start="20250709192400 +0000" stop="20250709194800 +0000" channel="DiscoveryWorld.br"><title>Open House - Casas Pelo Mundo</title></programme>
-<programme start="20250709194800 +0000" stop="20250709201200 +0000" channel="DiscoveryWorld.br"><title>Megamansões</title></programme>
 <programme start="20250709201200 +0000" stop="20250709203600 +0000" channel="DiscoveryWorld.br"><title>Megamansões</title></programme>
 <programme start="20250709203600 +0000" stop="20250709210000 +0000" channel="DiscoveryWorld.br"><title>Vida Nova em um Novo País</title></programme>
 <programme start="20250709210000 +0000" stop="20250709212400 +0000" channel="DiscoveryWorld.br"><title>Vida Nova em um Novo País</title></programme>
@@ -6152,8 +6128,6 @@
 <programme start="20250715230000 +0000" stop="20250715232400 +0000" channel="DiscoveryWorld.br"><title>Você Renova</title></programme>
 <programme start="20250715232400 +0000" stop="20250715234800 +0000" channel="DiscoveryWorld.br"><title>Você Renova</title></programme>
 <programme start="20250715234800 +0000" stop="20250716001200 +0000" channel="DiscoveryWorld.br"><title>7 Piscinas Incríveis</title></programme>
-<programme start="20250709191500 +0000" stop="20250709194500 +0000" channel="DWDeutsch.de"><title>Primer Plano</title></programme>
-<programme start="20250709194500 +0000" stop="20250709200000 +0000" channel="DWDeutsch.de"><title>Patrimonio Mundial</title></programme>
 <programme start="20250709200000 +0000" stop="20250709203000 +0000" channel="DWDeutsch.de"><title>DW Noticias</title></programme>
 <programme start="20250709203000 +0000" stop="20250709210000 +0000" channel="DWDeutsch.de"><title>Fuerza Latina</title></programme>
 <programme start="20250709210000 +0000" stop="20250709210300 +0000" channel="DWDeutsch.de"><title>DW Noticias</title></programme>
@@ -6543,7 +6517,6 @@
 <programme start="20250715230000 +0000" stop="20250715231500 +0000" channel="DWDeutsch.de"><title>DW Noticias</title></programme>
 <programme start="20250715231500 +0000" stop="20250715233000 +0000" channel="DWDeutsch.de"><title>Economía</title></programme>
 <programme start="20250715233000 +0000" stop="20250716000000 +0000" channel="DWDeutsch.de"><title>Fuerza Latina</title></programme>
-<programme start="20250709191000 +0000" stop="20250709200000 +0000" channel="E.br"><title>Vanderpump Rules</title></programme>
 <programme start="20250709200000 +0000" stop="20250709205000 +0000" channel="E.br"><title>Vanderpump Rules</title></programme>
 <programme start="20250709205000 +0000" stop="20250709214000 +0000" channel="E.br"><title>Million Dollar Listing Los Angeles</title></programme>
 <programme start="20250709214000 +0000" stop="20250709223000 +0000" channel="E.br"><title>Million Dollar Listing Los Angeles</title></programme>
@@ -6703,7 +6676,6 @@
 <programme start="20250715214000 +0000" stop="20250715223000 +0000" channel="E.br"><title>Million Dollar Listing Los Angeles</title></programme>
 <programme start="20250715223000 +0000" stop="20250715232000 +0000" channel="E.br"><title>Project Runway</title></programme>
 <programme start="20250715232000 +0000" stop="20250716001000 +0000" channel="E.br"><title>Botched</title></programme>
-<programme start="20250709180000 +0000" stop="20250709200000 +0000" channel="ESPN2.br"><title>VT - Goiás x Criciúma</title></programme>
 <programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="ESPN2.br"><title>Pelas Quadras de Wimbledon - Ao Vivo</title></programme>
 <programme start="20250709210000 +0000" stop="20250709220000 +0000" channel="ESPN2.br"><title>ESPN Filmes: 30 for 30: June 17th, 1994</title></programme>
 <programme start="20250709220000 +0000" stop="20250710000000 +0000" channel="ESPN2.br"><title>VT - Amazonas x Athletico-PR</title></programme>
@@ -6922,7 +6894,6 @@
 <programme start="20250715213000 +0000" stop="20250715220000 +0000" channel="ESPN3.br"><title>Premier League Stories</title></programme>
 <programme start="20250715220000 +0000" stop="20250715223000 +0000" channel="ESPN3.br"><title>Ciclismo: Destaques do Tour de France</title></programme>
 <programme start="20250715223000 +0000" stop="20250716000000 +0000" channel="ESPN3.br"><title>ESPN Filmes: 30 For 30: American Son</title></programme>
-<programme start="20250709180000 +0000" stop="20250709200000 +0000" channel="ESPN4.br"><title>VT - Flamengo x Deportivo Táchira (VEN)</title></programme>
 <programme start="20250709200000 +0000" stop="20250709220000 +0000" channel="ESPN4.br"><title>VT - América-MG x Athletic Club</title></programme>
 <programme start="20250709220000 +0000" stop="20250709230000 +0000" channel="ESPN4.br"><title>DTM: Destaques da Etapa de Norisring-ALE</title></programme>
 <programme start="20250709230000 +0000" stop="20250710000000 +0000" channel="ESPN4.br"><title>Especial La Liga Post Season</title></programme>
@@ -7314,7 +7285,6 @@
 <programme start="20250715200000 +0000" stop="20250715214000 +0000" channel="Eurochannel.uk"><title>A Pele de Onagro</title></programme>
 <programme start="20250715214000 +0000" stop="20250715231500 +0000" channel="Eurochannel.uk"><title>Senhora Presidente</title></programme>
 <programme start="20250715231500 +0000" stop="20250716010500 +0000" channel="Eurochannel.uk"><title>Férias de Terror</title></programme>
-<programme start="20250709180000 +0000" stop="20250709194500 +0000" channel="FilmArts.br"><title>Somente O Mar Sabe</title></programme>
 <programme start="20250709194500 +0000" stop="20250709204500 +0000" channel="FilmArts.br"><title>The Graham Norton Show</title></programme>
 <programme start="20250709204500 +0000" stop="20250709223000 +0000" channel="FilmArts.br"><title>John Williams - O concerto de Berlin</title></programme>
 <programme start="20250709223000 +0000" stop="20250709230000 +0000" channel="FilmArts.br"><title>Nossa Bossa</title></programme>
@@ -7432,9 +7402,6 @@
 <programme start="20250715200000 +0000" stop="20250715210000 +0000" channel="FilmArts.br"><title>The Graham Norton Show</title></programme>
 <programme start="20250715210000 +0000" stop="20250715223500 +0000" channel="FilmArts.br"><title>Fora De Cena</title></programme>
 <programme start="20250715223500 +0000" stop="20250716000000 +0000" channel="FilmArts.br"><title>Atrás da Sombra</title></programme>
-<programme start="20250709192500 +0000" stop="20250709195500 +0000" channel="Futura.br"><title>Eco Brasil</title></programme>
-<programme start="20250709195500 +0000" stop="20250709200500 +0000" channel="Futura.br"><title>Meu Olhar</title></programme>
-<programme start="20250709200500 +0000" stop="20250709201500 +0000" channel="Futura.br"><title>Tocando A Real</title></programme>
 <programme start="20250709201500 +0000" stop="20250709203000 +0000" channel="Futura.br"><title>(In)confidências</title></programme>
 <programme start="20250709203000 +0000" stop="20250709205500 +0000" channel="Futura.br"><title>Sabores Da Floresta</title></programme>
 <programme start="20250709205500 +0000" stop="20250709210000 +0000" channel="Futura.br"><title>A(U)tores</title></programme>
@@ -8094,9 +8061,6 @@
 <programme start="20250715190000 +0000" stop="20250715210000 +0000" channel="GloboNews.br"><title>GloboNews Mais - Ao Vivo</title></programme>
 <programme start="20250715210000 +0000" stop="20250715230000 +0000" channel="GloboNews.br"><title>Jornal GloboNews Edição das 18h - Ao Vivo</title></programme>
 <programme start="20250715230000 +0000" stop="20250716010000 +0000" channel="GloboNews.br"><title>GloboNews Em Pauta</title></programme>
-<programme start="20250709193300 +0000" stop="20250709194500 +0000" channel="Gloob.br"><title>Alvinnn!!! E Os Esquilos</title></programme>
-<programme start="20250709194500 +0000" stop="20250709195700 +0000" channel="Gloob.br"><title>Alvinnn!!! E Os Esquilos</title></programme>
-
 
 
 
@@ -8530,8 +8494,6 @@
 
 
 
-<programme start="20250709190200 +0000" stop="20250709194400 +0000" channel="GNT.br"><title>Que Marravilha!</title></programme>
-<programme start="20250709194400 +0000" stop="20250709201700 +0000" channel="GNT.br"><title>Tempero De Família</title></programme>
 <programme start="20250709201700 +0000" stop="20250709205100 +0000" channel="GNT.br"><title>Tempero De Família</title></programme>
 <programme start="20250709205100 +0000" stop="20250709213400 +0000" channel="GNT.br"><title>Que Marravilha!</title></programme>
 <programme start="20250709213400 +0000" stop="20250709220500 +0000" channel="GNT.br"><title>Cozinha Prática Com Rita Lobo</title></programme>
@@ -8880,7 +8842,6 @@
 <programme start="20250715205700 +0000" stop="20250715213500 +0000" channel="HBO.br"><title>Funk.doc</title></programme>
 <programme start="20250715213500 +0000" stop="20250715232000 +0000" channel="HBO.br"><title>Arranha-Céu: Coragem Sem Limite</title></programme>
 <programme start="20250715232000 +0000" stop="20250716010000 +0000" channel="HBO.br"><title>1992</title></programme>
-<programme start="20250709175500 +0000" stop="20250709194200 +0000" channel="HBOFamily.br"><title>DC Liga dos Superpets</title></programme>
 <programme start="20250709194200 +0000" stop="20250709212700 +0000" channel="HBOFamily.br"><title>Lego Batman: O Filme</title></programme>
 <programme start="20250709212700 +0000" stop="20250709221300 +0000" channel="HBOFamily.br"><title>Minha Vida é um Circo</title></programme>
 <programme start="20250709221300 +0000" stop="20250709230000 +0000" channel="HBOFamily.br"><title>Minha Vida é um Circo</title></programme>
@@ -8970,7 +8931,6 @@
 <programme start="20250715210400 +0000" stop="20250715220000 +0000" channel="HBOFamily.br"><title>Línguas da Nossa Língua</title></programme>
 <programme start="20250715220000 +0000" stop="20250715230000 +0000" channel="HBOFamily.br"><title>Línguas da Nossa Língua</title></programme>
 <programme start="20250715230000 +0000" stop="20250716003700 +0000" channel="HBOFamily.br"><title>Meu Malvado Favorito</title></programme>
-<programme start="20250709183500 +0000" stop="20250709202000 +0000" channel="HBOPlus.br"><title>Annabelle</title></programme>
 <programme start="20250709202000 +0000" stop="20250709221000 +0000" channel="HBOPlus.br"><title>Annabelle 3: de Volta para Casa</title></programme>
 <programme start="20250709221000 +0000" stop="20250709231000 +0000" channel="HBOPlus.br"><title>Línguas da Nossa Língua</title></programme>
 <programme start="20250709231000 +0000" stop="20250710010500 +0000" channel="HBOPlus.br"><title>Elysium</title></programme>
@@ -9057,7 +9017,6 @@
 <programme start="20250715200000 +0000" stop="20250715214500 +0000" channel="HBOPlus.br"><title>Acompanhante Perfeita</title></programme>
 <programme start="20250715214500 +0000" stop="20250715231500 +0000" channel="HBOPlus.br"><title>Odilon - Réu de si Mesmo</title></programme>
 <programme start="20250715231500 +0000" stop="20250716010000 +0000" channel="HBOPlus.br"><title>Annabelle</title></programme>
-<programme start="20250709190900 +0000" stop="20250709194600 +0000" channel="HBOSignature.br"><title>The Righteous Gemstones</title></programme>
 <programme start="20250709194600 +0000" stop="20250709202800 +0000" channel="HBOSignature.br"><title>The Righteous Gemstones</title></programme>
 <programme start="20250709202800 +0000" stop="20250709210400 +0000" channel="HBOSignature.br"><title>The Righteous Gemstones</title></programme>
 <programme start="20250709210400 +0000" stop="20250709214300 +0000" channel="HBOSignature.br"><title>The Righteous Gemstones</title></programme>
@@ -9176,7 +9135,6 @@
 <programme start="20250715214800 +0000" stop="20250715224800 +0000" channel="HBOSignature.br"><title>Game of Thrones</title></programme>
 <programme start="20250715224800 +0000" stop="20250715234300 +0000" channel="HBOSignature.br"><title>Game of Thrones</title></programme>
 <programme start="20250715234300 +0000" stop="20250716004300 +0000" channel="HBOSignature.br"><title>Game of Thrones</title></programme>
-<programme start="20250709181900 +0000" stop="20250709194800 +0000" channel="History.br"><title>Trato Feito: Pé Na Estrada</title></programme>
 <programme start="20250709194800 +0000" stop="20250709203500 +0000" channel="History.br"><title>O Melhor De... Trato Feito</title></programme>
 <programme start="20250709203500 +0000" stop="20250709212300 +0000" channel="History.br"><title>O Melhor De... Trato Feito</title></programme>
 <programme start="20250709212300 +0000" stop="20250709220900 +0000" channel="History.br"><title>Andes Extremo</title></programme>
@@ -9463,7 +9421,6 @@
 <programme start="20250715220000 +0000" stop="20250715230000 +0000" channel="Lifetime.br"><title>Amores Que Enganam</title></programme>
 <programme start="20250715230000 +0000" stop="20250715232500 +0000" channel="Lifetime.br"><title>Legends Of The Fork Com Buddy Valastro</title></programme>
 <programme start="20250715232500 +0000" stop="20250716010000 +0000" channel="Lifetime.br"><title>Terror No Paraíso</title></programme>
-<programme start="20250709180000 +0000" stop="20250709194500 +0000" channel="Megapix.br"><title>O Escorpião Rei</title></programme>
 <programme start="20250709194500 +0000" stop="20250709221500 +0000" channel="Megapix.br"><title>O Protetor (2014)</title></programme>
 <programme start="20250709221500 +0000" stop="20250710000000 +0000" channel="Megapix.br"><title>Braddock 2 - O Início Da Missão</title></programme>
 <programme start="20250710000000 +0000" stop="20250710022000 +0000" channel="Megapix.br"><title>Atirador</title></programme>
@@ -9539,7 +9496,6 @@
 <programme start="20250715182500 +0000" stop="20250715202500 +0000" channel="Megapix.br"><title>Demolidor - O Homem Sem Medo</title></programme>
 <programme start="20250715202500 +0000" stop="20250715222000 +0000" channel="Megapix.br"><title>As Namoradas Do Papai</title></programme>
 <programme start="20250715222000 +0000" stop="20250716000000 +0000" channel="Megapix.br"><title>Sessão Megapix: Pica-Pau: O Filme</title></programme>
-<programme start="20250709191000 +0000" stop="20250709195500 +0000" channel="MTV.br"><title>Catfish</title></programme>
 <programme start="20250709195500 +0000" stop="20250709203500 +0000" channel="MTV.br"><title>Catfish</title></programme>
 <programme start="20250709203500 +0000" stop="20250709212500 +0000" channel="MTV.br"><title>Catfish</title></programme>
 <programme start="20250709212500 +0000" stop="20250709221500 +0000" channel="MTV.br"><title>Catfish</title></programme>
@@ -9743,7 +9699,6 @@
 <programme start="20250715221500 +0000" stop="20250715230000 +0000" channel="MTV.br"><title>Namoro no Sigilo</title></programme>
 <programme start="20250715230000 +0000" stop="20250715235000 +0000" channel="MTV.br"><title>Pego no Pulo: Infiel</title></programme>
 <programme start="20250715235000 +0000" stop="20250716001000 +0000" channel="MTV.br"><title>Ridículos</title></programme>
-<programme start="20250709190200 +0000" stop="20250709195000 +0000" channel="Multishow.br"><title>Vai Que Cola</title></programme>
 <programme start="20250709195000 +0000" stop="20250709202500 +0000" channel="Multishow.br"><title>Tapas E Beijos</title></programme>
 <programme start="20250709202500 +0000" stop="20250709210000 +0000" channel="Multishow.br"><title>Tapas E Beijos</title></programme>
 <programme start="20250709210000 +0000" stop="20250709213000 +0000" channel="Multishow.br"><title>Tvz</title></programme>
@@ -9989,9 +9944,6 @@
 <programme start="20250715221500 +0000" stop="20250715224500 +0000" channel="Multishow.br"><title>O Dono Do Lar</title></programme>
 <programme start="20250715224500 +0000" stop="20250715233100 +0000" channel="Multishow.br"><title>Toma Lá Dá Cá</title></programme>
 <programme start="20250715233100 +0000" stop="20250716001200 +0000" channel="Multishow.br"><title>A Grande Família</title></programme>
-<programme start="20250709192500 +0000" stop="20250709195000 +0000" channel="Nickelodeon.br"><title>Bob Esponja, Calça Quadrada</title></programme>
-<programme start="20250709195000 +0000" stop="20250709200000 +0000" channel="Nickelodeon.br"><title>Bob Esponja, Calça Quadrada</title></programme>
-<programme start="20250709200000 +0000" stop="20250709201500 +0000" channel="Nickelodeon.br"><title>The Loud House</title></programme>
 <programme start="20250709201500 +0000" stop="20250709203000 +0000" channel="Nickelodeon.br"><title>The Loud House</title></programme>
 <programme start="20250709203000 +0000" stop="20250709205000 +0000" channel="Nickelodeon.br"><title>Os Padrinhos Mágicos: Um Novo Desejo</title></programme>
 <programme start="20250709205000 +0000" stop="20250709210500 +0000" channel="Nickelodeon.br"><title>The Loud House</title></programme>
@@ -10412,7 +10364,6 @@
 <programme start="20250715230500 +0000" stop="20250715233000 +0000" channel="Nickelodeon.br"><title>Os Thundermans</title></programme>
 <programme start="20250715233000 +0000" stop="20250715235500 +0000" channel="Nickelodeon.br"><title>The Loud House: Uma Verdadeira Família Barulhenta</title></programme>
 <programme start="20250715235500 +0000" stop="20250716001500 +0000" channel="Nickelodeon.br"><title>The Loud House: Uma Verdadeira Família Barulhenta</title></programme>
-<programme start="20250709193500 +0000" stop="20250709200500 +0000" channel="NickJr.br"><title>Deer Squad</title></programme>
 <programme start="20250709200500 +0000" stop="20250709203000 +0000" channel="NickJr.br"><title>Deer Squad</title></programme>
 <programme start="20250709203000 +0000" stop="20250709205000 +0000" channel="NickJr.br"><title>Patrulha Canina</title></programme>
 <programme start="20250709205000 +0000" stop="20250709211500 +0000" channel="NickJr.br"><title>Patrulha Canina</title></programme>
@@ -10832,7 +10783,6 @@
 <programme start="20250715225500 +0000" stop="20250715231500 +0000" channel="NickJr.br"><title>Barbapapa - Uma Grande Família</title></programme>
 <programme start="20250715231500 +0000" stop="20250715233000 +0000" channel="NickJr.br"><title>Baby Shark, O Grande Show</title></programme>
 <programme start="20250715233000 +0000" stop="20250716000000 +0000" channel="NickJr.br"><title>Baby Shark, O Grande Show</title></programme>
-<programme start="20250709180500 +0000" stop="20250709195000 +0000" channel="ParamountNetwork.br"><title>O Poder de Alguns</title></programme>
 <programme start="20250709195000 +0000" stop="20250709222500 +0000" channel="ParamountNetwork.br"><title>A.I. - Inteligência Artificial</title></programme>
 <programme start="20250709222500 +0000" stop="20250709225500 +0000" channel="ParamountNetwork.br"><title>Auto Posto</title></programme>
 <programme start="20250709225500 +0000" stop="20250709233000 +0000" channel="ParamountNetwork.br"><title>Auto Posto</title></programme>
@@ -11102,8 +11052,6 @@
 <programme start="20250715200000 +0000" stop="20250715210000 +0000" channel="PremiereClubes.br"><title>VT - Vasco x Fortaleza</title></programme>
 <programme start="20250715210000 +0000" stop="20250715220000 +0000" channel="PremiereClubes.br"><title>VT - São Paulo x Grêmio</title></programme>
 <programme start="20250715220000 +0000" stop="20250716003000 +0000" channel="PremiereClubes.br"><title>Aquecimento SporTV - Ao Vivo</title></programme>
-<programme start="20250709191500 +0000" stop="20250709194500 +0000" channel="RaiItaliaAmerica.it"><title>Cartoni Animati</title></programme>
-<programme start="20250709194500 +0000" stop="20250709201500 +0000" channel="RaiItaliaAmerica.it"><title>Via Dei Matti Numero Zero</title></programme>
 <programme start="20250709201500 +0000" stop="20250709210000 +0000" channel="RaiItaliaAmerica.it"><title>Elisir Riedizione</title></programme>
 <programme start="20250709210000 +0000" stop="20250709214500 +0000" channel="RaiItaliaAmerica.it"><title>Geo Studio Riedizione</title></programme>
 <programme start="20250709214500 +0000" stop="20250709223000 +0000" channel="RaiItaliaAmerica.it"><title>Soap: Il Paradiso Delle Signore 9</title></programme>
@@ -11265,8 +11213,6 @@
 <programme start="20250715223000 +0000" stop="20250715231500 +0000" channel="RaiItaliaAmerica.it"><title>Affari Tuoi</title></programme>
 <programme start="20250715231500 +0000" stop="20250715234500 +0000" channel="RaiItaliaAmerica.it"><title>TG Rai News</title></programme>
 <programme start="20250715234500 +0000" stop="20250716001500 +0000" channel="RaiItaliaAmerica.it"><title>Un Posto Al Sole</title></programme>
-<programme start="20250709193000 +0000" stop="20250709201000 +0000" channel="Record.br"><title>Cidade Alerta</title></programme>
-<programme start="20250709201000 +0000" stop="20250709201500 +0000" channel="Record.br"><title>Jornal da Record 24h</title></programme>
 <programme start="20250709201500 +0000" stop="20250709204000 +0000" channel="Record.br"><title>Cidade Alerta</title></programme>
 <programme start="20250709204000 +0000" stop="20250709204500 +0000" channel="Record.br"><title>Jornal da Record 24h</title></programme>
 <programme start="20250709204500 +0000" stop="20250709210000 +0000" channel="Record.br"><title>Cidade Alerta</title></programme>
@@ -11568,9 +11514,6 @@
 <programme start="20250715220000 +0000" stop="20250715224500 +0000" channel="RecordNews.br"><title>News 19 Horas</title></programme>
 <programme start="20250715224500 +0000" stop="20250715231000 +0000" channel="RecordNews.br"><title>Elas com a Bola</title></programme>
 <programme start="20250715231000 +0000" stop="20250716000000 +0000" channel="RecordNews.br"><title>Jornal da Record</title></programme>
-<programme start="20250709193500 +0000" stop="20250709195500 +0000" channel="RedeBoaVontade.br"><title>Programa Boa Vontade, com Paiva Netto</title></programme>
-<programme start="20250709195500 +0000" stop="20250709200000 +0000" channel="RedeBoaVontade.br"><title>Mensagem de Paiva Netto</title></programme>
-<programme start="20250709200000 +0000" stop="20250709201000 +0000" channel="RedeBoaVontade.br"><title>Momento Ecumênico de Oração</title></programme>
 <programme start="20250709201000 +0000" stop="20250709205000 +0000" channel="RedeBoaVontade.br"><title>O Assunto é Jesus!</title></programme>
 <programme start="20250709205000 +0000" stop="20250709211500 +0000" channel="RedeBoaVontade.br"><title>Mensagem da Ave, Maria!</title></programme>
 <programme start="20250709211500 +0000" stop="20250709215500 +0000" channel="RedeBoaVontade.br"><title>O Assunto é Jesus!</title></programme>
@@ -11972,7 +11915,6 @@
 <programme start="20250715223000 +0000" stop="20250715230000 +0000" channel="RedeBoaVontade.br"><title>Arte na Tela</title></programme>
 <programme start="20250715230000 +0000" stop="20250715230900 +0000" channel="RedeBoaVontade.br"><title>Momento Ecumênico de Oração</title></programme>
 <programme start="20250715230900 +0000" stop="20250716000000 +0000" channel="RedeBoaVontade.br"><title>O Poder da Fé Realizante</title></programme>
-<programme start="20250709180000 +0000" stop="20250709200000 +0000" channel="RedeTV.br"><title>A Tarde é Sua</title></programme>
 <programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="RedeTV.br"><title>Igreja Universal do Reino de Deus</title></programme>
 <programme start="20250709210000 +0000" stop="20250709225500 +0000" channel="RedeTV.br"><title>Brasil Do Povo</title></programme>
 <programme start="20250709225500 +0000" stop="20250709233000 +0000" channel="RedeTV.br"><title>RedeTV! News</title></programme>
@@ -12094,7 +12036,6 @@
 <programme start="20250715210000 +0000" stop="20250715225500 +0000" channel="RedeTV.br"><title>Brasil Do Povo</title></programme>
 <programme start="20250715225500 +0000" stop="20250715233000 +0000" channel="RedeTV.br"><title>RedeTV! News</title></programme>
 <programme start="20250715233000 +0000" stop="20250716003000 +0000" channel="RedeTV.br"><title>Igreja Internacional da Graça de Deus</title></programme>
-<programme start="20250709191500 +0000" stop="20250709200000 +0000" channel="RedeVida.br"><title>Escolhas da Vida</title></programme>
 <programme start="20250709200000 +0000" stop="20250709203000 +0000" channel="RedeVida.br"><title>Novena dos Filhos e Filhas de São José</title></programme>
 <programme start="20250709203000 +0000" stop="20250709204500 +0000" channel="RedeVida.br"><title>Encontro Com Cristo</title></programme>
 <programme start="20250709204500 +0000" stop="20250709210000 +0000" channel="RedeVida.br"><title>Terço Bizantino</title></programme>
@@ -12343,7 +12284,6 @@
 <programme start="20250715225500 +0000" stop="20250715230000 +0000" channel="RedeVida.br"><title>Crônicas de Fé e Afeto</title></programme>
 <programme start="20250715230000 +0000" stop="20250715233000 +0000" channel="RedeVida.br"><title>O Santo Terço Do Pai Eterno</title></programme>
 <programme start="20250715233000 +0000" stop="20250716020000 +0000" channel="RedeVida.br"><title>Viva a Vida</title></programme>
-<programme start="20250709183000 +0000" stop="20250709194500 +0000" channel="SBT.br"><title>Fofocalizando</title></programme>
 <programme start="20250709194500 +0000" stop="20250709204500 +0000" channel="SBT.br"><title>Sessão Dorama: Meu Amor das Estrelas</title></programme>
 <programme start="20250709204500 +0000" stop="20250709224500 +0000" channel="SBT.br"><title>Tá Na Hora</title></programme>
 <programme start="20250709224500 +0000" stop="20250709234500 +0000" channel="SBT.br"><title>SBT Brasil</title></programme>
@@ -12583,7 +12523,6 @@
 <programme start="20250715221500 +0000" stop="20250715224500 +0000" channel="SICInternacional.pt"><title>Casados À Primeira Vista - Segundas Núpcias</title></programme>
 <programme start="20250715224500 +0000" stop="20250715234500 +0000" channel="SICInternacional.pt"><title>O Pai Tirano</title></programme>
 <programme start="20250715234500 +0000" stop="20250716013000 +0000" channel="SICInternacional.pt"><title>Jornal da Meia Noite</title></programme>
-<programme start="20250709191000 +0000" stop="20250709200500 +0000" channel="SonyChannel.br"><title>The Good Doctor: O Bom Doutor</title></programme>
 <programme start="20250709200500 +0000" stop="20250709210000 +0000" channel="SonyChannel.br"><title>The Good Doctor: O Bom Doutor</title></programme>
 <programme start="20250709210000 +0000" stop="20250709224000 +0000" channel="SonyChannel.br"><title>Um Tira Muito Suspeito</title></programme>
 <programme start="20250709224000 +0000" stop="20250710002400 +0000" channel="SonyChannel.br"><title>O Máskara</title></programme>
@@ -12731,7 +12670,6 @@
 <programme start="20250715185500 +0000" stop="20250715204500 +0000" channel="SonyChannel.br"><title>Venom</title></programme>
 <programme start="20250715204500 +0000" stop="20250715225500 +0000" channel="SonyChannel.br"><title>Bad Boys Para Sempre</title></programme>
 <programme start="20250715225500 +0000" stop="20250716010000 +0000" channel="SonyChannel.br"><title>O Justiceiro</title></programme>
-<programme start="20250709190300 +0000" stop="20250709195200 +0000" channel="Space.br"><title>C.S.I</title></programme>
 <programme start="20250709195200 +0000" stop="20250709203600 +0000" channel="Space.br"><title>C.S.I</title></programme>
 <programme start="20250709203600 +0000" stop="20250709212400 +0000" channel="Space.br"><title>C.S.I. Miami</title></programme>
 <programme start="20250709212400 +0000" stop="20250709220900 +0000" channel="Space.br"><title>C.S.I. Miami</title></programme>
@@ -13175,7 +13113,6 @@
 <programme start="20250715191000 +0000" stop="20250715204500 +0000" channel="StudioUniversal.br"><title>Combinação do Azevinho</title></programme>
 <programme start="20250715204500 +0000" stop="20250715222500 +0000" channel="StudioUniversal.br"><title>10 Horas Para O Natal</title></programme>
 <programme start="20250715222500 +0000" stop="20250716000000 +0000" channel="StudioUniversal.br"><title>Uma Rosa para o Natal</title></programme>
-<programme start="20250709190400 +0000" stop="20250709195200 +0000" channel="TBS.br"><title>Será Isso Amor?</title></programme>
 <programme start="20250709195200 +0000" stop="20250709204000 +0000" channel="TBS.br"><title>Um Milagre</title></programme>
 <programme start="20250709204000 +0000" stop="20250709212800 +0000" channel="TBS.br"><title>Um Milagre</title></programme>
 <programme start="20250709212800 +0000" stop="20250709221600 +0000" channel="TBS.br"><title>Amor Sem Fim</title></programme>
@@ -13527,7 +13464,6 @@
 <programme start="20250715211500 +0000" stop="20250715212000 +0000" channel="TelecineAction.br"><title>Preview No Action</title></programme>
 <programme start="20250715212000 +0000" stop="20250715231500 +0000" channel="TelecineAction.br"><title>MIB: Homens de Preto Internacional</title></programme>
 <programme start="20250715231500 +0000" stop="20250716010000 +0000" channel="TelecineAction.br"><title>O Lutador (2006)</title></programme>
-<programme start="20250709160000 +0000" stop="20250709195500 +0000" channel="TelecineCult.br"><title>Era Uma Vez Na América</title></programme>
 <programme start="20250709195500 +0000" stop="20250709212500 +0000" channel="TelecineCult.br"><title>Pequena Garota</title></programme>
 <programme start="20250709212500 +0000" stop="20250709230000 +0000" channel="TelecineCult.br"><title>A Igualdade É Branca</title></programme>
 <programme start="20250709230000 +0000" stop="20250710010000 +0000" channel="TelecineCult.br"><title>Sessão Cine Classic: Charada</title></programme>
@@ -14163,7 +14099,6 @@
 <programme start="20250715224200 +0000" stop="20250715230700 +0000" channel="TLC.br"><title>4 Mulheres e 1 Marido</title></programme>
 <programme start="20250715230700 +0000" stop="20250715233100 +0000" channel="TLC.br"><title>4 Mulheres e 1 Marido</title></programme>
 <programme start="20250715233100 +0000" stop="20250716001900 +0000" channel="TLC.br"><title>A Família Baldwin</title></programme>
-<programme start="20250709175200 +0000" stop="20250709200700 +0000" channel="TNT.br"><title>Superman II - A Aventura Continua</title></programme>
 <programme start="20250709200700 +0000" stop="20250709222300 +0000" channel="TNT.br"><title>Superman 3</title></programme>
 <programme start="20250709222300 +0000" stop="20250709235600 +0000" channel="TNT.br"><title>Superman IV: Em Busca da Paz</title></programme>
 <programme start="20250709235600 +0000" stop="20250710002100 +0000" channel="TNT.br"><title>Todo Mundo Odeia O Chris</title></programme>
@@ -14306,7 +14241,6 @@
 <programme start="20250715202000 +0000" stop="20250715221700 +0000" channel="TNT.br"><title>Guerra Mundial Z</title></programme>
 <programme start="20250715221700 +0000" stop="20250715222700 +0000" channel="TNT.br"><title>Buzum</title></programme>
 <programme start="20250715222700 +0000" stop="20250716001900 +0000" channel="TNT.br"><title>Os Parças</title></programme>
-<programme start="20250709191900 +0000" stop="20250709200500 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
 <programme start="20250709200500 +0000" stop="20250709205200 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
 <programme start="20250709205200 +0000" stop="20250709213700 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
 <programme start="20250709213700 +0000" stop="20250709222600 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
@@ -14507,7 +14441,6 @@
 <programme start="20250715222500 +0000" stop="20250715231000 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
 <programme start="20250715231000 +0000" stop="20250715235800 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
 <programme start="20250715235800 +0000" stop="20250716004400 +0000" channel="TNTSeries.br"><title>The Mentalist</title></programme>
-<programme start="20250709194100 +0000" stop="20250709200700 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
 <programme start="20250709200700 +0000" stop="20250709203000 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
 <programme start="20250709203000 +0000" stop="20250709204100 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
 <programme start="20250709204100 +0000" stop="20250709205300 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
@@ -14527,126 +14460,6 @@
 <programme start="20250709234100 +0000" stop="20250709234900 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
 <programme start="20250709234900 +0000" stop="20250709235600 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
 <programme start="20250709235600 +0000" stop="20250710000200 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710000200 +0000" stop="20250710001100 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710001100 +0000" stop="20250710001700 +0000" channel="Tooncast.us"><title>Os Filhos de Tom e Jerry</title></programme>
-<programme start="20250710001700 +0000" stop="20250710002700 +0000" channel="Tooncast.us"><title>Os Filhos de Tom e Jerry</title></programme>
-<programme start="20250710002700 +0000" stop="20250710004000 +0000" channel="Tooncast.us"><title>Baby Looney Tunes</title></programme>
-<programme start="20250710004000 +0000" stop="20250710004700 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710004700 +0000" stop="20250710005500 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710005500 +0000" stop="20250710010400 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710010400 +0000" stop="20250710011100 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710011100 +0000" stop="20250710011800 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710011800 +0000" stop="20250710012700 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710012700 +0000" stop="20250710015200 +0000" channel="Tooncast.us"><title>Duck Dodgers</title></programme>
-<programme start="20250710015200 +0000" stop="20250710021900 +0000" channel="Tooncast.us"><title>Manda Chuva</title></programme>
-<programme start="20250710021900 +0000" stop="20250710024500 +0000" channel="Tooncast.us"><title>Manda Chuva</title></programme>
-<programme start="20250710024500 +0000" stop="20250710030700 +0000" channel="Tooncast.us"><title>Scooby Doo, Cadê Você?</title></programme>
-<programme start="20250710030700 +0000" stop="20250710033000 +0000" channel="Tooncast.us"><title>Scooby-Doo! Cadê Você?</title></programme>
-<programme start="20250710033000 +0000" stop="20250710035000 +0000" channel="Tooncast.us"><title>O Que Há de Novo Scooby-Doo?</title></programme>
-<programme start="20250710035000 +0000" stop="20250710041100 +0000" channel="Tooncast.us"><title>O Que Há de Novo Scooby-Doo?</title></programme>
-<programme start="20250710041100 +0000" stop="20250710041700 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710041700 +0000" stop="20250710041800 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710041800 +0000" stop="20250710042200 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710042200 +0000" stop="20250710042400 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710042400 +0000" stop="20250710042500 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710042500 +0000" stop="20250710043100 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710043100 +0000" stop="20250710043500 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710043500 +0000" stop="20250710043700 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710043700 +0000" stop="20250710044100 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710044100 +0000" stop="20250710044500 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710044500 +0000" stop="20250710045600 +0000" channel="Tooncast.us"><title>Mike, Lu e Og</title></programme>
-<programme start="20250710045600 +0000" stop="20250710050900 +0000" channel="Tooncast.us"><title>Mike, Lu e Og</title></programme>
-<programme start="20250710050900 +0000" stop="20250710051600 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710051600 +0000" stop="20250710052200 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710052200 +0000" stop="20250710052900 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710052900 +0000" stop="20250710053600 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710053600 +0000" stop="20250710054500 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710054500 +0000" stop="20250710060600 +0000" channel="Tooncast.us"><title>Thundercats</title></programme>
-<programme start="20250710060600 +0000" stop="20250710063000 +0000" channel="Tooncast.us"><title>Thundercats</title></programme>
-<programme start="20250710063000 +0000" stop="20250710064000 +0000" channel="Tooncast.us"><title>Corrida Maluca</title></programme>
-<programme start="20250710064000 +0000" stop="20250710065200 +0000" channel="Tooncast.us"><title>Corrida Maluca</title></programme>
-<programme start="20250710065200 +0000" stop="20250710071800 +0000" channel="Tooncast.us"><title>Os Flintstones</title></programme>
-<programme start="20250710071800 +0000" stop="20250710074500 +0000" channel="Tooncast.us"><title>Os Flintstones</title></programme>
-<programme start="20250710074500 +0000" stop="20250710081000 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
-<programme start="20250710081000 +0000" stop="20250710083300 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
-<programme start="20250710083300 +0000" stop="20250710084500 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
-<programme start="20250710084500 +0000" stop="20250710090000 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
-<programme start="20250710090000 +0000" stop="20250710092500 +0000" channel="Tooncast.us"><title>A Mansão Foster Para Amigos Imaginários</title></programme>
-<programme start="20250710092500 +0000" stop="20250710095000 +0000" channel="Tooncast.us"><title>A Mansão Foster Para Amigos Imaginários</title></programme>
-<programme start="20250710095000 +0000" stop="20250710100100 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710100100 +0000" stop="20250710101100 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710101100 +0000" stop="20250710102400 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710102400 +0000" stop="20250710103500 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710103500 +0000" stop="20250710104600 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710104600 +0000" stop="20250710110000 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710110000 +0000" stop="20250710111100 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710111100 +0000" stop="20250710112100 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710112100 +0000" stop="20250710113500 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710113500 +0000" stop="20250710114100 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710114100 +0000" stop="20250710114700 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710114700 +0000" stop="20250710115600 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710115600 +0000" stop="20250710120300 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710120300 +0000" stop="20250710120900 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710120900 +0000" stop="20250710121700 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710121700 +0000" stop="20250710122400 +0000" channel="Tooncast.us"><title>Os Filhos de Tom e Jerry</title></programme>
-<programme start="20250710122400 +0000" stop="20250710123300 +0000" channel="Tooncast.us"><title>Os Filhos de Tom e Jerry</title></programme>
-<programme start="20250710123300 +0000" stop="20250710124600 +0000" channel="Tooncast.us"><title>Baby Looney Tunes</title></programme>
-<programme start="20250710124600 +0000" stop="20250710125300 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710125300 +0000" stop="20250710125900 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710125900 +0000" stop="20250710130800 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710130800 +0000" stop="20250710131500 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710131500 +0000" stop="20250710132100 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710132100 +0000" stop="20250710133000 +0000" channel="Tooncast.us"><title>Looney Tunes</title></programme>
-<programme start="20250710133000 +0000" stop="20250710135600 +0000" channel="Tooncast.us"><title>Duck Dodgers</title></programme>
-<programme start="20250710135600 +0000" stop="20250710142100 +0000" channel="Tooncast.us"><title>Manda Chuva</title></programme>
-<programme start="20250710142100 +0000" stop="20250710144800 +0000" channel="Tooncast.us"><title>Manda Chuva</title></programme>
-<programme start="20250710144800 +0000" stop="20250710151200 +0000" channel="Tooncast.us"><title>Scooby-Doo! Cadê Você?</title></programme>
-<programme start="20250710151200 +0000" stop="20250710153500 +0000" channel="Tooncast.us"><title>Scooby-Doo! Cadê Você?</title></programme>
-<programme start="20250710153500 +0000" stop="20250710155500 +0000" channel="Tooncast.us"><title>O Que Há de Novo Scooby-Doo?</title></programme>
-<programme start="20250710155500 +0000" stop="20250710161900 +0000" channel="Tooncast.us"><title>O Que Há de Novo Scooby-Doo?</title></programme>
-<programme start="20250710161900 +0000" stop="20250710162000 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710162000 +0000" stop="20250710162600 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710162600 +0000" stop="20250710163100 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710163100 +0000" stop="20250710163200 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710163200 +0000" stop="20250710163400 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710163400 +0000" stop="20250710163800 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710163800 +0000" stop="20250710163900 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710163900 +0000" stop="20250710164500 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710164500 +0000" stop="20250710164600 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710164600 +0000" stop="20250710164700 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710164700 +0000" stop="20250710164800 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710164800 +0000" stop="20250710165200 +0000" channel="Tooncast.us"><title>Sheep Na Cidade Grande</title></programme>
-<programme start="20250710165200 +0000" stop="20250710170300 +0000" channel="Tooncast.us"><title>Mike, Lu e Og</title></programme>
-<programme start="20250710170300 +0000" stop="20250710171600 +0000" channel="Tooncast.us"><title>Mike, Lu e Og</title></programme>
-<programme start="20250710171600 +0000" stop="20250710172300 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710172300 +0000" stop="20250710173000 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710173000 +0000" stop="20250710173700 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710173700 +0000" stop="20250710174600 +0000" channel="Tooncast.us"><title>Hi Hi Puffy Ami Yumi</title></programme>
-<programme start="20250710174600 +0000" stop="20250710180800 +0000" channel="Tooncast.us"><title>Thundercats</title></programme>
-<programme start="20250710180800 +0000" stop="20250710183000 +0000" channel="Tooncast.us"><title>Thundercats</title></programme>
-<programme start="20250710183000 +0000" stop="20250710184000 +0000" channel="Tooncast.us"><title>Corrida Maluca</title></programme>
-<programme start="20250710184000 +0000" stop="20250710185200 +0000" channel="Tooncast.us"><title>Corrida Maluca</title></programme>
-<programme start="20250710185200 +0000" stop="20250710191800 +0000" channel="Tooncast.us"><title>Os Flintstones</title></programme>
-<programme start="20250710191800 +0000" stop="20250710194400 +0000" channel="Tooncast.us"><title>Os Flintstones</title></programme>
-<programme start="20250710194400 +0000" stop="20250710200700 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
-<programme start="20250710200700 +0000" stop="20250710203000 +0000" channel="Tooncast.us"><title>Os Jetsons</title></programme>
-<programme start="20250710203000 +0000" stop="20250710204100 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
-<programme start="20250710204100 +0000" stop="20250710205300 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
-<programme start="20250710205300 +0000" stop="20250710210700 +0000" channel="Tooncast.us"><title>Oswaldo</title></programme>
-<programme start="20250710210700 +0000" stop="20250710213200 +0000" channel="Tooncast.us"><title>A Mansão Foster Para Amigos Imaginários</title></programme>
-<programme start="20250710213200 +0000" stop="20250710215700 +0000" channel="Tooncast.us"><title>A Mansão Foster Para Amigos Imaginários</title></programme>
-<programme start="20250710215700 +0000" stop="20250710220800 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710220800 +0000" stop="20250710221900 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710221900 +0000" stop="20250710223100 +0000" channel="Tooncast.us"><title>O Acampamento de Lazlo</title></programme>
-<programme start="20250710223100 +0000" stop="20250710224200 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710224200 +0000" stop="20250710225300 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710225300 +0000" stop="20250710230500 +0000" channel="Tooncast.us"><title>Meu Amigo da Escola é um Macaco</title></programme>
-<programme start="20250710230500 +0000" stop="20250710231600 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710231600 +0000" stop="20250710232700 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710232700 +0000" stop="20250710233900 +0000" channel="Tooncast.us"><title>Esquadrão do Tempo</title></programme>
-<programme start="20250710233900 +0000" stop="20250710234500 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710234500 +0000" stop="20250710235200 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
-<programme start="20250710235200 +0000" stop="20250711000000 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
 <programme start="20250711000000 +0000" stop="20250711000700 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
 <programme start="20250711000700 +0000" stop="20250711001300 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
 <programme start="20250711001300 +0000" stop="20250711002100 +0000" channel="Tooncast.us"><title>Tom e Jerry</title></programme>
@@ -15580,8 +15393,6 @@
 <programme start="20250715230000 +0000" stop="20250715233000 +0000" channel="TravelBoxBrazil.br"><title>Mundo Delas</title></programme>
 <programme start="20250715233000 +0000" stop="20250715234500 +0000" channel="TravelBoxBrazil.br"><title>Destinos Imperdiveis - Checkins Pelo Brasil</title></programme>
 <programme start="20250715234500 +0000" stop="20250716000000 +0000" channel="TravelBoxBrazil.br"><title>Gratidão Na Bagagem</title></programme>
-<programme start="20250709193900 +0000" stop="20250709195700 +0000" channel="TV5MondeLatinAmerica.fr"><title>À La Poussière</title></programme>
-<programme start="20250709195700 +0000" stop="20250709200000 +0000" channel="TV5MondeLatinAmerica.fr"><title>Maestro</title></programme>
 <programme start="20250709200000 +0000" stop="20250709202700 +0000" channel="TV5MondeLatinAmerica.fr"><title>Le Journal De La RTS</title></programme>
 <programme start="20250709202700 +0000" stop="20250709210000 +0000" channel="TV5MondeLatinAmerica.fr"><title>Questions Pour Un Champion</title></programme>
 <programme start="20250709210000 +0000" stop="20250709212900 +0000" channel="TV5MondeLatinAmerica.fr"><title>Tv5monde, Le Journal Afrique</title></programme>
@@ -15799,7 +15610,6 @@
 <programme start="20250715220000 +0000" stop="20250715230000 +0000" channel="TV5MondeLatinAmerica.fr"><title>Point Ete 2025</title></programme>
 <programme start="20250715230000 +0000" stop="20250715233100 +0000" channel="TV5MondeLatinAmerica.fr"><title>Le Journal de France 2</title></programme>
 <programme start="20250715233100 +0000" stop="20250716013000 +0000" channel="TV5MondeLatinAmerica.fr"><title>Fort Boyard</title></programme>
-<programme start="20250709183000 +0000" stop="20250709194500 +0000" channel="TVAparecida.br"><title>Viva a Tarde - Especial Família dos Devotos (Geotenda)</title></programme>
 <programme start="20250709194500 +0000" stop="20250709205000 +0000" channel="TVAparecida.br"><title>TJ Aparecida</title></programme>
 <programme start="20250709205000 +0000" stop="20250709205500 +0000" channel="TVAparecida.br"><title>Escola de Maria</title></programme>
 <programme start="20250709205500 +0000" stop="20250709210000 +0000" channel="TVAparecida.br"><title>Mensagem de Fé</title></programme>
@@ -16231,8 +16041,6 @@
 <programme start="20250715213000 +0000" stop="20250715220000 +0000" channel="TVBrasil.br"><title>Stadium</title></programme>
 <programme start="20250715220000 +0000" stop="20250715230000 +0000" channel="TVBrasil.br"><title>Repórter Brasil</title></programme>
 <programme start="20250715230000 +0000" stop="20250716000000 +0000" channel="TVBrasil.br"><title>Sangue Oculto</title></programme>
-<programme start="20250709170000 +0000" stop="20250709194500 +0000" channel="TVCulturaNacional.br"><title>Quintal da Cultura</title></programme>
-<programme start="20250709194500 +0000" stop="20250709201500 +0000" channel="TVCulturaNacional.br"><title>O Mundo de Mia</title></programme>
 <programme start="20250709201500 +0000" stop="20250709204500 +0000" channel="TVCulturaNacional.br"><title>As Aventuras de Tintim</title></programme>
 <programme start="20250709204500 +0000" stop="20250709211500 +0000" channel="TVCulturaNacional.br"><title>O Mundo de Beakman</title></programme>
 <programme start="20250709211500 +0000" stop="20250709213000 +0000" channel="TVCulturaNacional.br"><title>Irmão do Jorel</title></programme>
@@ -16633,7 +16441,6 @@
 <programme start="20250715143500 +0000" stop="20250715153000 +0000" channel="TVEscola.br"><title>Meu País, Nosso Mundo</title></programme>
 <programme start="20250715153000 +0000" stop="20250715163700 +0000" channel="TVEscola.br"><title>Nova Amazônia</title></programme>
 <programme start="20250715163700 +0000" stop="20250716153100 +0000" channel="TVEscola.br"><title>Doc Universidade</title></programme>
-<programme start="20250709194000 +0000" stop="20250709201000 +0000" channel="TVEspanha.br"><title>Cifras y Letras</title></programme>
 <programme start="20250709201000 +0000" stop="20250709205500 +0000" channel="TVEspanha.br"><title>Valle Salvaje</title></programme>
 <programme start="20250709205500 +0000" stop="20250709214500 +0000" channel="TVEspanha.br"><title>La Promesa</title></programme>
 <programme start="20250709214500 +0000" stop="20250709224500 +0000" channel="TVEspanha.br"><title>El Cazador</title></programme>
@@ -17162,7 +16969,6 @@
 <programme start="20250715223000 +0000" stop="20250715230000 +0000" channel="TVSenado.br"><title>Senado Notícias: Boletim</title></programme>
 <programme start="20250715230000 +0000" stop="20250715233000 +0000" channel="TVSenado.br"><title>Agenda Econômica</title></programme>
 <programme start="20250715233000 +0000" stop="20250716000000 +0000" channel="TVSenado.br"><title>Assunto de Estado</title></programme>
-<programme start="20250709193000 +0000" stop="20250709202000 +0000" channel="UniversalTV.br"><title>Chicago Fire</title></programme>
 <programme start="20250709202000 +0000" stop="20250709211000 +0000" channel="UniversalTV.br"><title>Law &amp; Order: Svu</title></programme>
 <programme start="20250709211000 +0000" stop="20250709220000 +0000" channel="UniversalTV.br"><title>Law &amp; Order: Svu</title></programme>
 <programme start="20250709220000 +0000" stop="20250709225000 +0000" channel="UniversalTV.br"><title>Law &amp; Order: Svu</title></programme>
@@ -17337,7 +17143,6 @@
 <programme start="20250715220000 +0000" stop="20250715225000 +0000" channel="UniversalTV.br"><title>Law &amp; Order: Svu</title></programme>
 <programme start="20250715225000 +0000" stop="20250715234000 +0000" channel="UniversalTV.br"><title>Chicago P.D.</title></programme>
 <programme start="20250715234000 +0000" stop="20250716003000 +0000" channel="UniversalTV.br"><title>Chicago P.D.</title></programme>
-<programme start="20250709192300 +0000" stop="20250709201500 +0000" channel="Viva.br"><title>Guerreiros Do Sol</title></programme>
 <programme start="20250709201500 +0000" stop="20250709210200 +0000" channel="Viva.br"><title>Hercai: Amor E Vingança</title></programme>
 <programme start="20250709210200 +0000" stop="20250709213400 +0000" channel="Viva.br"><title>As Crianças Que Amamos</title></programme>
 <programme start="20250709213400 +0000" stop="20250709222000 +0000" channel="Viva.br"><title>Quatro Por Quatro</title></programme>
@@ -17520,8 +17325,6 @@
 <programme start="20250715222000 +0000" stop="20250715230500 +0000" channel="Viva.br"><title>Por Amor</title></programme>
 <programme start="20250715230500 +0000" stop="20250715235500 +0000" channel="Viva.br"><title>Além Do Tempo</title></programme>
 <programme start="20250715235500 +0000" stop="20250716004500 +0000" channel="Viva.br"><title>O Amor Invencível</title></programme>
-<programme start="20250709192800 +0000" stop="20250709195200 +0000" channel="WarnerChannel.br"><title>Two and a Half Men</title></programme>
-<programme start="20250709195200 +0000" stop="20250709202200 +0000" channel="WarnerChannel.br"><title>Cobra Kai</title></programme>
 <programme start="20250709202200 +0000" stop="20250709210600 +0000" channel="WarnerChannel.br"><title>The Vampire Diaries</title></programme>
 <programme start="20250709210600 +0000" stop="20250709215200 +0000" channel="WarnerChannel.br"><title>The Vampire Diaries</title></programme>
 <programme start="20250709215200 +0000" stop="20250709221200 +0000" channel="WarnerChannel.br"><title>Young Sheldon</title></programme>
@@ -17839,7 +17642,6 @@
 <programme start="20250715225500 +0000" stop="20250715231800 +0000" channel="WarnerChannel.br"><title>Young Sheldon</title></programme>
 <programme start="20250715231800 +0000" stop="20250715233800 +0000" channel="WarnerChannel.br"><title>The Big Bang Theory</title></programme>
 <programme start="20250715233800 +0000" stop="20250716000200 +0000" channel="WarnerChannel.br"><title>The Big Bang Theory</title></programme>
-<programme start="20250709193000 +0000" stop="20250709200000 +0000" channel="WooHoo.br"><title>Free Surf</title></programme>
 <programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="WooHoo.br"><title>Streamerland</title></programme>
 <programme start="20250709210000 +0000" stop="20250709211500 +0000" channel="WooHoo.br"><title>Dose Dupla</title></programme>
 <programme start="20250709211500 +0000" stop="20250709213000 +0000" channel="WooHoo.br"><title>Top Ranking</title></programme>
