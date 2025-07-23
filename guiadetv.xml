@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="23-07-2025 14:23:28">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="23-07-2025 14:39:58">
 <channel id="ae"><display-name>A&amp;E</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/guiadetv/ae.png"/></channel>
 <channel id="agro"><display-name>Agro+</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/guiadetv/agro.png"/></channel>
 <channel id="amc"><display-name>AMC</display-name><icon src="https://raw.github.com/Neywerson/icon-tv-brazil/main/guiadetv/amc.png"/></channel>
@@ -196,9 +196,8 @@
 <programme start="20250726010100 +0000" stop="20250726015000 +0000" channel="ae"><title>Bosch : T2 EP4 - Quem É o Sortudo Agora?</title></programme>
 <programme start="20250726015000 +0000" stop="20250726023800 +0000" channel="ae"><title>Operação Policial : T3 EP4 - Suspeito de Pedofilia</title></programme>
 <programme start="20250726023800 +0000" stop="20250726030800 +0000" channel="ae"><title>Linha de Combate</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="agro"><title>Agrotarde</title><desc>Saiba tudo sobre o panorama dos mercados, produtos e as tendências do agronegócio.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723200000 +0000" channel="agro"><title>Dia Dia Rural</title><desc>Entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo.</desc></programme>
-<programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="agro"><title>Agro+ 17 Horas</title><category>Jornalismo</category></programme>
+<programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="agro"><title>Agro+ 17 Horas</title><desc>Acompanhe atualizações das informações do dia, o fechamento dos mercados e a previsão do tempo.</desc><category>Jornalismo</category></programme>
 <programme start="20250723220000 +0000" stop="20250723223000 +0000" channel="agro"><title>Todos os Grãos</title><category>Jornalismo</category></programme>
 <programme start="20250723223000 +0000" stop="20250723230000 +0000" channel="agro"><title>Ação Sustentável</title></programme>
 <programme start="20250723230000 +0000" stop="20250723233000 +0000" channel="agro"><title>AgroAmérica</title></programme>
@@ -322,9 +321,8 @@
 <programme start="20250725225000 +0000" stop="20250726010000 +0000" channel="amc"><title>Ben-Hur</title></programme>
 <programme start="20250726010000 +0000" stop="20250726025000 +0000" channel="amc"><title>Hércules</title></programme>
 <programme start="20250726025000 +0000" stop="20250726032000 +0000" channel="amc"><title>Operação Valquíria</title></programme>
-<programme start="20250723172800 +0000" stop="20250723182300 +0000" channel="animal-planet"><title>Veterinário das Montanhas : T8 EP1 - Uma Nova Aventura</title><desc>Dr. Jeff e sua equipe erguem as mangas para transformar um restaurante abandonado em uma clínica para servir a comunidade da montanha; Dr. Baier trata um papagaio e o Dr. Jeff tenta salvar um Yorkshire de uma amputação.</desc></programme>
 <programme start="20250723182300 +0000" stop="20250723191800 +0000" channel="animal-planet"><title>Veterinários do Texas</title><desc>As aves de rapina da Feira da Renascença precisam ser vacinadas; Piper, o dachshund enérgico não está tão animado; o doutor Ross ajuda Tesla, uma tartaruga com o bico fraturado.</desc></programme>
-<programme start="20250723191800 +0000" stop="20250723201300 +0000" channel="animal-planet"><title>Veterinários do Texas : T6 EP6 - Cachorro Hermafrodita</title></programme>
+<programme start="20250723191800 +0000" stop="20250723201300 +0000" channel="animal-planet"><title>Veterinários do Texas : T6 EP6 - Cachorro Hermafrodita</title><desc>O doutor Lavigne faz uma cirurgia incomum em um cachorro hermafrodita; um dragão-barbudo luta contra uma doença de pele, e o doutor Ross precisa tratá-lo antes que o problema se agrave.</desc></programme>
 <programme start="20250723201300 +0000" stop="20250723210600 +0000" channel="animal-planet"><title>Pesca Mortal : T11 EP5 - Super Tufão</title></programme>
 <programme start="20250723210600 +0000" stop="20250723215900 +0000" channel="animal-planet"><title>Pesca Mortal : T11 EP6 - Talento Desperdiçado</title></programme>
 <programme start="20250723215900 +0000" stop="20250723225600 +0000" channel="animal-planet"><title>MegaTubarões: Recifes Perigosos</title></programme>
@@ -456,9 +454,8 @@
 <programme start="20250725233000 +0000" stop="20250726003000 +0000" channel="arte-1"><title>Arte na Tecnologia : T3 EP4 - Perseguindo Imagens</title></programme>
 <programme start="20250726003000 +0000" stop="20250726020000 +0000" channel="arte-1"><title>Jane Birkin - Live in Bataclan 1987</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="arte-1"><title>O Crepúsculo</title></programme>
-<programme start="20250723174000 +0000" stop="20250723183000 +0000" channel="axn"><title>CSI: Miami : T6 EP11 - Guerillas in the Mist</title><desc>Quando uma metralhadora rara e ilegal &quot;desintegra&quot; três contrabandistas de armas, a equipe CSI vai, desesperadamente, em busca dessa terrível arma.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723192000 +0000" channel="axn"><title>CSI: Miami : T6 EP12 - Miami Confidential</title><desc>Em uma investigação de homicídio a equipe CSI descobre um laboratório de drogas no apartamento da vítima; um inescrupuloso agente do FBI tem uma vida secreta.</desc></programme>
-<programme start="20250723192000 +0000" stop="20250723201000 +0000" channel="axn"><title>CSI: Miami : T6 EP13 - Raising Caine</title></programme>
+<programme start="20250723192000 +0000" stop="20250723201000 +0000" channel="axn"><title>CSI: Miami : T6 EP13 - Raising Caine</title><desc>A ex-esposa de Horatio, a mãe de Kyle, reaparece como a viúva de um bilionário, que fará qualquer coisa para conseguir seu filho de volta.</desc></programme>
 <programme start="20250723201000 +0000" stop="20250723210000 +0000" channel="axn"><title>CSI: Miami : T6 EP14 - You May Now Kill the Bride</title></programme>
 <programme start="20250723210000 +0000" stop="20250723215000 +0000" channel="axn"><title>CSI: Miami : T6 EP15 - Ambush</title></programme>
 <programme start="20250723215000 +0000" stop="20250723224000 +0000" channel="axn"><title>CSI: Miami : T6 EP16 - All In</title></programme>
@@ -716,9 +713,8 @@
 <programme start="20250725233000 +0000" stop="20250726003000 +0000" channel="bandnews"><title>Jornal da Band</title><category>Jornalismo</category></programme>
 <programme start="20250726003000 +0000" stop="20250726023000 +0000" channel="bandnews"><title>Edição da Noite</title><category>Jornalismo</category></programme>
 <programme start="20250726023000 +0000" stop="20250726030000 +0000" channel="bandnews"><title>BandNews Docs</title></programme>
-<programme start="20250723170000 +0000" stop="20250723183000 +0000" channel="bandsports"><title>AO VIVO Debate Pronto</title><desc>Além das análises e debates com o trio de especialistas, o programa contará com uma rede de dez repórteres espalhados pelo Brasil, garantindo ampla cobertura dos principais clubes do país e dos clássicos interestaduais.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723200000 +0000" channel="bandsports"><title>AO VIVO Sala do Esporte</title><desc>Veja tudo o que aconteceu em rodadas esportivas mundo afora, de maneira descontraída e bem-humorada.</desc></programme>
-<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="bandsports"><title>Donos da Bola</title></programme>
+<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="bandsports"><title>Donos da Bola</title><desc>Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais.</desc></programme>
 <programme start="20250723210000 +0000" stop="20250723230000 +0000" channel="bandsports"><title>AO VIVO Bola Rolando</title></programme>
 <programme start="20250723230000 +0000" stop="20250724000000 +0000" channel="bandsports"><title>AO VIVO Esporte Agora</title></programme>
 <programme start="20250724000000 +0000" stop="20250724010000 +0000" channel="bandsports"><title>Supermotor</title></programme>
@@ -868,9 +864,8 @@
 <programme start="20250730003000 +0000" stop="20250730013000 +0000" channel="bandsports"><title>AO VIVO Esporte Agora</title></programme>
 <programme start="20250730013000 +0000" stop="20250730023000 +0000" channel="bandsports"><title>Papo de Paddock</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="bandsports"><title>AO VIVO Depois do Jogo</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="bbc-world"><title>The World Today with Maryam Moshiri</title><desc>Maryam Moshiri apresenta o melhor do jornalismo da BBC ao redor do mundo.</desc><category>Jornalismo</category></programme>
 <programme start="20250723183000 +0000" stop="20250723190000 +0000" channel="bbc-world"><title>The World Today with Maryam Moshiri</title><desc>Maryam Moshiri apresenta o melhor do jornalismo da BBC ao redor do mundo.</desc><category>Jornalismo</category></programme>
-<programme start="20250723190000 +0000" stop="20250723193000 +0000" channel="bbc-world"><title>The Context</title><category>Jornalismo</category></programme>
+<programme start="20250723190000 +0000" stop="20250723193000 +0000" channel="bbc-world"><title>The Context</title><desc>Um painel regular de convidados de todo o espectro político discute as maiores histórias internacionais do dia, juntamente com entrevistas e análises de correspondentes da BBC em todo o mundo.</desc><category>Jornalismo</category></programme>
 <programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="bbc-world"><title>The Context</title><category>Jornalismo</category></programme>
 <programme start="20250723200000 +0000" stop="20250723203000 +0000" channel="bbc-world"><title>The Context USA</title><category>Jornalismo</category></programme>
 <programme start="20250723203000 +0000" stop="20250723210000 +0000" channel="bbc-world"><title>The Context USA</title><category>Jornalismo</category></programme>
@@ -1247,10 +1242,8 @@
 <programme start="20250726010000 +0000" stop="20250726013000 +0000" channel="bloomberg"><title>The David Rubenstein Show: Peer to Peer Conversations</title></programme>
 <programme start="20250726013000 +0000" stop="20250726020000 +0000" channel="bloomberg"><title>Bloomberg Originals</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="bloomberg"><title>Bloomberg Wall Street Week</title></programme>
-<programme start="20250723182000 +0000" stop="20250723182500 +0000" channel="box-kids"><title>Zooparky - Quem Sou Eu? : A Tartaruga</title><desc>Ted, a tartaruga, conta um pouco mais sobre seus costumes e sobre a sua família.</desc></programme>
-<programme start="20250723182500 +0000" stop="20250723183000 +0000" channel="box-kids"><title>Zooparky - Quem Sou Eu? : O Papagaio</title><desc>Saiba mais sobre o papagaio, um bichinho que adora falar.</desc></programme>
-<programme start="20250723183000 +0000" stop="20250723184500 +0000" channel="box-kids"><title>Universo Z : Bolhas de Sabão</title></programme>
-<programme start="20250723184500 +0000" stop="20250723190000 +0000" channel="box-kids"><title>Universo Z : Sítio</title></programme>
+<programme start="20250723183000 +0000" stop="20250723184500 +0000" channel="box-kids"><title>Universo Z : Bolhas de Sabão</title><desc>Zi aprende a fazer bolhas de sabão na escola. Ao chegar em casa, ela decide pesquisar como fazer um recipiente para bolhas de sabão bem diferente para brincar no final de semana.</desc></programme>
+<programme start="20250723184500 +0000" stop="20250723190000 +0000" channel="box-kids"><title>Universo Z : Sítio</title><desc>Zi aprendeu sobre o escritor Monteiro Lobato. Ela precisa fazer uma boneca de pano como lição de casa. SEU P.U. ajuda Zi a pesquisar para saber como fazer sua boneca.</desc></programme>
 <programme start="20250723190000 +0000" stop="20250723190200 +0000" channel="box-kids"><title>Animazoo : Brincadeiras de Criança</title></programme>
 <programme start="20250723190200 +0000" stop="20250723190500 +0000" channel="box-kids"><title>Animazoo : Turminha do Animazoo</title></programme>
 <programme start="20250723190500 +0000" stop="20250723190800 +0000" channel="box-kids"><title>Cante com Bubu : T1 EP1 - Acorda, Criançada!</title></programme>
@@ -2011,9 +2004,8 @@
 <programme start="20250725224500 +0000" stop="20250725230000 +0000" channel="canal-rural"><title>Pecuária em Foco</title></programme>
 <programme start="20250725230000 +0000" stop="20250725230400 +0000" channel="canal-rural"><title>ABCZ Notícias</title><category>Jornalismo</category></programme>
 <programme start="20250725230400 +0000" stop="20250725233400 +0000" channel="canal-rural"><title>Leilão</title></programme>
-<programme start="20250723175000 +0000" stop="20250723183000 +0000" channel="cancao-nova"><title>Terço da Misericórdia</title><desc>Acompanhe a recitação do terço da misericórdia e meditação de um trecho do diário de Santa Faustina.</desc><category>Religioso</category></programme>
 <programme start="20250723183000 +0000" stop="20250723193000 +0000" channel="cancao-nova"><title>Nossa Missão É Evangelizar</title><desc>Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</desc><category>Religioso</category></programme>
-<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="cancao-nova"><title>Fazendo Esperança</title><category>Religioso</category></programme>
+<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="cancao-nova"><title>Fazendo Esperança</title><desc>Conheça o trabalho desenvolvido pela comunidade terapêutica junto a pessoas com dependência química na Fazenda da Esperança, associação de fiéis reconhecida pela Igreja Católica.</desc><category>Religioso</category></programme>
 <programme start="20250723200000 +0000" stop="20250723202800 +0000" channel="cancao-nova"><title>Cantinho da Criança</title></programme>
 <programme start="20250723202800 +0000" stop="20250723203000 +0000" channel="cancao-nova"><title>Boletim do Jornalismo</title><category>Religioso</category></programme>
 <programme start="20250723203000 +0000" stop="20250723205000 +0000" channel="cancao-nova"><title>A Bíblia no Meu Dia a Dia</title><category>Religioso</category></programme>
@@ -2194,10 +2186,8 @@
 <programme start="20250725233000 +0000" stop="20250726000000 +0000" channel="cartoon-network"><title>Megamente Domina!</title></programme>
 <programme start="20250726000000 +0000" stop="20250726020000 +0000" channel="cartoon-network"><title>Cine Cartoon</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="cartoon-network"><title>Tom &amp; Jerry - O Filme</title></programme>
-<programme start="20250723181300 +0000" stop="20250723182500 +0000" channel="cartoonito"><title>Perninha em Obras : T1 EP14 - Pé Grande</title><desc>O prefeito Frangolino contrata os construtores para construir uma roda hidráulica na floresta, mas Gaguinho está preocupado com uma criatura mítica chamada Pé Grande.</desc></programme>
-<programme start="20250723182500 +0000" stop="20250723183700 +0000" channel="cartoonito"><title>Perninha em Obras : T1 EP28 - O Caminhão da Baleia</title><desc>Os Looney Builders tentam ajudar Winston Whale construindo um caminhão de correio, mas Winston está acostumado a trabalhar sozinho.</desc></programme>
-<programme start="20250723183700 +0000" stop="20250723184900 +0000" channel="cartoonito"><title>Batwheels : T2 EP10 - Multi-Meca</title></programme>
-<programme start="20250723184900 +0000" stop="20250723190000 +0000" channel="cartoonito"><title>Batwheels : T2 - Uma Aventura T-Rexcelente</title></programme>
+<programme start="20250723183700 +0000" stop="20250723184900 +0000" channel="cartoonito"><title>Batwheels : T2 EP10 - Multi-Meca</title><desc>Os Batwheels usam sua máquina duplicadora para fazer cópias de seu bot de reparo e aliviar o fardo do MOE, mas a Batcaverna é invadida quando a máquina quebra.</desc></programme>
+<programme start="20250723184900 +0000" stop="20250723190000 +0000" channel="cartoonito"><title>Batwheels : T2 - Uma Aventura T-Rexcelente</title><desc>O vilão supergênio Egghead está à solta, planejando usar o famoso ovo gigante do Museu de Gotham para bater o recorde de maior café da manhã.</desc></programme>
 <programme start="20250723190000 +0000" stop="20250723190700 +0000" channel="cartoonito"><title>Oi, Duggee! : T4 EP7 - O Primeiro Dia de Tag</title></programme>
 <programme start="20250723190700 +0000" stop="20250723191500 +0000" channel="cartoonito"><title>Oi, Duggee! : T4 EP11 - O Distintivo dos Bichinhos</title></programme>
 <programme start="20250723191500 +0000" stop="20250723192200 +0000" channel="cartoonito"><title>Oi, Duggee! : T4 EP1 - O Primeiro Dia de Norrie</title></programme>
@@ -2491,9 +2481,8 @@
 <programme start="20250729155000 +0000" stop="20250729195000 +0000" channel="combate"><title>Programação Combate</title></programme>
 <programme start="20250729195000 +0000" stop="20250729235000 +0000" channel="combate"><title>Programação Combate</title></programme>
 <programme start="20250729235000 +0000" stop="20250730002000 +0000" channel="combate"><title>Programação Combate</title></programme>
-<programme start="20250723181500 +0000" stop="20250723183500 +0000" channel="comedy-central"><title>O Rei do Bairro : T9 EP3 - Coragem Idiota</title><desc>Doug tenta provar para Carrie que é mais do que um simples motorista quando seu chefe sai de licença e o coloca como o novo supervisor; Carrie fica indignada com um colega de trabalho que rouba toda a atenção de seus chefes.</desc></programme>
 <programme start="20250723183500 +0000" stop="20250723190000 +0000" channel="comedy-central"><title>O Rei do Bairro : T9 EP5 - Confusão</title><desc>Magoado por não ter sido convidado para uma festa do quarteirão, Doug decide adotar um cachorro vira-lata só para provar aos vizinhos que é um cara legal. Mas as coisas não saem como o esperado e Doug logo começa a se arrepender dessa decisão.</desc></programme>
-<programme start="20250723190000 +0000" stop="20250723192000 +0000" channel="comedy-central"><title>As Regras do Amor : T5 EP17 - Zigoto</title></programme>
+<programme start="20250723190000 +0000" stop="20250723192000 +0000" channel="comedy-central"><title>As Regras do Amor : T5 EP17 - Zigoto</title><desc>Jeff, Audrey e a mãe de aluguel visitam um especialista em feritilidade; Timmy and Russel vão em um encontro duplo.</desc></programme>
 <programme start="20250723192000 +0000" stop="20250723194500 +0000" channel="comedy-central"><title>As Regras do Amor : T5 EP18 - Frango de Aniversário</title></programme>
 <programme start="20250723194500 +0000" stop="20250723200500 +0000" channel="comedy-central"><title>A Boa Vizinhança : T1 EP14 - Bem-Vindos à Venda de Garagem</title></programme>
 <programme start="20250723200500 +0000" stop="20250723202500 +0000" channel="comedy-central"><title>A Boa Vizinhança : T1 EP15 - Bem-Vindos ao Trabalho do Malcolm</title></programme>
@@ -2720,9 +2709,8 @@
 <programme start="20250725233000 +0000" stop="20250726010000 +0000" channel="curta"><title>O Outro Lado da Moeda</title></programme>
 <programme start="20250726010000 +0000" stop="20250726020000 +0000" channel="curta"><title>Homo Plasticus - O Plástico Dentro de Nós</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="curta"><title>A Ética do Silêncio : Sob o Signo do Silêncio da Democracia Racial</title></programme>
-<programme start="20250723174100 +0000" stop="20250723183100 +0000" channel="discovery-channel"><title>Largados e Pelados - Latinos : T3 EP4 - O Preço de uma Decisão</title><desc>Após vários dias sem comer proteína, alguns sobrevivencialistas começam a se desesperar. Um deles se arrisca tentando caçar um jacaré, enquanto outro, doente e sozinho, inicia uma jornada solitária que pode custar caro.</desc></programme>
 <programme start="20250723183100 +0000" stop="20250723192100 +0000" channel="discovery-channel"><title>Desafio em Dose Dupla : T6 EP4 - Bolívia</title><desc>Joe e Matt enfrentam uma jornada de proporções épicas nos Andes bolivianos. Do maior salar do mundo, passando por um deserto com água tóxica e pelos picos das montanhas, eles enfrentam uma batalha constante contra a desidratação e a altitude.</desc></programme>
-<programme start="20250723192100 +0000" stop="20250723201100 +0000" channel="discovery-channel"><title>Desafio em Dose Dupla - Brasil : T3 EP2 - Vetas</title></programme>
+<programme start="20250723192100 +0000" stop="20250723201100 +0000" channel="discovery-channel"><title>Desafio em Dose Dupla - Brasil : T3 EP2 - Vetas</title><desc>Tigre e Rene enfrentam os perigos extremos das montanhas de Vetas, uma região ao norte da Colômbia, onde o terreno íngreme e hostil.</desc></programme>
 <programme start="20250723201100 +0000" stop="20250723210100 +0000" channel="discovery-channel"><title>Ed Stafford, o Sobrevivente : T4 EP1 - Rio Orinoco - Reserva Bojonawi</title></programme>
 <programme start="20250723210100 +0000" stop="20250723215000 +0000" channel="discovery-channel"><title>Ed Stafford, o Sobrevivente : T4 EP2 - Montanha Changbai</title></programme>
 <programme start="20250723215000 +0000" stop="20250723224000 +0000" channel="discovery-channel"><title>Largados e Pelados : T3 EP2 - Namíbia</title></programme>
@@ -2802,9 +2790,8 @@
 <programme start="20250726002300 +0000" stop="20250726011500 +0000" channel="discovery-channel"><title>Largados e Pelados - Latinos : T1 EP4 - Sobreviva ao Parceiro!</title></programme>
 <programme start="20250726011500 +0000" stop="20250726021200 +0000" channel="discovery-channel"><title>Sete Mundos, um Planeta : T1 EP2 - Ásia</title></programme>
 <programme start="20250726021200 +0000" stop="20250726024200 +0000" channel="discovery-channel"><title>Éden : T1 EP1 - Bornéu - Floresta Sagrada</title></programme>
-<programme start="20250723174500 +0000" stop="20250723183600 +0000" channel="discovery-home-health"><title>100 Dias para Morar - Começando do Zero : T2 EP5 - A Sétima Casa</title><desc>Uma família morou em seis casas diferentes nos últimos dez anos. Brian e Mika ajudam a família a construir um lar definitivo. Quando seus planos caem por terra, eles precisam se desdobrar para decepcionar os clientes.</desc></programme>
 <programme start="20250723183600 +0000" stop="20250723192600 +0000" channel="discovery-home-health"><title>De Casa Nova : T9 EP6 - Chalé Mais Espaçoso</title><desc>Uma mulher, suas duas filhas e os cães que elas resgatam precisam de mais espaço em seu chalé pequeno e rústico. Ben e Erin pretendem construir um quarto para a mãe e uma cozinha com detalhes escandinavos.</desc></programme>
-<programme start="20250723192600 +0000" stop="20250723210700 +0000" channel="discovery-home-health"><title>Quilos Mortais - Como Eles Estão Agora? : T5 EP4 - A História de Sean</title></programme>
+<programme start="20250723192600 +0000" stop="20250723210700 +0000" channel="discovery-home-health"><title>Quilos Mortais - Como Eles Estão Agora? : T5 EP4 - A História de Sean</title><desc>No quarto ano de sua jornada de emagrecimento, Sean luta para superar a morte da mãe. O Dr. Now intervém para conter a compulsão alimentar de Sean, mas ele precisa se controlar para não sofrer consequências graves.</desc></programme>
 <programme start="20250723210700 +0000" stop="20250723215700 +0000" channel="discovery-home-health"><title>Irmãos à Obra - Lar Sempre Lar : T3 EP13 - Bairro Antigo, Casa Nova</title></programme>
 <programme start="20250723215700 +0000" stop="20250723224800 +0000" channel="discovery-home-health"><title>Irmãos à Obra - Lar Sempre Lar : T3 EP14 - Casa Herança de Família</title></programme>
 <programme start="20250723224800 +0000" stop="20250723233800 +0000" channel="discovery-home-health"><title>Irmãos à Obra - Compra e Venda : T6 EP1 - Paul e Julie</title></programme>
@@ -2864,9 +2851,8 @@
 <programme start="20250725234800 +0000" stop="20250726012900 +0000" channel="discovery-home-health"><title>Pesadelo na Cozinha : T1 EP1 - Escondidinho da Amada</title></programme>
 <programme start="20250726012900 +0000" stop="20250726021700 +0000" channel="discovery-home-health"><title>Chefs de Alto Nível com Gordon Ramsay : T4 EP13 - Siga o Seu Instinto</title></programme>
 <programme start="20250726021700 +0000" stop="20250726024700 +0000" channel="discovery-home-health"><title>Superbolos - A Competição : T1 EP3 - Maravilhas Arquitetônicas</title></programme>
-<programme start="20250723181800 +0000" stop="20250723182900 +0000" channel="discovery-kids"><title>Topo Gigio : T2 EP6 - A Brincadeira Preferida do Vovô</title><desc>Vovô Martin visita Zoe e Gigio e traz uma pipa que vai ser fonte de muitos problemas.</desc></programme>
 <programme start="20250723182900 +0000" stop="20250723184100 +0000" channel="discovery-kids"><title>Topo Gigio : T2 EP9 - Babá por um Dia</title><desc>Emy visita Gigio e Zoe enquanto trabalha como babá de seu primo Luis. Gigio e Zoe imediatamente se oferecem para ajudá-la com a tarefa, mas o pequeno Luis consegue colocar as boas intenções de todos à prova.</desc></programme>
-<programme start="20250723184100 +0000" stop="20250723190600 +0000" channel="discovery-kids"><title>Peppa : T1 - Piquenique; O Castelo do Vento; Acampando; O Museu; Na Praia</title></programme>
+<programme start="20250723184100 +0000" stop="20250723190600 +0000" channel="discovery-kids"><title>Peppa : T1 - Piquenique; O Castelo do Vento; Acampando; O Museu; Na Praia</title><desc>A família faz um piquenique; toda a família viaja; a família vai acampar; toda a família visita o museu; Peppa e George adoram ir à praia nos dias quentes.</desc></programme>
 <programme start="20250723190600 +0000" stop="20250723191100 +0000" channel="discovery-kids"><title>Peppa : T8 EP8 - Walkie Talkies</title></programme>
 <programme start="20250723191100 +0000" stop="20250723191600 +0000" channel="discovery-kids"><title>Peppa : T8 EP9 - O Escritório da Peppa</title></programme>
 <programme start="20250723191600 +0000" stop="20250723194200 +0000" channel="discovery-kids"><title>Peppa : T1 - Esconde-Esconde; Brincando de Bobinho; Bicicletas; Soltando Pipa; Caça ao Tesouro</title></programme>
@@ -3288,9 +3274,8 @@
 <programme start="20250726003600 +0000" stop="20250726012400 +0000" channel="discovery-theater"><title>Mistérios da História : T2 EP3 - Fausto, Rainha Pirata e Versailles</title></programme>
 <programme start="20250726012400 +0000" stop="20250726021200 +0000" channel="discovery-theater"><title>Museu Mal-Assombrado : T2 EP6 - O Caixão do Halloween</title></programme>
 <programme start="20250726021200 +0000" stop="20250726024200 +0000" channel="discovery-theater"><title>Museu Mal-Assombrado : T2 EP5 - A Face de Pedra</title></programme>
-<programme start="20250723173400 +0000" stop="20250723182600 +0000" channel="discovery-turbo"><title>Overhaulin&apos;: Os Supercarros : T10 EP4 - Gerações de Camaros</title><desc>As lembranças mais felizes de uma mulher são as longas viagens que fazia com o pai em um Camaro 1969. Depois que ele faleceu, ela manteve acesa a paixão familiar por carros esportivos comprando um Camaro 2015.</desc></programme>
 <programme start="20250723182600 +0000" stop="20250723191800 +0000" channel="discovery-turbo"><title>Carros Irados : T5 EP7 - Bola de Neve</title><desc>Um Chevrolet 1941 que passou por diversas oficinas chega a Kindig It Design para um conserto simples na tampa do porta-malas, mas a situação se complica. Apesar de estar cheia, a oficina recebe uma série de carros quebrados.</desc></programme>
-<programme start="20250723191800 +0000" stop="20250723201000 +0000" channel="discovery-turbo"><title>Corridas de Arrancada - Alabama : T2 EP4 - Construindo uma Lenda</title></programme>
+<programme start="20250723191800 +0000" stop="20250723201000 +0000" channel="discovery-turbo"><title>Corridas de Arrancada - Alabama : T2 EP4 - Construindo uma Lenda</title><desc>Brant Arnold reúne a equipe para recuperar uma lenda local: o dilapidado Camaro 1989 de Jumping Jim Barnett. Enquanto dão vida nova ao carro, eles tentam aprender alguns dos segredos de corrida do velho Jim.</desc></programme>
 <programme start="20250723201000 +0000" stop="20250723203600 +0000" channel="discovery-turbo"><title>4x4 Sob Medida : T2 EP5 - Rebocando</title></programme>
 <programme start="20250723203600 +0000" stop="20250723210200 +0000" channel="discovery-turbo"><title>4x4 Sob Medida : T2 EP6 - Acampamento</title></programme>
 <programme start="20250723210200 +0000" stop="20250723212800 +0000" channel="discovery-turbo"><title>Vida Automotiva : T1 EP3 - Karina Conrado (Citröen DS3)</title></programme>
@@ -3360,9 +3345,8 @@
 <programme start="20250726003000 +0000" stop="20250726012200 +0000" channel="discovery-turbo"><title>Viciado em Motores - Goblin Garage : T1 EP1 - Escort de Rally</title></programme>
 <programme start="20250726012200 +0000" stop="20250726021400 +0000" channel="discovery-turbo"><title>Viciado em Motores : T1 EP1 - Motor do VW Beetle</title></programme>
 <programme start="20250726021400 +0000" stop="20250726024400 +0000" channel="discovery-turbo"><title>Oficinaço : T6 EP1 - Bel Air 1957</title></programme>
-<programme start="20250723181200 +0000" stop="20250723183600 +0000" channel="discovery-world"><title>Paraísos pelo Mundo - Praias : T1 EP8 - Das Montanhas para a Costa</title><desc>Um casal que morava nas montanhas do Colorado sonha em se mudar para a praia e ter um estilo de vida mais tranquilo. Eles procuram uma casa em Portugal que seja a uma caminhada de distância da praia.</desc></programme>
 <programme start="20250723183600 +0000" stop="20250723190000 +0000" channel="discovery-world"><title>Paraísos pelo Mundo - Praias : T1 EP6 - Fixando Raízes na Espanha</title><desc>Uma mulher se apaixona pelo estilo de vida litorâneo e decide fugir do tempo chuvoso da Noruega. Ela acha que a vida agitada em Ibiza, na Espanha, é a melhor escolha para sua carreira e decide se mudar para a ilha com seu filho.</desc></programme>
-<programme start="20250723190000 +0000" stop="20250723192400 +0000" channel="discovery-world"><title>Open House - Casas pelo Mundo : Paris</title></programme>
+<programme start="20250723190000 +0000" stop="20250723192400 +0000" channel="discovery-world"><title>Open House - Casas pelo Mundo : Paris</title><desc>Paris, a Cidade Luz, talvez tenha o maior número de pontos turísticos do mundo. Confira a casa de quatro moradores da capital francesa, como os franceses vivem e quanto custa morar em Paris.</desc></programme>
 <programme start="20250723192400 +0000" stop="20250723194800 +0000" channel="discovery-world"><title>Open House - Casas pelo Mundo : Marrakesh</title></programme>
 <programme start="20250723194800 +0000" stop="20250723201200 +0000" channel="discovery-world"><title>Megamansões : T1 EP4 - Mansão do MGM Grand e Jardins de Westbury</title></programme>
 <programme start="20250723201200 +0000" stop="20250723203600 +0000" channel="discovery-world"><title>Megamansões : Jones Manor e Cravens Estate</title></programme>
@@ -3645,9 +3629,8 @@
 <programme start="20250729230000 +0000" stop="20250730002500 +0000" channel="espn"><title>AO VIVO Sportscenter</title></programme>
 <programme start="20250730002500 +0000" stop="20250730023500 +0000" channel="espn"><title>AO VIVO Goiás x Remo</title></programme>
 <programme start="20250730023500 +0000" stop="20250730030500 +0000" channel="espn"><title>AO VIVO Sportscenter</title></programme>
-<programme start="20250723163000 +0000" stop="20250723183000 +0000" channel="espn-2"><title>Sportscenter</title><desc>O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723203000 +0000" channel="espn-2"><title>VT - Arsenal (ENG) x Milan (ITA)</title><desc>Diferentes equipes se enfrentam em amistosos internacionais.</desc></programme>
-<programme start="20250723203000 +0000" stop="20250723220000 +0000" channel="espn-2"><title>ESPN Filmes: 30 for 30: Empire Skate</title></programme>
+<programme start="20250723203000 +0000" stop="20250723220000 +0000" channel="espn-2"><title>ESPN Filmes: 30 for 30: Empire Skate</title><desc>A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc></programme>
 <programme start="20250723220000 +0000" stop="20250724020000 +0000" channel="espn-2"><title>AO VIVO ATP 500 e WTA 500: Washington</title></programme>
 <programme start="20250724020000 +0000" stop="20250724023000 +0000" channel="espn-2"><title>VT - Arsenal (ENG) x Milan (ITA)</title></programme>
 <programme start="20250724040000 +0000" stop="20250724053000 +0000" channel="espn-2"><title>ESPN Filmes: 30 for 30: Empire Skate</title></programme>
@@ -3956,9 +3939,8 @@
 <programme start="20250729223000 +0000" stop="20250729233000 +0000" channel="espn-4"><title>Bola da Vez</title></programme>
 <programme start="20250729233000 +0000" stop="20250730023000 +0000" channel="espn-4"><title>AO VIVO MLB: Chicago Cubs x Milwaukee Brewers</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="espn-4"><title>Destaques da Conmebol Sulamericana</title></programme>
-<programme start="20250723170000 +0000" stop="20250723183000 +0000" channel="espn-5"><title>Mundial de Motovelocidade: GP da Tchéquia: Sprint: Moto GP</title><desc>Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723210000 +0000" channel="espn-5"><title>ESPN Knockout: Marcelo Sanchez x Nicolas Jara</title><desc>Boxeadores de elite, jovens promessas, cards exclusivos, tudo em um único lugar.</desc></programme>
-<programme start="20250723210000 +0000" stop="20250723230000 +0000" channel="espn-5"><title>Mundial de Motovelocidade: GP da Tchéquia: Moto GP</title></programme>
+<programme start="20250723210000 +0000" stop="20250723230000 +0000" channel="espn-5"><title>Mundial de Motovelocidade: GP da Tchéquia: Moto GP</title><desc>Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc></programme>
 <programme start="20250723230000 +0000" stop="20250724020000 +0000" channel="espn-5"><title>VT - Ciclismo: 2025 Tour de France</title></programme>
 <programme start="20250724020000 +0000" stop="20250724023000 +0000" channel="espn-5"><title>Resenha: Júlio César e Jamelli</title></programme>
 <programme start="20250724030000 +0000" stop="20250724050000 +0000" channel="espn-5"><title>VT - WNBA: Indiana Fever x New York Liberty</title></programme>
@@ -4043,9 +4025,8 @@
 <programme start="20250729230000 +0000" stop="20250730013000 +0000" channel="espn-5"><title>Ciclismo: Tour De France Femmes</title></programme>
 <programme start="20250730013000 +0000" stop="20250730023000 +0000" channel="espn-5"><title>ESPN League</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="espn-5"><title>VT - Kaiserslautern (GER) x Roma (ITA)</title></programme>
-<programme start="20250723163000 +0000" stop="20250723183000 +0000" channel="espn-6"><title>VT - River Plate (ARG) x Barcelona (ESP)</title><desc>Diferentes equipes se enfrentam em amistosos internacionais.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723200000 +0000" channel="espn-6"><title>ESPN Filmes: 30 For 30: I&apos;m Just Here For The Riot</title><desc>A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc></programme>
-<programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="espn-6"><title>VT - WNBA: Indiana Fever x New York Liberty</title></programme>
+<programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="espn-6"><title>VT - WNBA: Indiana Fever x New York Liberty</title><desc>A liga profissional de basquete feminino dos Estados Unidos reúne as melhores jogadoras do mundo. É um torneio com jogadas espetaculares e partidas imperdíveis.</desc></programme>
 <programme start="20250723220000 +0000" stop="20250723233000 +0000" channel="espn-6"><title>ESPN Filmes: 30 for 30: Empire Skate</title></programme>
 <programme start="20250723233000 +0000" stop="20250724013000 +0000" channel="espn-6"><title>VT - Rugby: Amistoso Internacional: Austrália x British &amp; Irish Lions</title></programme>
 <programme start="20250724013000 +0000" stop="20250724020000 +0000" channel="espn-6"><title>Mundial de Motovelocidade: GP da Tchéquia: Sprint: Moto GP</title></programme>
@@ -4788,9 +4769,8 @@
 <programme start="20250730011500 +0000" stop="20250730013000 +0000" channel="futura"><title>Territórios</title></programme>
 <programme start="20250730013000 +0000" stop="20250730020000 +0000" channel="futura"><title>Negros Em Foco</title></programme>
 <programme start="20250730020000 +0000" stop="20250730023000 +0000" channel="futura"><title>Todos nós cinco milhões</title></programme>
-<programme start="20250723174500 +0000" stop="20250723183000 +0000" channel="globo"><title>História de Amor</title><desc>História de Amor&apos; traz a terceira Helena criada pelo autor e a primeira vivida por Regina Duarte. Helena é uma mulher batalhadora e enfrenta a gravidez prematura de sua filha Joyce, abandonada pelo namorado Caio.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723200500 +0000" channel="globo"><title>Sessão da Tarde: A História de Mahalia Jackson</title><desc>A trama é um olhar comovente sobre a vida e ascensão da cantora gospel Mahalia Jackson, trazendo sua luta pela liberdade para o centro das atenções enquanto destaca a busca pessoal de Mahalia pelo amor.</desc></programme>
-<programme start="20250723200500 +0000" stop="20250723201500 +0000" channel="globo"><title>Boletim SP2</title></programme>
+<programme start="20250723200500 +0000" stop="20250723201500 +0000" channel="globo"><title>Boletim SP2</title><desc>Boletim com as principais notícias de São Paulo.</desc></programme>
 <programme start="20250723201500 +0000" stop="20250723210500 +0000" channel="globo"><title>Vale a Pena Ver de Novo: A Viagem</title></programme>
 <programme start="20250723210500 +0000" stop="20250723214500 +0000" channel="globo"><title>Êta Mundo Melhor</title></programme>
 <programme start="20250723214500 +0000" stop="20250723221500 +0000" channel="globo"><title>SP2</title></programme>
@@ -5030,9 +5010,8 @@
 <programme start="20250729230000 +0000" stop="20250730010000 +0000" channel="globo-news"><title>GloboNews Em Pauta</title></programme>
 <programme start="20250730010000 +0000" stop="20250730023000 +0000" channel="globo-news"><title>Jornal das Dez</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="globo-news"><title>Roberto D&apos;Avila</title></programme>
-<programme start="20250723181600 +0000" stop="20250723183900 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title><desc>Julien inventa uma mega-desculpa para explicar por que ele arruinou uma festa de aniversário.</desc></programme>
 <programme start="20250723183900 +0000" stop="20250723190200 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title><desc>Julien inventa uma mega-desculpa para explicar por que ele arruinou uma festa de aniversário.</desc></programme>
-<programme start="20250723190200 +0000" stop="20250723192500 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title></programme>
+<programme start="20250723190200 +0000" stop="20250723192500 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title><desc>O Rei Julien tem uma ideia brilhante: domar uma fosa para manter a paz no reino. Será que ele consegue?</desc></programme>
 <programme start="20250723192500 +0000" stop="20250723194800 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title></programme>
 <programme start="20250723194800 +0000" stop="20250723201100 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title></programme>
 <programme start="20250723201100 +0000" stop="20250723202300 +0000" channel="gloob"><title>Tara Duncan</title></programme>
@@ -5468,9 +5447,8 @@
 <programme start="20250730021500 +0000" stop="20250730022600 +0000" channel="gloob"><title>Alvinnn!!! E Os Esquilos</title></programme>
 <programme start="20250730022600 +0000" stop="20250730024900 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title></programme>
 <programme start="20250730024900 +0000" stop="20250730031900 +0000" channel="gloob"><title>Saúdem Todos O Rei Julien</title></programme>
-<programme start="20250723182000 +0000" stop="20250723183000 +0000" channel="gloobinho"><title>O Pequeno Príncipe E Seus Amigos</title><desc>Para resolver o problema do egoísmo de Elias, o Pequeno Príncipe leva as crianças a um planeta cheio de bolas de gude. Mas, uma Cobra coleta todas elas e não pretende dividir!</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723184000 +0000" channel="gloobinho"><title>O Pequeno Príncipe E Seus Amigos</title><desc>Charlotte tira uma nota baixa pela primeira vez. Para animá-la, o Pequeno Príncipe decide visitar um planeta no qual poças deslizam em uma montanha de cristal para fazer música.</desc></programme>
-<programme start="20250723184000 +0000" stop="20250723185000 +0000" channel="gloobinho"><title>Alice &amp; Lewis</title></programme>
+<programme start="20250723184000 +0000" stop="20250723185000 +0000" channel="gloobinho"><title>Alice &amp; Lewis</title><desc>O País das Maravilhas entra em pânico quando descobrem que o castelo da Rainha se deslocou e agora está totalmente instável! Todos juntos para salvar o Reino!</desc></programme>
 <programme start="20250723185000 +0000" stop="20250723190000 +0000" channel="gloobinho"><title>Alice &amp; Lewis</title></programme>
 <programme start="20250723190000 +0000" stop="20250723191000 +0000" channel="gloobinho"><title>Ursinhos Carinhosos</title></programme>
 <programme start="20250723191000 +0000" stop="20250723192000 +0000" channel="gloobinho"><title>Ursinhos Carinhosos</title></programme>
@@ -7115,9 +7093,8 @@
 <programme start="20250729224200 +0000" stop="20250729230800 +0000" channel="hbo-xtreme"><title>Câmera Entre Balas</title></programme>
 <programme start="20250729230800 +0000" stop="20250730010800 +0000" channel="hbo-xtreme"><title>O Livro de Eli</title></programme>
 <programme start="20250730010800 +0000" stop="20250730013800 +0000" channel="hbo-xtreme"><title>O Vingador do Futuro</title></programme>
-<programme start="20250723173900 +0000" stop="20250723182700 +0000" channel="hgtv"><title>Reforma com R Maiúsculo : T1 EP4 - Luta, Fuga ou Fogo</title><desc>Cristy está ansiosa para mostrar a um casal duas oportunidades de casas extremamente acessíveis, mas enquanto uma propriedade precisa de mais trabalho do que qualquer outra casa que ela mostrou, a outra quase não resistiu após um incêndio devastador.</desc></programme>
 <programme start="20250723182700 +0000" stop="20250723191700 +0000" channel="hgtv"><title>Piscinas Incríveis : T2 EP1 - Uma Floresta para Chamar de Sua</title><desc>O designer de piscinas Lucas Congdon e sua equipe encaram o desafio de criar uma floresta no quintal de uma casa no subúrbio.</desc></programme>
-<programme start="20250723191700 +0000" stop="20250723194000 +0000" channel="hgtv"><title>Restaurando Fachadas : T25 EP13 - Surpresa no Texas</title></programme>
+<programme start="20250723191700 +0000" stop="20250723194000 +0000" channel="hgtv"><title>Restaurando Fachadas : T25 EP13 - Surpresa no Texas</title><desc>Uma viagem ao Texas para transformar um quarteirão inteiro de casas com fachadas sem personalidade.</desc></programme>
 <programme start="20250723194000 +0000" stop="20250723200400 +0000" channel="hgtv"><title>Restaurando Fachadas : T26 EP1 - Estilo Industrial</title></programme>
 <programme start="20250723200400 +0000" stop="20250723202700 +0000" channel="hgtv"><title>Desafio da Renovação : T4 EP1 - O Encontro Perfeito</title></programme>
 <programme start="20250723202700 +0000" stop="20250723205000 +0000" channel="hgtv"><title>Desafio da Renovação : T3 EP19 - Segure Seu Chapéu</title></programme>
@@ -7738,9 +7715,8 @@
 <programme start="20250729161000 +0000" stop="20250729201000 +0000" channel="megapix"><title>Programação Megapix</title></programme>
 <programme start="20250729201000 +0000" stop="20250730001000 +0000" channel="megapix"><title>Programação Megapix</title></programme>
 <programme start="20250730001000 +0000" stop="20250730004000 +0000" channel="megapix"><title>Programação Megapix</title></programme>
-<programme start="20250723180000 +0000" stop="20250723182500 +0000" channel="mtv"><title>Ridiculousness : T39 EP39 - Sterling e Nina Agdal LXXVIII</title><desc>Rob, Steelo e a convidada especial Nina Agdal sonham, limpam alguns desastres e surtam com alguém.</desc></programme>
 <programme start="20250723182500 +0000" stop="20250723191000 +0000" channel="mtv"><title>Catfish : T7 EP11 - Kiaira e Cortney</title><desc>Kiaira pede ajuda para Nev e Max para conseguir encontrar seu amor virtual, Cortney. As duas têm até mesmo um bebê, mas Cortney sempre tem desculpas para as duas não se encontrarem.</desc></programme>
-<programme start="20250723191000 +0000" stop="20250723195500 +0000" channel="mtv"><title>Catfish : T7 EP15 - Chelsea &amp; Charles</title></programme>
+<programme start="20250723191000 +0000" stop="20250723195500 +0000" channel="mtv"><title>Catfish : T7 EP15 - Chelsea &amp; Charles</title><desc>Nev e Max concordam em ajudar Chelsea a finalmente conhecer seu namorado virtual, Charles, em pessoa; apesar de Chelsea só ter conversado com Charles uma vez pelo telefone, seus amigos lhe mostram que uma imagem vale mais do que mil palavras.</desc></programme>
 <programme start="20250723195500 +0000" stop="20250723203500 +0000" channel="mtv"><title>Catfish : T7 EP17 - Derek &amp; Annabelle</title></programme>
 <programme start="20250723203500 +0000" stop="20250723212500 +0000" channel="mtv"><title>Catfish : T8 EP17 - Zay &amp; Jayda</title></programme>
 <programme start="20250723212500 +0000" stop="20250723221500 +0000" channel="mtv"><title>Catfish : T3 EP2 - Antwane &amp; Tony</title></programme>
@@ -7817,9 +7793,8 @@
 <programme start="20250726010000 +0000" stop="20250726015000 +0000" channel="mtv"><title>Austrália Shore : T1 EP6 - Saco de Vinho</title></programme>
 <programme start="20250726015000 +0000" stop="20250726023000 +0000" channel="mtv"><title>Pego no Pulo - Infiel : T2 EP3 - Nós Temos Cachorros em Casa</title></programme>
 <programme start="20250726023000 +0000" stop="20250726030000 +0000" channel="mtv"><title>Pego no Pulo - Infiel : T1 EP4 - Um Apetite Insaciável pelo Sucesso</title></programme>
-<programme start="20250723175000 +0000" stop="20250723183500 +0000" channel="mtv-live"><title>Storytellers : T2 - Billy Joel: Volume II</title><desc>Billy Joel toca &quot;Matter of Trust&quot;, &quot;Hard Days Night&quot; e a abertura de &quot;Eroica&quot;.</desc></programme>
 <programme start="20250723183500 +0000" stop="20250723200000 +0000" channel="mtv-live"><title>HD Hits</title><desc>Veja os melhores videoclipes, apresentados com a qualidade e definição de imagem insuperáveis.</desc></programme>
-<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="mtv-live"><title>MTV Rewind : EP1 - 2017</title></programme>
+<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="mtv-live"><title>MTV Rewind : EP1 - 2017</title><desc>Relembre os principais hits de sucesso do ano de 2017.</desc></programme>
 <programme start="20250723210000 +0000" stop="20250723220500 +0000" channel="mtv-live"><title>Best Live Acts On The Planet with Jack Saunders!</title></programme>
 <programme start="20250723220500 +0000" stop="20250723230000 +0000" channel="mtv-live"><title>MTV Live Vault!</title></programme>
 <programme start="20250723230000 +0000" stop="20250723235500 +0000" channel="mtv-live"><title>Rock.Alt.Indie</title></programme>
@@ -7870,9 +7845,8 @@
 <programme start="20250725230000 +0000" stop="20250726000000 +0000" channel="mtv-live"><title>Rock.Alt.Indie</title></programme>
 <programme start="20250726000000 +0000" stop="20250726013000 +0000" channel="mtv-live"><title>2024 MTV EMAs</title></programme>
 <programme start="20250726013000 +0000" stop="20250726020000 +0000" channel="mtv-live"><title>HD Hits</title></programme>
-<programme start="20250723175900 +0000" stop="20250723182800 +0000" channel="multishow"><title>Volte Sempre</title><desc>Programa de esquetes semanal que tem como cenário a galeria Tem de Tudo, um centro comercial que já viveu dias melhores, mas hoje é um lugar decadente por onde transitam nossos personagens.</desc></programme>
 <programme start="20250723182800 +0000" stop="20250723185800 +0000" channel="multishow"><title>Tô De Graça</title><desc>Craudio, precisando de mais grana precisa arrumar um trabalho e precisa ir embora da comunidade.Graça então, inventa uma obra no segundo andar da sua casa para que o &quot;faz tudo&quot; continue por perto.</desc></programme>
-<programme start="20250723185800 +0000" stop="20250723194700 +0000" channel="multishow"><title>Vai Que Cola</title></programme>
+<programme start="20250723185800 +0000" stop="20250723194700 +0000" channel="multishow"><title>Vai Que Cola</title><desc>Sidlayne precisa de uma cantora e uma dupla sertaneja para o show de inauguração de uma ponte. Terezinha, Jéssica, Zé Zélio, Lindomar, Ferdinando e Alejandro disputam pelas vagas.</desc></programme>
 <programme start="20250723194700 +0000" stop="20250723202600 +0000" channel="multishow"><title>Tapas E Beijos</title></programme>
 <programme start="20250723202600 +0000" stop="20250723210000 +0000" channel="multishow"><title>Tapas E Beijos</title></programme>
 <programme start="20250723210000 +0000" stop="20250723213000 +0000" channel="multishow"><title>Tvz</title></programme>
@@ -8113,9 +8087,8 @@
 <programme start="20250730013000 +0000" stop="20250730020000 +0000" channel="multishow"><title>Volte Sempre</title></programme>
 <programme start="20250730020000 +0000" stop="20250730023000 +0000" channel="multishow"><title>Prêmio Multishow De Humor</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="multishow"><title>Cine Hahaha: Vai Que Cola - O Filme</title></programme>
-<programme start="20250723181000 +0000" stop="20250723183500 +0000" channel="nick-jr-"><title>Barbapapa e Família : T2 - Acampamento de Verão 1; Acampamento de Verão 2</title><desc>Os pais anunciaram aos barbabebês que eles vão fazer uma viagem para a Ilha de Páscoa; os barbabebês, os gêmeos e o Sr. Rigoroso partem a bordo do Thésée, um magnífico veleiro.</desc></programme>
 <programme start="20250723183500 +0000" stop="20250723185500 +0000" channel="nick-jr-"><title>Rubble e Sua Turma : T1 EP2 - A Turma Constrói uma Bicicletaria!; A Turma Constrói uma Superbanheira!</title><desc>Rubble e os filhotes devem construir uma bicicletaria bem grande a tempo do Festival da Bicicleta, mas Turbinado tem outros planos; Motor se nega a tomar um banho para a foto em família e Rubble e os filhotes encontram uma solução construtiva.</desc></programme>
-<programme start="20250723185500 +0000" stop="20250723191000 +0000" channel="nick-jr-"><title>Rubble e Sua Turma : T1 - A Turma Constrói uma Pipocaria!</title></programme>
+<programme start="20250723185500 +0000" stop="20250723191000 +0000" channel="nick-jr-"><title>Rubble e Sua Turma : T1 - A Turma Constrói uma Pipocaria!</title><desc>Rubble e sua turma entram no modo limpeza quando a construção do novo restaurante de pipoca do Senhor Carlos fica fora de controle.</desc></programme>
 <programme start="20250723191000 +0000" stop="20250723193500 +0000" channel="nick-jr-"><title>Rubble e Sua Turma : T1 EP3 - A Turma Constrói uma Sorveteria!; A Turma Conserta um Barulho!</title></programme>
 <programme start="20250723193500 +0000" stop="20250723200500 +0000" channel="nick-jr-"><title>Deer Squad : T2 EP13 - Fim de Jogo; Eternamente Jovem</title></programme>
 <programme start="20250723200500 +0000" stop="20250723203000 +0000" channel="nick-jr-"><title>Deer Squad : T2 EP14 - Pequenos Heróis; Um Rosto no Espaço</title></programme>
@@ -8430,9 +8403,8 @@
 <programme start="20250726015500 +0000" stop="20250726022000 +0000" channel="nickelodeon"><title>Os Padrinhos Mágicos: Um Novo Desejo : T1 EP9 - Achados e Perdidos</title></programme>
 <programme start="20250726022000 +0000" stop="20250726024500 +0000" channel="nickelodeon"><title>O Show do Patrick Estrela : T3 EP5 - Aprendendo a Dirigir; Um Hambúrguer no Tempo</title></programme>
 <programme start="20250726024500 +0000" stop="20250726031500 +0000" channel="nickelodeon"><title>O Show do Patrick Estrela : T3 EP6 - Entrega de Jornal; O Dia dos Peixe Goby</title></programme>
-<programme start="20250723180100 +0000" stop="20250723183000 +0000" channel="off"><title>Julietti: O Chamado Do Monte Roraima</title><desc>No segundo dia do trekking, Juliana, Guilherme e Ben enfrentam desafios críticos que colocal a expedição em risco, exigindo decições difícieis e a superação de seus limites.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723185800 +0000" channel="off"><title>Naufrágios</title><desc>A equipe explora os naufrágios da costa da Carolina do Norte. Eles mergulham no pequeno, porém condecorado navio Spar, afundando intencionalmente.</desc></programme>
-<programme start="20250723185800 +0000" stop="20250723192700 +0000" channel="off"><title>Kaiak</title></programme>
+<programme start="20250723185800 +0000" stop="20250723192700 +0000" channel="off"><title>Kaiak</title><desc>Em Hilo, no Havaí, Pedro Oliva, Ben Stokesberry e Chris Korbulic sobrevoam a Big Island de helicóptero para procurar as cachoeiras.</desc></programme>
 <programme start="20250723192700 +0000" stop="20250723195600 +0000" channel="off"><title>Kaiak</title></programme>
 <programme start="20250723195600 +0000" stop="20250723201400 +0000" channel="off"><title>Off Docs: Init-Y C-Xrw Project (Extreme Skydiving)</title></programme>
 <programme start="20250723201400 +0000" stop="20250723210000 +0000" channel="off"><title>Off Docs: É Capixaba</title></programme>
@@ -9466,9 +9438,8 @@
 <programme start="20250726003000 +0000" stop="20250726010000 +0000" channel="prime-box-brazil"><title>O Baldio Som de Deus</title></programme>
 <programme start="20250726010000 +0000" stop="20250726023500 +0000" channel="prime-box-brazil"><title>Abaixando a Máquina 2 - No Limite da Linha</title></programme>
 <programme start="20250726023500 +0000" stop="20250726030500 +0000" channel="prime-box-brazil"><title>A Princesa</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="record-news"><title>Zapping</title><desc>Acompanhe a revista eletrônica dinâmica e com conteúdo diversificado, que traz reportagens sobre cultura, bastidores da televisão, celebridades, música e moda, além de abordar assuntos de saúde e bem-estar.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723210000 +0000" channel="record-news"><title>Hora News</title><desc>Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</desc><category>Jornalismo</category></programme>
-<programme start="20250723210000 +0000" stop="20250723214500 +0000" channel="record-news"><title>Link Record News</title><category>Jornalismo</category></programme>
+<programme start="20250723210000 +0000" stop="20250723214500 +0000" channel="record-news"><title>Link Record News</title><desc>Acompanhe as principais notícias do dia e participe de forma interativa por meio das redes sociais.</desc><category>Jornalismo</category></programme>
 <programme start="20250723214500 +0000" stop="20250723220000 +0000" channel="record-news"><title>Esporte Record News</title><category>Jornalismo</category></programme>
 <programme start="20250723220000 +0000" stop="20250723224500 +0000" channel="record-news"><title>News 19 Horas</title><category>Jornalismo</category></programme>
 <programme start="20250723224500 +0000" stop="20250723231000 +0000" channel="record-news"><title>Elas com a Bola</title></programme>
@@ -9530,9 +9501,8 @@
 <programme start="20250726010000 +0000" stop="20250726013000 +0000" channel="record-news"><title>News das 10</title><category>Jornalismo</category></programme>
 <programme start="20250726013000 +0000" stop="20250726020000 +0000" channel="record-news"><title>Geek Record News</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="record-news"><title>Joga nas 11</title></programme>
-<programme start="20250723140000 +0000" stop="20250723183000 +0000" channel="record-tv"><title>Balanço Geral</title><desc>Acompanhe reportagens exclusivas, denúncias e prestação de serviços de interesse da população.</desc><category>Jornalismo</category></programme>
 <programme start="20250723183000 +0000" stop="20250723193000 +0000" channel="record-tv"><title>O Rico e Lázaro</title><desc>Inspirada na parábola contada por Jesus aos seus discípulos, a novela conta a história de dois homens que morrem no mesmo dia. Um deles vai para o inferno, o outro para o céu.</desc><category>Religioso</category></programme>
-<programme start="20250723193000 +0000" stop="20250723194500 +0000" channel="record-tv"><title>Cidade Alerta</title><category>Jornalismo</category></programme>
+<programme start="20250723193000 +0000" stop="20250723194500 +0000" channel="record-tv"><title>Cidade Alerta</title><desc>Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc><category>Jornalismo</category></programme>
 <programme start="20250723194500 +0000" stop="20250723195000 +0000" channel="record-tv"><title>Jornal da Record - 24h</title><category>Jornalismo</category></programme>
 <programme start="20250723195000 +0000" stop="20250723200000 +0000" channel="record-tv"><title>Cidade Alerta</title><category>Jornalismo</category></programme>
 <programme start="20250723200000 +0000" stop="20250723200500 +0000" channel="record-tv"><title>Jornal da Record - 24h</title><category>Jornalismo</category></programme>
@@ -9683,9 +9653,8 @@
 <programme start="20250726000000 +0000" stop="20250726010000 +0000" channel="rede-brasil"><title>O Túnel do Tempo</title></programme>
 <programme start="20250726010000 +0000" stop="20250726020000 +0000" channel="rede-brasil"><title>Perdidos no Espaço</title></programme>
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="rede-brasil"><title>Arquivo X</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="rede-familia"><title>Família Kids</title><desc>As suas manhãs ficam mais divertidas com o programa que reúne vários desenhos animados. Muita alegria para os pequenos.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723193000 +0000" channel="rede-familia"><title>Reis</title><desc>A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc><category>Religioso</category></programme>
-<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="rede-familia"><title>Jesus</title><category>Religioso</category></programme>
+<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="rede-familia"><title>Jesus</title><desc>Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.</desc><category>Religioso</category></programme>
 <programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="rede-familia"><title>Alerta Total</title><category>Jornalismo</category></programme>
 <programme start="20250723220000 +0000" stop="20250723230000 +0000" channel="rede-familia"><title>RF News</title><category>Jornalismo</category></programme>
 <programme start="20250723230000 +0000" stop="20250723233000 +0000" channel="rede-familia"><title>Ligados no Esporte</title><category>Jornalismo</category></programme>
@@ -9735,9 +9704,8 @@
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="rede-familia"><title>Brasil Afora</title></programme>
 <programme start="20250726023000 +0000" stop="20250726024500 +0000" channel="rede-familia"><title>Programa Pago</title></programme>
 <programme start="20250726024500 +0000" stop="20250726031500 +0000" channel="rede-familia"><title>Programa Pago</title></programme>
-<programme start="20250723173000 +0000" stop="20250723183000 +0000" channel="rede-gospel"><title>Tudo De Bom Pra Você</title><desc>Keila Lima recebe convidados e fala sobre comportamento, serviço, moda, gastronomia, atualidades e prestação de serviço.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723193000 +0000" channel="rede-gospel"><title>Clip Gospel</title><desc>Pioneiro no gênero de clipes no cenário Gospel nacional e internacional, o programa traz muita interatividade nas mídias sociais.</desc></programme>
-<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="rede-gospel"><title>Jornal da Marcha</title></programme>
+<programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="rede-gospel"><title>Jornal da Marcha</title><desc>Bispo Lalá e Karen Chrisostomo comandam um bate papo descontraído sobre o maior evento cristão do mundo, a Marcha para Jesus. São 30 anos de uma história que se multiplica dentro e fora do País.</desc></programme>
 <programme start="20250723200000 +0000" stop="20250723203000 +0000" channel="rede-gospel"><title>Palavra Do Dia Com Apóstolo Estevam</title></programme>
 <programme start="20250723203000 +0000" stop="20250723210000 +0000" channel="rede-gospel"><title>Escola de Profetas</title></programme>
 <programme start="20250723210000 +0000" stop="20250723210500 +0000" channel="rede-gospel"><title>Oração da Fé</title></programme>
@@ -10119,9 +10087,8 @@
 <programme start="20250726020000 +0000" stop="20250726022500 +0000" channel="rede-vida"><title>Jornal da Vida</title><category>Jornalismo</category></programme>
 <programme start="20250726022500 +0000" stop="20250726023000 +0000" channel="rede-vida"><title>Vida Esportiva</title></programme>
 <programme start="20250726023000 +0000" stop="20250726030000 +0000" channel="rede-vida"><title>JCTV - Edição da Noite</title><category>Jornalismo</category></programme>
-<programme start="20250723173000 +0000" stop="20250723183000 +0000" channel="sbt"><title>A Usurpadora</title><desc>Isabel conversa seriamente com Carlos Daniel e tenta fazê-lo entender que só a está pedindo em casamento para tentar esquecer Paulina e propõe a ele que só volte a lhe falar em casamento quando estiver certo de seus sentim...</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723200000 +0000" channel="sbt"><title>Fofocalizando</title><desc>Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc></programme>
-<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="sbt"><title>A Caverna Encantada</title></programme>
+<programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="sbt"><title>A Caverna Encantada</title><desc>Após briga, Pedro e Senor usam a &quot;camiseta da vergonha&quot; -uma única peça de roupa gigante que ambos vestem ao mesmo tempo.</desc></programme>
 <programme start="20250723210000 +0000" stop="20250723213000 +0000" channel="sbt"><title>Chaves</title></programme>
 <programme start="20250723213000 +0000" stop="20250723224500 +0000" channel="sbt"><title>Tá Na Hora</title></programme>
 <programme start="20250723224500 +0000" stop="20250724000000 +0000" channel="sbt"><title>SBT Brasil</title></programme>
@@ -10239,9 +10206,8 @@
 <programme start="20250729233000 +0000" stop="20250730001500 +0000" channel="sbt"><title>As Filhas da Senhora Garcia</title></programme>
 <programme start="20250730001500 +0000" stop="20250730021500 +0000" channel="sbt"><title>Programação do Canal</title></programme>
 <programme start="20250730021500 +0000" stop="20250730024500 +0000" channel="sbt"><title>Programa do Ratinho</title></programme>
-<programme start="20250723180900 +0000" stop="20250723183900 +0000" channel="sony"><title>The Nanny : T6 EP12 - The Fran in the Mirror</title><desc>Um colega de Maxwell engana Fran e ela perde um milhão de dólares depois de investir sem consultar Maxwell; Niles herda um título real.</desc></programme>
 <programme start="20250723183900 +0000" stop="20250723190900 +0000" channel="sony"><title>The Nanny : T6 EP13 - The Yummy Mummy</title><desc>Reynolds conta a Fran que ela e Maxwell vão ter gêmeos; Brighton deixa claro que prefere que Fran não conviva com os amigos dele e isso a deixa arrasada; Lynn Redgrave dá conselhos a Fran.</desc></programme>
-<programme start="20250723190900 +0000" stop="20250723200400 +0000" channel="sony"><title>The Good Doctor : T5 EP8 - Rebellion</title></programme>
+<programme start="20250723190900 +0000" stop="20250723200400 +0000" channel="sony"><title>The Good Doctor : T5 EP8 - Rebellion</title><desc>Shaun é forçado a confrontar Lea sobre o relacionamento e determinar o que ele realmente significa para ela; a equipe debate suas opiniões sobre cirurgia plástica.</desc></programme>
 <programme start="20250723200400 +0000" stop="20250723210000 +0000" channel="sony"><title>The Good Doctor : T5 EP9 - Yippee Ki-Yay</title></programme>
 <programme start="20250723210000 +0000" stop="20250723224400 +0000" channel="sony"><title>Kung Fusão</title></programme>
 <programme start="20250723224400 +0000" stop="20250724001900 +0000" channel="sony"><title>A Hora do Rush 3</title></programme>
@@ -10550,9 +10516,8 @@
 <programme start="20250729170000 +0000" stop="20250729210000 +0000" channel="sportv-2"><title>Programação sportv</title></programme>
 <programme start="20250729210000 +0000" stop="20250730010000 +0000" channel="sportv-2"><title>Programação sportv</title></programme>
 <programme start="20250730010000 +0000" stop="20250730013000 +0000" channel="sportv-2"><title>Programação sportv</title></programme>
-<programme start="20250723153500 +0000" stop="20250723182500 +0000" channel="sportv-3"><title>Faixa Combate: PFL Mena</title><desc>PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc></programme>
 <programme start="20250723182500 +0000" stop="20250723221500 +0000" channel="sportv-3"><title>Faixa Combate: PFL Europe</title><desc>PFL é a liga esportiva mais inovadora e de crescimento mais rápido.</desc></programme>
-<programme start="20250723221500 +0000" stop="20250723222500 +0000" channel="sportv-3"><title>Galeria sportv</title></programme>
+<programme start="20250723221500 +0000" stop="20250723222500 +0000" channel="sportv-3"><title>Galeria sportv</title><desc>Mini-programa com os principais destaques da programação do SporTV.</desc></programme>
 <programme start="20250723222500 +0000" stop="20250723225500 +0000" channel="sportv-3"><title>Faixa Combate: Baú Do Combate: Allycia Hellen</title></programme>
 <programme start="20250723225500 +0000" stop="20250724000000 +0000" channel="sportv-3"><title>Circuito Mundial De Tênis De Mesa: Classificatória - Buenos …</title></programme>
 <programme start="20250724000000 +0000" stop="20250724010000 +0000" channel="sportv-3"><title>Circuito Mundial De Tênis De Mesa: Classificatória - Buenos …</title></programme>
@@ -11161,9 +11126,8 @@
 <programme start="20250725231500 +0000" stop="20250726010000 +0000" channel="telecine-premium"><title>Noivo à Indiana</title></programme>
 <programme start="20250726010000 +0000" stop="20250726025000 +0000" channel="telecine-premium"><title>O Corvo</title></programme>
 <programme start="20250726025000 +0000" stop="20250726032000 +0000" channel="telecine-premium"><title>A Luz do Demônio</title></programme>
-<programme start="20250723162000 +0000" stop="20250723183000 +0000" channel="telecine-touch"><title>Um Lugar Chamado Notting Hill</title><desc>Will é um pacato dono de um livraria especializada em guias de viagem, em Londres. Sua rotina tranquila vira de pernas para o ar quando ele recebe uma visita especial: a estrela de cinema estadunidense Anna Scott, por quem se apaixona.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723205000 +0000" channel="telecine-touch"><title>Creed II</title><desc>Adonis enfrenta o maior desafio de sua vida: um inimigo que está ligado ao passado de sua família. Ao lado de Rocky Balboa, eles enfrentam o passado para descobrir por que vale a pena lutar.</desc></programme>
-<programme start="20250723205000 +0000" stop="20250723205500 +0000" channel="telecine-touch"><title>Preview</title></programme>
+<programme start="20250723205000 +0000" stop="20250723205500 +0000" channel="telecine-touch"><title>Preview</title><desc>Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema.</desc></programme>
 <programme start="20250723205500 +0000" stop="20250723225000 +0000" channel="telecine-touch"><title>Loucas pra Casar</title></programme>
 <programme start="20250723225000 +0000" stop="20250724010000 +0000" channel="telecine-touch"><title>Crepúsculo</title></programme>
 <programme start="20250724010000 +0000" stop="20250724013000 +0000" channel="telecine-touch"><title>Coach Carter - Treino para a Vida</title></programme>
@@ -11392,9 +11356,8 @@
 <programme start="20250726000900 +0000" stop="20250726023000 +0000" channel="tnt"><title>Harry Potter e a Ordem da Fênix</title></programme>
 <programme start="20250726023000 +0000" stop="20250726025500 +0000" channel="tnt"><title>Todo Mundo Odeia o Chris : T4 EP20 - Todo Mundo Odeia A Tasha</title></programme>
 <programme start="20250726025500 +0000" stop="20250726032500 +0000" channel="tnt"><title>Todo Mundo Odeia o Chris : T4 EP17 - Todo Mundo Odeia as Férias de Primavera</title></programme>
-<programme start="20250723173600 +0000" stop="20250723183200 +0000" channel="tnt-novelas"><title>A Promessa</title><desc>Um jantar é organizado para aproximar Leonor do filho de um marquês. Lope está prestes a ir embora, mas Pía e Rómulo têm um plano para fazê-lo ficar.</desc></programme>
 <programme start="20250723183200 +0000" stop="20250723191600 +0000" channel="tnt-novelas"><title>O Canto do Pássaro</title><desc>Zerrin esconde segredos. O passado assombra Halis Agha. Seyran e Ferit se aproximam. Fuat e Asuman compartilham sua decisão de adotar.</desc></programme>
-<programme start="20250723191600 +0000" stop="20250723200400 +0000" channel="tnt-novelas"><title>O Canto do Pássaro</title></programme>
+<programme start="20250723191600 +0000" stop="20250723200400 +0000" channel="tnt-novelas"><title>O Canto do Pássaro</title><desc>A noite especial planejada por Seyran e Ferit acaba em briga. Gülgün recebe a visita de Zerrin, que dá a entender suas intenções.</desc></programme>
 <programme start="20250723200400 +0000" stop="20250723204600 +0000" channel="tnt-novelas"><title>Esqueça-me Se Puder</title></programme>
 <programme start="20250723204600 +0000" stop="20250723213200 +0000" channel="tnt-novelas"><title>Esqueça-me Se Puder</title></programme>
 <programme start="20250723213200 +0000" stop="20250723221900 +0000" channel="tnt-novelas"><title>Bahar</title></programme>
@@ -11620,10 +11583,8 @@
 <programme start="20250726004700 +0000" stop="20250726013000 +0000" channel="tnt-series"><title>The Mentalist : T3 EP18 - The Red Mile</title></programme>
 <programme start="20250726013000 +0000" stop="20250726021400 +0000" channel="tnt-series"><title>The Mentalist : T3 EP8 - Ball of Fire</title></programme>
 <programme start="20250726021400 +0000" stop="20250726024400 +0000" channel="tnt-series"><title>The Mentalist : T3 EP9 - Red Moon</title></programme>
-<programme start="20250723180500 +0000" stop="20250723182800 +0000" channel="tooncast"><title>ThunderCats</title><desc>Lion deve vencer Cheetara em uma corrida para passar na segunda prova.</desc></programme>
-<programme start="20250723182800 +0000" stop="20250723183800 +0000" channel="tooncast"><title>Corrida Maluca : T1 - Grande Prêmio Vale Tudo</title><desc>Penélope Charmosa está sempre em apuros. E desta vez Dick Vigarista acredita ter o plano perfeito para impedi-la de chegar em primeiro lugar: criar um salão de beleza na beira da estrada para atraí-la e fazê-la parar.</desc></programme>
-<programme start="20250723183800 +0000" stop="20250723185000 +0000" channel="tooncast"><title>Corrida Maluca : T1 - Grande Prêmio Yellow Rock</title></programme>
-<programme start="20250723185000 +0000" stop="20250723191600 +0000" channel="tooncast"><title>Os Flintstones : T1 EP23 - Dois Sujeitos Aéreos</title></programme>
+<programme start="20250723183800 +0000" stop="20250723185000 +0000" channel="tooncast"><title>Corrida Maluca : T1 - Grande Prêmio Yellow Rock</title><desc>Dick Vigarista tenta enganar os outros corredores e disfarça um gêiser como parte da estrada.</desc></programme>
+<programme start="20250723185000 +0000" stop="20250723191600 +0000" channel="tooncast"><title>Os Flintstones : T1 EP23 - Dois Sujeitos Aéreos</title><desc>Pensando que vão ser avaliados para uma competição de fitness, Barney e Fred acabam se alistando sem querer em um programa de três anos no exército. E, com essa confusão, acabam se tornando voluntários para levar a primeira espaçonave até a Lua.</desc></programme>
 <programme start="20250723191600 +0000" stop="20250723194100 +0000" channel="tooncast"><title>Os Flintstones : T3 EP19 - A Surpresa</title></programme>
 <programme start="20250723194100 +0000" stop="20250723200400 +0000" channel="tooncast"><title>Os Jetsons : T2 EP1 - O Novo Amigo de Elroy</title></programme>
 <programme start="20250723200400 +0000" stop="20250723203000 +0000" channel="tooncast"><title>Os Jetsons : T1 EP10 - O Uniblab</title></programme>
@@ -12238,9 +12199,8 @@
 <programme start="20250730014500 +0000" stop="20250730021500 +0000" channel="travel-box-brasil"><title>Sotaques - a Bossa da Língua Portuguesa No Brasil</title></programme>
 <programme start="20250730021500 +0000" stop="20250730024500 +0000" channel="travel-box-brasil"><title>Vibe de Dois</title></programme>
 <programme start="20250730024500 +0000" stop="20250730031500 +0000" channel="travel-box-brasil"><title>Travel Shots</title></programme>
-<programme start="20250723180500 +0000" stop="20250723182900 +0000" channel="trutv"><title>Haikyu!! : T2 EP17 - A Disputa sem Garra</title><desc>As duas equipes dão tudo de si no segundo dia das eliminatórias; com a lesão de Sawamura, o Karasuno precisa encontrar um substituto.</desc></programme>
 <programme start="20250723182900 +0000" stop="20250723185500 +0000" channel="trutv"><title>Dragon Ball Z : T1 EP261 - Gotenks Is Awesome</title><desc>Determinado a vingar a família e os amigos, Super Saiyan 3 Gotenks ataca implacavelmente Buu.</desc></programme>
-<programme start="20250723185500 +0000" stop="20250723191900 +0000" channel="trutv"><title>Dragon Ball Z : T1 EP262 - Unlucky Break</title></programme>
+<programme start="20250723185500 +0000" stop="20250723191900 +0000" channel="trutv"><title>Dragon Ball Z : T1 EP262 - Unlucky Break</title><desc>Antes do ataque final de Gotenks contra Buu, a fusão acaba, deixando Trunks e Goten vulneráveis.</desc></programme>
 <programme start="20250723191900 +0000" stop="20250723194200 +0000" channel="trutv"><title>Naruto : T5 EP37 - A Partida</title></programme>
 <programme start="20250723194200 +0000" stop="20250723200700 +0000" channel="trutv"><title>Naruto : T4 EP23 - Tarde Demais para Ajudar</title></programme>
 <programme start="20250723200700 +0000" stop="20250723203200 +0000" channel="trutv"><title>One Piece : T1 EP15 - Derrotem Kuro! A Determinação Sofrida de Usopp</title></programme>
@@ -12390,9 +12350,8 @@
 <programme start="20250726020100 +0000" stop="20250726022800 +0000" channel="trutv"><title>Tom Tem Dez Anos : T2 EP10 - Lar Doce Cancún; Lar Doce Cancún, Parte Dois</title></programme>
 <programme start="20250726022800 +0000" stop="20250726025000 +0000" channel="trutv"><title>Rick &amp; Morty : T3 EP8 - Pulverizadores de Mente do Morty</title></programme>
 <programme start="20250726025000 +0000" stop="20250726032000 +0000" channel="trutv"><title>Lazarus : T1 EP6 - O Paraíso Fica na Terra</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="tv-aparecida"><title>Basílica Histórica de Nossa Senhora Aparecida : Visita ao Santíssimo e Consagração</title><desc>Eventos religiosos direto da Basílica Histórica em Aparecida do Norte, São Paulo.</desc><category>Religioso</category></programme>
 <programme start="20250723183000 +0000" stop="20250723194500 +0000" channel="tv-aparecida"><title>Viva a Tarde</title><desc>Mix de informação e entretenimento, combinando notícias, dicas e assuntos variados em formato descontraído. Com apresentação alegre e credível, aborda temas relevantes para todos os membros da família.</desc></programme>
-<programme start="20250723194500 +0000" stop="20250723205000 +0000" channel="tv-aparecida"><title>TJ Aparecida</title><category>Religioso</category></programme>
+<programme start="20250723194500 +0000" stop="20250723205000 +0000" channel="tv-aparecida"><title>TJ Aparecida</title><desc>Acompanhe as principais notícias da igreja, do Brasil e do mundo.</desc><category>Religioso</category></programme>
 <programme start="20250723205000 +0000" stop="20250723205500 +0000" channel="tv-aparecida"><title>Escola de Maria</title><category>Religioso</category></programme>
 <programme start="20250723205500 +0000" stop="20250723210000 +0000" channel="tv-aparecida"><title>Mensagem de Fé</title><category>Religioso</category></programme>
 <programme start="20250723210000 +0000" stop="20250723220000 +0000" channel="tv-aparecida"><title>Basílica Histórica de Nossa Senhora Aparecida : Missa</title><category>Religioso</category></programme>
@@ -12469,9 +12428,8 @@
 <programme start="20250726022000 +0000" stop="20250726022500 +0000" channel="tv-aparecida"><title>Escola de Maria</title><category>Religioso</category></programme>
 <programme start="20250726022500 +0000" stop="20250726023000 +0000" channel="tv-aparecida"><title>Mensagem de Fé</title><category>Religioso</category></programme>
 <programme start="20250726023000 +0000" stop="20250726030000 +0000" channel="tv-aparecida"><title>Medalhão.com</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="tv-brasil"><title>Meu Pedaço do Brasil</title><desc>Bruno Barros descobre e experimenta novos destinos turísticos do nosso país. As viagens levam o espectador para lindas praias, importantes museus e outras atrações imperdíveis do Brasil, com conversas descontraídas com moradores locais.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723190000 +0000" channel="tv-brasil"><title>Expedições</title><desc>O programa leva o público a viajar por lugares espetaculares do Brasil.</desc></programme>
-<programme start="20250723190000 +0000" stop="20250723210000 +0000" channel="tv-brasil"><title>Sem Censura</title></programme>
+<programme start="20250723190000 +0000" stop="20250723210000 +0000" channel="tv-brasil"><title>Sem Censura</title><desc>Informações sobre o que acontece no Brasil e no mundo, em diferentes áreas da atividade humana. Entrevistados e debatedores trazem visões distintas sobre diferentes assuntos, inclusive com participação dos telespectadores.</desc></programme>
 <programme start="20250723210000 +0000" stop="20250723213000 +0000" channel="tv-brasil"><title>Brasil Visto de Cima : T2 EP18 - Capital da Qualidade de Vida: Aracaju - Sergipe</title></programme>
 <programme start="20250723213000 +0000" stop="20250723220000 +0000" channel="tv-brasil"><title>Stadium</title><category>Reportagem</category></programme>
 <programme start="20250723220000 +0000" stop="20250723230000 +0000" channel="tv-brasil"><title>Repórter Brasil</title><category>Jornalismo</category></programme>
@@ -12647,9 +12605,8 @@
 <programme start="20250726020000 +0000" stop="20250726023000 +0000" channel="tv-camara"><title>Câmara Debate</title></programme>
 <programme start="20250726023000 +0000" stop="20250726024500 +0000" channel="tv-camara"><title>Palavra Aberta</title></programme>
 <programme start="20250726024500 +0000" stop="20250726031500 +0000" channel="tv-camara"><title>Palavra Aberta</title></programme>
-<programme start="20250723181500 +0000" stop="20250723183000 +0000" channel="tv-cultura"><title>Bluey : Meninas Selvagens; Críquete</title><desc>As aventuras de Bluey, uma filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todos os tipos de situações divertidas e imprevisíveis.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723184500 +0000" channel="tv-cultura"><title>44 Gatos : T1 EP4 - As Armadilhas</title><desc>O jardim de Winston, o vizinho nada amigável da Vovó Pina, está repleto de armadilhas traiçoeiras para gatos. Desastrado como sempre, Almôndega cai no jardim e os Buffycats precisam enfrentar vários obstáculos complicados para resgatá-lo.</desc></programme>
-<programme start="20250723184500 +0000" stop="20250723190000 +0000" channel="tv-cultura"><title>O Show da Luna! : T3 EP8 - Dentro ou Fora?</title></programme>
+<programme start="20250723184500 +0000" stop="20250723190000 +0000" channel="tv-cultura"><title>O Show da Luna! : T3 EP8 - Dentro ou Fora?</title><desc>Luna, Júpiter e Cláudio debatem se estamos vivendo dentro ou fora do globo terrestre. Depois de consultar livros de Galileu, eles decidem fazer uma viagem espacial para procurar as respostas.</desc></programme>
 <programme start="20250723190000 +0000" stop="20250723191500 +0000" channel="tv-cultura"><title>O Extraordinário Circo do Bipo : O Circo Chegou</title></programme>
 <programme start="20250723191500 +0000" stop="20250723192500 +0000" channel="tv-cultura"><title>Turma da Mônica : A Cozinha Já Não É um Lugar Seguro</title></programme>
 <programme start="20250723192500 +0000" stop="20250723193000 +0000" channel="tv-cultura"><title>Turma da Mônica : A Máquina de Lavar Mal-Assombrada</title></programme>
@@ -12761,9 +12718,8 @@
 <programme start="20250725210000 +0000" stop="20250725220000 +0000" channel="tv-gazeta"><title>Gazeta Esportiva</title></programme>
 <programme start="20250725220000 +0000" stop="20250725230000 +0000" channel="tv-gazeta"><title>Jornal da Gazeta</title><category>Jornalismo</category></programme>
 <programme start="20250725230000 +0000" stop="20250725233000 +0000" channel="tv-gazeta"><title>Igreja Universal do Reino de Deus</title><category>Religioso</category></programme>
-<programme start="20250723182000 +0000" stop="20250723183000 +0000" channel="tv-ra-tim-bum"><title>Eu e o Quarteto Apavorante : T2 EP4 - Estilo Macarrão de Ser</title><desc>Macarrão e Cueca ganham uma nova amiga, Melvis, que também gosta de rock n&apos;roll. Seu Gregório e os fantasmas do Quarteto Apavorante continuam dando aulas de música para o Macarrão, que toca guitarra cada vez melhor.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723184000 +0000" channel="tv-ra-tim-bum"><title>Traçando Arte : T3 EP12 - A Casa do Batman</title><desc>Jean Pierre e Trácio se perdem do Museu onde moram e vão conhecer a arte do grafite em São Paulo com a ajuda de Treta, uma traça das ruas. Eles viverão muitas aventuras enquanto procuram o caminho de volta para casa.</desc></programme>
-<programme start="20250723184000 +0000" stop="20250723190000 +0000" channel="tv-ra-tim-bum"><title>Pratinho da Iaiá</title></programme>
+<programme start="20250723184000 +0000" stop="20250723190000 +0000" channel="tv-ra-tim-bum"><title>Pratinho da Iaiá</title><desc>O programa mistura culinária e música na mesma panela de um jeito nunca saboreado. A alquimista Iaiá recebe crianças do mundo real em sua cozinha mágica, e ali preparam receitas que vão muito além do cozinhar.</desc></programme>
 <programme start="20250723190000 +0000" stop="20250723193000 +0000" channel="tv-ra-tim-bum"><title>Cocoricó : T2 EP2 - Um, Dois, Três e... Jáááááá</title></programme>
 <programme start="20250723193000 +0000" stop="20250723200000 +0000" channel="tv-ra-tim-bum"><title>Baú de Histórias : T3 EP3 - Ópera</title></programme>
 <programme start="20250723200000 +0000" stop="20250723201000 +0000" channel="tv-ra-tim-bum"><title>Quintal no Museu : Museu da Língua Portuguesa</title></programme>
@@ -13224,9 +13180,8 @@
 <programme start="20250730003000 +0000" stop="20250730012000 +0000" channel="universal-tv"><title>Law &amp; Order: Svu</title></programme>
 <programme start="20250730012000 +0000" stop="20250730021000 +0000" channel="universal-tv"><title>Law &amp; Order</title></programme>
 <programme start="20250730021000 +0000" stop="20250730024000 +0000" channel="universal-tv"><title>Family Law</title></programme>
-<programme start="20250723174000 +0000" stop="20250723183400 +0000" channel="viva"><title>Caras &amp; Bocas</title><desc>Dafne e Gabriel têm seus caminhos cruzados novamente, 15 anos após serem separados por uma armação do avô dela. A reaproximação, porém, põe em risco os planos da megera Judith.</desc></programme>
 <programme start="20250723183400 +0000" stop="20250723192200 +0000" channel="viva"><title>Além do Tempo</title><desc>Além do Tempo conta a história de amor entre Lívia e Felipe. Almas gêmeas e vidas do século XIX se reencontram 150 anos depois e podem corrigir antigos erros.</desc></programme>
-<programme start="20250723192200 +0000" stop="20250723201600 +0000" channel="viva"><title>Guerreiros Do Sol</title></programme>
+<programme start="20250723192200 +0000" stop="20250723201600 +0000" channel="viva"><title>Guerreiros Do Sol</title><desc>Abiel tenta prender Rosa, Petúnia e Otília, que conseguem fugir com Dona Guilhermina e as meninas. Rosendo é observado por Natanael e Pente fino enquanto faz compras para o bando.</desc></programme>
 <programme start="20250723201600 +0000" stop="20250723210300 +0000" channel="viva"><title>Hercai: Amor E Vingança</title></programme>
 <programme start="20250723210300 +0000" stop="20250723213300 +0000" channel="viva"><title>As Crianças Que Amamos</title></programme>
 <programme start="20250723213300 +0000" stop="20250723222400 +0000" channel="viva"><title>Quatro Por Quatro</title></programme>
@@ -13411,9 +13366,8 @@
 <programme start="20250730004500 +0000" stop="20250730014000 +0000" channel="viva"><title>Hercai: Amor E Vingança</title></programme>
 <programme start="20250730014000 +0000" stop="20250730023000 +0000" channel="viva"><title>Guerreiros Do Sol</title></programme>
 <programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="viva"><title>Celebridade</title></programme>
-<programme start="20250723181700 +0000" stop="20250723183800 +0000" channel="warner"><title>Two and a Half Men : T7 EP7 - Untainted by Filth</title><desc>Alan e Charlie saem para celebrar, já que os dois irmãos, confusos, acordam juntos na mesma cama com uma mulher desconhecida.</desc></programme>
 <programme start="20250723183800 +0000" stop="20250723190200 +0000" channel="warner"><title>Two and a Half Men : T7 EP8 - Gorp. Fnark. Schmegle.</title><desc>Chelsea convida sua atraente colega de quarto para ficar na casa enquanto ela supera o fim da relação. Charlie fica empolgado com isso.</desc></programme>
-<programme start="20250723190200 +0000" stop="20250723192600 +0000" channel="warner"><title>Two and a Half Men : T7 EP9 - Captain Terry&apos;s Spray-On Hair</title></programme>
+<programme start="20250723190200 +0000" stop="20250723192600 +0000" channel="warner"><title>Two and a Half Men : T7 EP9 - Captain Terry&apos;s Spray-On Hair</title><desc>Charlie descobre que não está satisfazendo Chelsea; Alan tenta curar sua queda de cabelo sem gastar muito dinheiro.</desc></programme>
 <programme start="20250723192600 +0000" stop="20250723194900 +0000" channel="warner"><title>Two and a Half Men : T7 EP10 - That&apos;s Why They Call It Ball Room</title></programme>
 <programme start="20250723194900 +0000" stop="20250723201900 +0000" channel="warner"><title>Cobra Kai : T2 EP7 - Trégua</title></programme>
 <programme start="20250723201900 +0000" stop="20250723210400 +0000" channel="warner"><title>The Vampire Diaries : T2 EP11 - By the Light of the Moon</title></programme>
@@ -13542,9 +13496,8 @@
 <programme start="20250726015400 +0000" stop="20250726021600 +0000" channel="warner"><title>Two and a Half Men : T7 EP18 - Ixnay on the Oggie Day</title></programme>
 <programme start="20250726021600 +0000" stop="20250726023600 +0000" channel="warner"><title>Two and a Half Men : T7 EP19 - Keith Moon Is Vomiting in His Grave</title></programme>
 <programme start="20250726023600 +0000" stop="20250726030600 +0000" channel="warner"><title>Two and a Half Men : T7 EP20 - I Called Him Magoo</title></programme>
-<programme start="20250723180000 +0000" stop="20250723183000 +0000" channel="woohoo"><title>Eu Mega Recomendo</title><desc>Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc></programme>
 <programme start="20250723183000 +0000" stop="20250723184500 +0000" channel="woohoo"><title>Vanlife</title><desc>Vander Amaral sai com sua van motorhome pelo Candá e Estados Unidos, em busca de esportes radicais.</desc></programme>
-<programme start="20250723184500 +0000" stop="20250723191500 +0000" channel="woohoo"><title>Free&apos;das</title></programme>
+<programme start="20250723184500 +0000" stop="20250723191500 +0000" channel="woohoo"><title>Free&apos;das</title><desc>O programa de comportamento que, sob a ótica feminina, debate diversos assuntos pertinentes ao mundo contemporâneo.</desc></programme>
 <programme start="20250723191500 +0000" stop="20250723191900 +0000" channel="woohoo"><title>Surf Kidz</title></programme>
 <programme start="20250723191900 +0000" stop="20250723192300 +0000" channel="woohoo"><title>Free Surf</title></programme>
 <programme start="20250723192300 +0000" stop="20250723192500 +0000" channel="woohoo"><title>Queue Staff Picks</title></programme>
